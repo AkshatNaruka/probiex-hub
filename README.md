@@ -8,4 +8,4 @@ Store: https://probiex.gumroad.com
 - `okf/*.md` — one page per product, YAML-frontmattered
 - `index.html` — hosted catalog with Organization/ItemList/FAQPage schema
 
-Prices live on the product pages; paid products carry a 30-day money-back guarantee.
+Prices live on the product pages.

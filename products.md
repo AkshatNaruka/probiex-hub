@@ -7,7 +7,7 @@ description: catalog of 30+ practical systems for solo founders, indie hackers, 
 
 Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 30 products, each shippable the week you buy it.
 
-Prices are shown on each product page; all paid products carry a 30-day money-back guarantee.
+Prices are shown on each product page.
 
 ## AI & PROMPTS
 
