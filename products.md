@@ -117,6 +117,58 @@ The operating spec for an AI resume tool: a weighted scoring rubric, prompt chai
 
 **Can I use it to audit an existing tool?** Yes — QA-on-a-vendor is one of the three declared use cases.
 
+### The ATS Resume Pack
+
+- url: https://probiex.gumroad.com/l/ats-resume-pack
+- category: CAREER & TEACHING
+- format: 6 DOCX MASTERS
+- audience: Freelancers and solo operators applying to full-time or contract roles.
+
+Six worked-example resumes as DOCX masters, each single-column with standard headings, built to survive how applicant tracking systems parse documents.
+
+**What do I get, and in what format?** A ZIP with the six .docx masters and their markdown sources, plus the PDF guide.
+
+**Are the example people real?** No — every person, company, and number is a realistic fiction, clearly labeled, so you see a complete resume before you swap in your own.
+
+### The Course Builder for Notion
+
+- url: https://probiex.gumroad.com/l/course-curriculum-builder
+- category: CAREER & TEACHING
+- format: NOTION · COURSE
+- audience: Solo experts turning their craft into a first paid course or cohort.
+
+A Notion course-architecture system: outcome gates per module, lessons with script and recording status, and a feedback table that gates what ships.
+
+**What do I get, and in what format?** A ZIP with the schema spec, a 12-row lesson-planner seed CSV, and a workspace README, plus a PDF guide.
+
+**Does it cover hosting or sales pages?** No — this is the architecture and production system; it ends at a recorded, published lesson library.
+
+### The Job-Search OS for Notion
+
+- url: https://probiex.gumroad.com/l/job-search-os
+- category: CAREER & TEACHING
+- format: NOTION · SEARCH
+- audience: Freelancers between contracts and solo operators running a full-time or contract search.
+
+A Notion job-search system: applications, contacts, follow-up dates, and offer math, built to run a search like a sales campaign.
+
+**What do I get, and in what format?** A ZIP with the schema spec, a 14-row seed CSV for the application tracker, and a workspace README, plus a PDF guide.
+
+**Does it tell me what to say in follow-ups?** The system tracks who and when; the guide's cadence section covers the timing logic. For wording, pair it with the Cold Outreach Reply Pack.
+
+### The Pitch Deck Builder
+
+- url: https://probiex.gumroad.com/l/pitch-deck-builder
+- category: CAREER & TEACHING
+- format: 16 SLIDES + PPTX
+- audience: Solo founders at pre-seed and seed raising a first round.
+
+A 16-slide PPTX deck template with a worked seed-stage example, speaker notes, and a walkthrough that answers one investor question per slide.
+
+**What do I get, and in what format?** The .pptx deck plus a ZIP with the slide content spec, and the PDF walkthrough guide.
+
+**Is the example company real?** No — Harborline is a fictional freight-booking SaaS, so every headline and chart shows filled-in copy you replace block by block.
+
 ## FINANCE
 
 ### Break-Even CAC Calculator
@@ -210,6 +262,99 @@ A 13-sheet XLSX dashboard that computes the ten SaaS survival metrics — MRR, L
 
 **Does it need Stripe or analytics integrations?** No — paste six numbers on Monday morning; the math runs in the workbook.
 
+## OPERATIONS
+
+### Freelance Client Portal for Notion
+
+- url: https://probiex.gumroad.com/l/client-portal-os
+- category: OPERATIONS
+- format: NOTION · PORTAL
+- audience: Freelancers and solo operators juggling 3 to 8 clients over email and Slack.
+
+A Notion build spec for a client-facing portal: deliverables, milestones, approvals, and a decision log clients can check themselves.
+
+**What do I get, and in what format?** A ZIP with the schema spec, a seed CSV you can import, and a workspace README, plus a PDF guide with the one-session build order.
+
+**Do I need a paid Notion plan?** No — the build works on the free plan; guest sharing works within Notion's normal guest limits.
+
+### Founder Anti-Burnout Weekly System
+
+- url: https://probiex.gumroad.com/l/founder-anti-burnout-system
+- category: OPERATIONS
+- format: 15H/WEEK
+- audience: Indie founders stuck in the build-solo loop.
+
+A weekly cadence system for indie founders: fixed outreach/build/review blocks, a 10-conversations rule, and energy rules that prevent the 60-hour spiral.
+
+**What do I get, and in what format?** The system (PDF) — cadence, rules, and the check-in template.
+
+**How many hours per week does it ask?** About 15 focused hours — the cadence is built around evenings and weekends.
+
+### The Indie Hacker OS
+
+- url: https://probiex.gumroad.com/l/indie-hacker-os
+- category: OPERATIONS
+- format: 6 DATABASES
+- audience: Solo developers building digital products.
+
+A six-database Notion OS for indie builders: idea scoring, project tracking, revenue math, audience stats, a learning log, and a weekly ops dashboard.
+
+**What do I get, and in what format?** The Notion template (duplicate-to-use) plus setup documentation.
+
+**How long until it's usable?** About 15 minutes — duplicate, connect what you use, run.
+
+### Notion Meeting OS
+
+- url: https://probiex.gumroad.com/l/meeting-os
+- category: OPERATIONS
+- format: NOTION · MEETINGS
+- audience: Solo founders and freelancers whose meetings with clients, leads, and contractors produce notes but no follow-through.
+
+A Notion meeting system: notes, decisions, and owner-assigned actions, with a 15-minute Friday review that closes every loop the week opened.
+
+**What do I get, and in what format?** A ZIP with the schema spec, the meeting template, and a workspace README, plus a PDF guide with the build order.
+
+**Does it work for recurring client meetings?** Yes — the per-person rollup means any recurring meeting opens with "what happened last time" one click away.
+
+### Notion Content Calendar
+
+- url: https://probiex.gumroad.com/l/notion-content-calendar
+- category: OPERATIONS
+- format: NOTION · CONTENT
+- audience: Founders and creators running their own distribution.
+
+A Notion content database spec — pillars, formats, repurposing links, performance fields — that turns one idea into five posts, built in a single session.
+
+**What do I get, and in what format?** The full database spec and content system (ZIP) plus the PDF setup guide.
+
+**How long does the build take?** One Notion session to build, then it runs weekly.
+
+### Notion Founder CRM
+
+- url: https://probiex.gumroad.com/l/notion-founder-crm
+- category: OPERATIONS
+- format: NOTION · CRM
+- audience: Technical founders doing sales without a sales team.
+
+A founder CRM build spec for Notion: lead, pipeline, and contact databases with properties, views, and the weekly review cadence — built in one session.
+
+**What do I get, and in what format?** The complete build spec (ZIP) plus the PDF setup guide.
+
+**How long is the build?** One Notion session — duplicate the spec, build, run.
+
+### One-Person Agency Engine
+
+- url: https://probiex.gumroad.com/l/solo-agency-engine
+- category: OPERATIONS
+- format: RATE + CAPACITY
+- audience: One-person agencies and solo operators managing larger clients.
+
+The operations playbook for a one-person agency: rate floor, client scoring, capacity planner, SOPs, discovery call script, and a 12-month growth roadmap.
+
+**What do I get, and in what format?** The operations playbook (PDF) — all ten components in one document.
+
+**Is the rate calculator different from the freelancer one?** Yes — this one adds agency economics: project profitability and capacity ceilings.
+
 ## GETTING CUSTOMERS
 
 ### Cold Outreach Reply Pack
@@ -237,6 +382,19 @@ A warm-signal playbook for landing your first 100 customers: intent trigger phra
 **What do I get, and in what format?** The playbook (PDF) — 21 days of warm-signal hunting, with the tracking setup inside.
 
 **Does this work for service businesses too?** Yes — the trigger-phrase method works for anything people publicly ask about.
+
+### The Freelance Contract Pack
+
+- url: https://probiex.gumroad.com/l/freelance-contract-pack
+- category: GETTING CUSTOMERS
+- format: 6 DOCUMENTS
+- audience: Freelancers and solo operators signing clients without a lawyer on retainer.
+
+Six fill-in freelance documents — a master services agreement, SOW, mutual NDA, IP assignment, change order, and deposit rider — with a plain-English guide.
+
+**What do I get, and in what format?** A ZIP with the six .docx documents plus the PDF guide.
+
+**Is this legal advice?** No — these are template documents with plain-English guidance. Have local counsel review for anything unusual in your jurisdiction.
 
 ### GEO Operations System
 
@@ -316,72 +474,18 @@ A 7-day activation system that stops silent churn: define the aha moment, patch 
 
 **What if my activation event is unclear?** The kit's first exercise is defining it in one sentence — that exercise alone changes what you ship.
 
-## OPERATIONS
+### Titles & Hooks Scorecard
 
-### Founder Anti-Burnout Weekly System
+- url: https://probiex.gumroad.com/l/video-titles-scorecard
+- category: GETTING CUSTOMERS
+- format: 6 CHECKS · 30 PTS
+- audience: Founders and solo operators building YouTube as a distribution channel.
 
-- url: https://probiex.gumroad.com/l/founder-anti-burnout-system
-- category: OPERATIONS
-- format: 15H/WEEK
-- audience: Indie founders stuck in the build-solo loop.
+An XLSX scoring workbook for video titles and hooks: six checks scored 0 to 5, twelve title patterns, twelve hook patterns, and a weekly ship log.
 
-A weekly cadence system for indie founders: fixed outreach/build/review blocks, a 10-conversations rule, and energy rules that prevent the 60-hour spiral.
+**What do I get, and in what format?** The XLSX workbook plus a PDF guide covering the six checks and the weekly routine.
 
-**What do I get, and in what format?** The system (PDF) — cadence, rules, and the check-in template.
-
-**How many hours per week does it ask?** About 15 focused hours — the cadence is built around evenings and weekends.
-
-### The Indie Hacker OS
-
-- url: https://probiex.gumroad.com/l/indie-hacker-os
-- category: OPERATIONS
-- format: 6 DATABASES
-- audience: Solo developers building digital products.
-
-A six-database Notion OS for indie builders: idea scoring, project tracking, revenue math, audience stats, a learning log, and a weekly ops dashboard.
-
-**What do I get, and in what format?** The Notion template (duplicate-to-use) plus setup documentation.
-
-**How long until it's usable?** About 15 minutes — duplicate, connect what you use, run.
-
-### Notion Content Calendar
-
-- url: https://probiex.gumroad.com/l/notion-content-calendar
-- category: OPERATIONS
-- format: NOTION · CONTENT
-- audience: Founders and creators running their own distribution.
-
-A Notion content database spec — pillars, formats, repurposing links, performance fields — that turns one idea into five posts, built in a single session.
-
-**What do I get, and in what format?** The full database spec and content system (ZIP) plus the PDF setup guide.
-
-**How long does the build take?** One Notion session to build, then it runs weekly.
-
-### Notion Founder CRM
-
-- url: https://probiex.gumroad.com/l/notion-founder-crm
-- category: OPERATIONS
-- format: NOTION · CRM
-- audience: Technical founders doing sales without a sales team.
-
-A founder CRM build spec for Notion: lead, pipeline, and contact databases with properties, views, and the weekly review cadence — built in one session.
-
-**What do I get, and in what format?** The complete build spec (ZIP) plus the PDF setup guide.
-
-**How long is the build?** One Notion session — duplicate the spec, build, run.
-
-### One-Person Agency Engine
-
-- url: https://probiex.gumroad.com/l/solo-agency-engine
-- category: OPERATIONS
-- format: RATE + CAPACITY
-- audience: One-person agencies and solo operators managing larger clients.
-
-The operations playbook for a one-person agency: rate floor, client scoring, capacity planner, SOPs, discovery call script, and a 12-month growth roadmap.
-
-**What do I get, and in what format?** The operations playbook (PDF) — all ten components in one document.
-
-**Is the rate calculator different from the freelancer one?** Yes — this one adds agency economics: project profitability and capacity ceilings.
+**Does it write titles for me?** No — it scores the three drafts you bring and shows which check keeps failing across your titles.
 
 ## BUILDS
 
@@ -398,6 +502,19 @@ A production-ready Next.js starter with Clerk auth, Stripe subscriptions, Drizzl
 
 **Which Next.js/React versions?** Next.js 15 on the current release line — the setup guide covers upgrading.
 
+### The One-Page Personal Site
+
+- url: https://probiex.gumroad.com/l/personal-landing-page
+- category: BUILDS
+- format: ONE FILE · 0 DEPS
+- audience: Freelancers and solo operators who need one shareable link instead of an unfinished site.
+
+A one-page personal site as a single dependency-free HTML file: dark and light mode, work cards, services, notes, and a contact panel, deployable anywhere.
+
+**What do I get, and in what format?** A ZIP with the HTML file, the copy worksheet, and a site README, plus the PDF guide.
+
+**Can I keep it updated?** Yes — the guide's ritual is one dated note per shipped project, ten minutes, which is what keeps the page alive.
+
 ### Ship Your SaaS in 30 Days
 
 - url: https://probiex.gumroad.com/l/ship-saas-30-days
@@ -410,4 +527,17 @@ A 30-day playbook from zero to paid SaaS: a day-by-day checklist from validation
 **What do I get, and in what format?** The checklist and template pack (ZIP) plus the PDF playbook.
 
 **What if I miss days?** The plan assumes drift — the landing and launch templates hold their shape even on messy weeks.
+
+### The Transactional Email Kit
+
+- url: https://probiex.gumroad.com/l/transactional-email-kit
+- category: BUILDS
+- format: 8 HTML EMAILS
+- audience: Solo SaaS founders and indie hackers wiring up lifecycle email.
+
+Eight production HTML emails — welcome, receipt, password reset, trial ending, payment failed, weekly digest, account closing, reactivation — coded to render in Gmail and Outlook.
+
+**What do I get, and in what format?** A ZIP with the eight .html files and the cheat sheet, plus the PDF guide.
+
+**Do the emails work in dark mode?** The design uses a dark panel with fixed light body text, which is the standard dark-safe pattern; the guide covers the details.
 
