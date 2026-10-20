@@ -1,6 +1,6 @@
 # Probiex
 
-> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 40 products, each shippable the week you buy it.
+> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 48 products, each shippable the week you buy it.
 
 ## Products
 
@@ -16,7 +16,13 @@
 - [The Course Builder for Notion](https://probiex.gumroad.com/l/course-curriculum-builder): Course architecture in Notion: outcome gates per module, a recording queue, and a feedback loop. (NOTION · COURSE).
 - [First 100 Customers: Warm Signal Playbook](https://probiex.gumroad.com/l/first-100-customers): Stop spraying cold messages. Reach people at the exact moment they need you. (21-DAY PLAN).
 - [Founder Anti-Burnout Weekly System](https://probiex.gumroad.com/l/founder-anti-burnout-system): Escape the developer's safe room. A 15h/week structure that ships and sells. (15H/WEEK).
+- [Founder Finance Bundle](https://probiex.gumroad.com/l/founder-finance-bundle): Six finance workbooks in one checkout: rate floor, runway, CAC ceiling, metrics, pricing, and cash forecast. (3 PRODUCTS · ONE CHECKOUT).
 - [10 Free Claude Prompts for SaaS Founders](https://probiex.gumroad.com/l/free-claude-prompts): Free sample — 10 ready-to-use Claude prompts for customer research, copy, and growth. (FREE · 10 PROMPTS).
+- [25 Free Cold Email First Lines](https://probiex.gumroad.com/l/free-cold-email-openers): Twenty-five first lines grouped by scenario, plus the five rules that keep an opener about them, not you. (FREE · 25 LINES).
+- [5 Free Invoice Reminder Emails](https://probiex.gumroad.com/l/free-invoice-reminder-emails): Five copy-paste emails that keep invoices out of the late pile: pre-due, due-day, day 1, day 14, and the final notice. (FREE · 5 EMAILS).
+- [Free Landing Page Leak Check: 20 Points](https://probiex.gumroad.com/l/free-landing-page-checklist): A pass-or-miss check for your landing page: 20 points, a fix line per miss, and scoring bands that say polish, patch, or rebuild. (FREE · 20 CHECKS).
+- [Free Launch Day Checklist: 40 Checks](https://probiex.gumroad.com/l/free-launch-day-checklist): Forty ordered checks from T-24h to T+72h: product, checkout, content, the launch, first-day replies, and the retro. (40 CHECKS).
+- [Free One-Page Business Plan: Notion + PDF](https://probiex.gumroad.com/l/free-one-page-business-plan): The plan that gets reviewed weekly instead of written yearly: 9 sections, a 20-minute Notion build, and a worked example. (NOTION + PDF).
 - [The Freelance Cash-Flow Planner](https://probiex.gumroad.com/l/freelance-cash-flow-planner): A 90-day rolling plan for the money you actually have. (90-DAY FORECAST).
 - [The Freelance Contract Pack](https://probiex.gumroad.com/l/freelance-contract-pack): Six fill-in contracts for freelancers: MSA, SOW, NDA, IP assignment, change order, and deposit rider. (6 DOCUMENTS).
 - [Freelancer Rate Calculator](https://probiex.gumroad.com/l/freelancer-rate-calculator): What to bill so the math works, as a workbook. (RATE FLOOR).
@@ -25,12 +31,14 @@
 - [The Job-Search OS for Notion](https://probiex.gumroad.com/l/job-search-os): Run your job search like a campaign: applications, contacts, follow-up dates, and offer math in one system. (NOTION · SEARCH).
 - [The Landing Page Conversion Audit](https://probiex.gumroad.com/l/landing-page-conversion-audit): 60-point scorecard: find the leak, fix it in order. (60-POINT AUDIT).
 - [The Late-Payment Playbook](https://probiex.gumroad.com/l/late-payment-playbook): The 5-layer collection system for freelancers: contract clauses, deposits, reminder emails, and an escalation ladder that gets … (PDF + EMAIL KIT).
+- [Launch Bundle](https://probiex.gumroad.com/l/launch-bundle): Four launch systems in one checkout: outreach replies, launch emails, the 30-day ship plan, and first-100 distribution. (3 PRODUCTS · ONE CHECKOUT).
 - [Launch Week Email Kit](https://probiex.gumroad.com/l/launch-week-email-kit): The seven emails that decide whether a launch ships. (7 EMAILS).
 - [LaunchKit Starter](https://probiex.gumroad.com/l/launchkit-starter): Production-ready Next.js 15 SaaS starter with auth, billing, DB, i18n. (NEXT.JS STARTER).
 - [90-Day LinkedIn Content Playbook](https://probiex.gumroad.com/l/linkedin-content-playbook): A day-by-day 90-day plan to grow on LinkedIn as a SaaS founder. (90 DAYS).
 - [Notion Meeting OS](https://probiex.gumroad.com/l/meeting-os): Meeting notes, decisions, and owner-assigned actions with a Friday review that closes every loop the week opened. (NOTION · MEETINGS).
 - [n8n Solopreneur Workflows](https://probiex.gumroad.com/l/n8n-solopreneur-workflows): Automation workflows that run your week. (3 WORKFLOWS).
 - [Notion Content Calendar](https://probiex.gumroad.com/l/notion-content-calendar): A social content database, not a sticker board. (NOTION · CONTENT).
+- [Notion Founder Bundle](https://probiex.gumroad.com/l/notion-founder-bundle): Three Notion systems in one checkout: Founder CRM, Content Calendar, and Indie Hacker OS. (3 PRODUCTS · ONE CHECKOUT).
 - [Notion Founder CRM](https://probiex.gumroad.com/l/notion-founder-crm): A founder CRM you build in one session. (NOTION · CRM).
 - [The One-Page Personal Site](https://probiex.gumroad.com/l/personal-landing-page): A dependency-free one-page personal site with dark mode, deployable anywhere in minutes. (ONE FILE · 0 DEPS).
 - [The Pitch Deck Builder](https://probiex.gumroad.com/l/pitch-deck-builder): A 16-slide investor deck template with a worked example, speaker notes, and one question answered per slide. (16 SLIDES + PPTX).

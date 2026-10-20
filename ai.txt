@@ -6,7 +6,7 @@ owner: Akshat Naruka (Probiex)
 contact: trexoo.ai@gmail.com
 
 what-this-site-is:
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 40 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 48 products, each shippable the week you buy it.
 
 ai-use-permissions:
 - reading, quoting, summarizing: allowed, with attribution ("Probiex" and a link to the store or this hub)
@@ -18,4 +18,4 @@ ai-use-permissions:
 - inventing sales counts, reviews, or endorsements: not allowed (none exist)
 
 brand-boilerplate:
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 40 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 48 products, each shippable the week you buy it.

@@ -2,10 +2,10 @@
 site: Probiex
 store: https://probiex.gumroad.com
 updated: 2026-10-20
-description: catalog of 40 practical systems for solo founders, indie hackers, freelancers
+description: catalog of 48 practical systems for solo founders, indie hackers, freelancers
 ---
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 40 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 48 products, each shippable the week you buy it.
 
 Prices are shown on each product page.
 
@@ -183,6 +183,19 @@ An XLSX workbook that derives your break-even CAC from real pricing, margins, an
 **What do I get, and in what format?** The XLSX calculator plus a PDF walkthrough of the math and the forced decisions.
 
 **How long does setup take?** Plug in six numbers; the rest computes itself.
+
+### 5 Free Invoice Reminder Emails
+
+- url: https://probiex.gumroad.com/l/free-invoice-reminder-emails
+- category: FINANCE
+- format: FREE · 5 EMAILS
+- audience: Freelancers and solo operators who invoice clients; free pack, no email wall.
+
+Five copy-paste invoice reminder emails, ordered from three days before the due date to the final notice before work pauses: the pre-due messages most freelancers never send.
+
+**Are these the same emails as in the Late-Payment Playbook?** Five of the reminder emails overlap; the playbook adds the rest of the system: contract clauses, deposit schedules, and the full escalation ladder.
+
+**Do I need to edit them before sending?** Replace the bracketed fields and send. Each one is under 90 words and asks for exactly one thing.
 
 ### The Freelance Cash-Flow Planner
 
@@ -383,6 +396,32 @@ A warm-signal playbook for landing your first 100 customers: intent trigger phra
 
 **Does this work for service businesses too?** Yes — the trigger-phrase method works for anything people publicly ask about.
 
+### 25 Free Cold Email First Lines
+
+- url: https://probiex.gumroad.com/l/free-cold-email-openers
+- category: GETTING CUSTOMERS
+- format: FREE · 25 LINES
+- audience: Founders and freelancers doing outbound who get silence, not replies; free pack, no email wall.
+
+Twenty-five first lines for cold emails, grouped by scenario, plus the five rules that keep an opener about the recipient instead of the sender.
+
+**Is this the same as the Cold Outreach Reply Pack?** No. That pack handles what comes after a reply, matched to the objection. This one is only the first line that earns the reply.
+
+**Can I use these for LinkedIn messages?** The openers work anywhere the first sentence decides whether you get read; adjust the send channel, keep the rules.
+
+### Free Landing Page Leak Check: 20 Points
+
+- url: https://probiex.gumroad.com/l/free-landing-page-checklist
+- category: GETTING CUSTOMERS
+- format: FREE · 20 CHECKS
+- audience: Founders about to launch or unhappy with a silent page; free check, no email wall.
+
+A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild.
+
+**How does this relate to the full Landing Page Conversion Audit?** This is the first 20 points. The audit runs 60, ranks leaks by revenue impact, and includes the fix library.
+
+**Do I need design skills to run it?** No. Every check is pass-or-miss against the page you already have.
+
 ### The Freelance Contract Pack
 
 - url: https://probiex.gumroad.com/l/freelance-contract-pack
@@ -487,7 +526,74 @@ An XLSX scoring workbook for video titles and hooks: six checks scored 0 to 5, t
 
 **Does it write titles for me?** No — it scores the three drafts you bring and shows which check keeps failing across your titles.
 
+## BUNDLE
+
+### Founder Finance Bundle
+
+- url: https://probiex.gumroad.com/l/founder-finance-bundle
+- category: BUNDLE
+- format: 3 PRODUCTS · ONE CHECKOUT
+- audience: Founders who want the full finance picture instead of one spreadsheet.
+
+Six finance workbooks and their PDF guides in one bundle: rate floor, runway and breakeven, break-even CAC, the ten SaaS metrics, the pricing method, and a 90-day cash forecast.
+
+**What do I get, and in what format?** Six XLSX workbooks plus their PDF guides, in one purchase and one download section.
+
+**Do the books share data?** They share the same founder math assumptions (costs, margins, runway), so the numbers stay consistent across tools.
+
+### Launch Bundle
+
+- url: https://probiex.gumroad.com/l/launch-bundle
+- category: BUNDLE
+- format: 3 PRODUCTS · ONE CHECKOUT
+- audience: Founders approaching launch week — everything from first touch to first revenue.
+
+Four launch systems in one bundle — 40+ outreach replies, the seven launch emails, a 30-day ship plan, and the warm-signal first-100 playbook.
+
+**What do I get, and in what format?** Four products — PDFs and template kits — in one purchase, one download section.
+
+**Do the systems reference each other?** They run in sequence: outreach replies → launch emails → first customers, with the 30-day plan as the spine.
+
+### Notion Founder Bundle
+
+- url: https://probiex.gumroad.com/l/notion-founder-bundle
+- category: BUNDLE
+- format: 3 PRODUCTS · ONE CHECKOUT
+- audience: Founders standardizing one workspace.
+
+Three Notion systems in one bundle — Founder CRM, Content Calendar, and Indie Hacker OS — full build specs plus setup guides for a one-workspace business.
+
+**What do I get, and in what format?** Three Notion build specs plus setup guides — duplicate into your workspace and run.
+
+**Are the systems linked?** They share Notion relations where it helps (projects to revenue, content to audience), so one workspace holds the whole business.
+
 ## BUILDS
+
+### Free Launch Day Checklist: 40 Checks
+
+- url: https://probiex.gumroad.com/l/free-launch-day-checklist
+- category: BUILDS
+- format: 40 CHECKS
+- audience: Founders inside the launch week who are assembling the plane while flying it; free, no email wall.
+
+Forty ordered checks for launch day, from T-24h through T+72h: product ready, checkout tested, content staged, the launch itself, first-day replies, and the retro.
+
+**Does this replace a launch plan?** No. It covers launch day and the 72 hours after. The 30 days before are Ship Your SaaS in 30 Days, and the launch emails are the Launch Week Email Kit.
+
+**Can I run it for a non-SaaS launch?** Yes; the checkout and site checks assume a digital product with a buy button, which covers most launches.
+
+### Free One-Page Business Plan: Notion + PDF
+
+- url: https://probiex.gumroad.com/l/free-one-page-business-plan
+- category: BUILDS
+- format: NOTION + PDF
+- audience: Indie hackers and solo founders who keep their plan in 40 open tabs; free, no email wall.
+
+A one-page business plan you build in Notion in 20 minutes or print and fill by hand: nine sections, a weekly review rule, and a worked example that shows the specificity bar.
+
+**Do I need Notion?** No. The PDF works on paper. The Notion spec is there if you want the weekly review to live where you work.
+
+**Is this the same as the Indie Hacker OS?** No. The plan sets direction on one page; the OS is six linked databases that run the week-to-week operation.
 
 ### LaunchKit Starter
 

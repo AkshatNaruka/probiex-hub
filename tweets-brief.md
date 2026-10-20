@@ -8,7 +8,7 @@ One-line usage: "Using only this brief, write N tweets for Probiex."
 
 ## What you are writing for
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 40 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 48 products, each shippable the week you buy it.
 
 - Store: https://probiex.gumroad.com (one-person storefront, Akshat Naruka)
 - Full customers' factsheet: https://akshatnaruka.github.io/probiex-hub/about.html
@@ -63,7 +63,7 @@ the store home only for catalog/progress posts.
 - Pages scoring under ~45/100 get almost no AI citations; over 70 average 5+ (GEO scorecard sample (Probiex))
 - 43 of 100 r/SaaS threads ask about lead generation (r/SaaS sample (Probiex))
 
-## Product angles (40 live products)
+## Product angles (43 live products)
 
 - **First 100 Customers: Warm Signal Playbook**: Warm signals beat 1,800 cold msgs; trigger phrases to watch Link: https://probiex.gumroad.com/l/first-100-customers
 - **90-Day LinkedIn Content Playbook**: Quit-by-post-5 problem; cadence not willpower Link: https://probiex.gumroad.com/l/linkedin-content-playbook
@@ -105,6 +105,9 @@ the store home only for catalog/progress posts.
 - **The ATS Resume Pack**: Two columns scramble the parse; single column survives Link: https://probiex.gumroad.com/l/ats-resume-pack
 - **The Pitch Deck Builder**: 30-slide decks get skimmed; one question per slide Link: https://probiex.gumroad.com/l/pitch-deck-builder
 - **The Course Builder for Notion**: The outcome test comes before the recordings Link: https://probiex.gumroad.com/l/course-curriculum-builder
+- **Founder Finance Bundle**: The six finance workbooks, one checkout Link: https://probiex.gumroad.com/l/founder-finance-bundle
+- **Launch Bundle**: Four launch systems from first touch to first revenue Link: https://probiex.gumroad.com/l/launch-bundle
+- **Notion Founder Bundle**: CRM + calendar + OS: one workspace spec Link: https://probiex.gumroad.com/l/notion-founder-bundle
 
 ## Worked examples (style anchors)
 
@@ -113,7 +116,7 @@ the store home only for catalog/progress posts.
 - Two-column resumes scramble into unreadable records. What survives most
   parsers: single column, standard headings, tab-stop dates. Six worked
   layouts: https://probiex.gumroad.com/l/ats-resume-pack
-- 40 systems now live on the store: finance calculators, launch kits,
+- 48 systems now live on the store: finance calculators, launch kits,
   Notion builds, resume packs. One-time downloads, no subscription, no email
   walls, free starter ten: https://probiex.gumroad.com
 
