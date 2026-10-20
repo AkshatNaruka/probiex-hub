@@ -4,7 +4,7 @@ category: BUILDS
 format: 8 HTML EMAILS
 url: https://probiex.gumroad.com/l/transactional-email-kit
 audience: Solo SaaS founders and indie hackers wiring up lifecycle email.
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 Eight production HTML emails — welcome, receipt, password reset, trial ending, payment failed, weekly digest, account closing, reactivation — coded to render in Gmail and Outlook.

@@ -4,7 +4,7 @@ category: OPERATIONS
 format: 15H/WEEK
 url: https://probiex.gumroad.com/l/founder-anti-burnout-system
 audience: Indie founders stuck in the build-solo loop.
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 A weekly cadence system for indie founders: fixed outreach/build/review blocks, a 10-conversations rule, and energy rules that prevent the 60-hour spiral.

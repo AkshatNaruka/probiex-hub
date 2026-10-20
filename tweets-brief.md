@@ -1,6 +1,6 @@
 # Probiex tweet brief
 
-Generated 2026-10-20. For AI assistants and content writers: this file holds
+Generated 2026-10-21. For AI assistants and content writers: this file holds
 every fact and rule needed to write marketing tweets for the Probiex store.
 Use ONLY what is here.
 
@@ -63,7 +63,7 @@ the store home only for catalog/progress posts.
 - Pages scoring under ~45/100 get almost no AI citations; over 70 average 5+ (GEO scorecard sample (Probiex))
 - 43 of 100 r/SaaS threads ask about lead generation (r/SaaS sample (Probiex))
 
-## Product angles (43 live products)
+## Product angles (48 live products)
 
 - **First 100 Customers: Warm Signal Playbook**: Warm signals beat 1,800 cold msgs; trigger phrases to watch Link: https://probiex.gumroad.com/l/first-100-customers
 - **90-Day LinkedIn Content Playbook**: Quit-by-post-5 problem; cadence not willpower Link: https://probiex.gumroad.com/l/linkedin-content-playbook
@@ -75,7 +75,10 @@ the store home only for catalog/progress posts.
 - **Launch Week Email Kit**: The 7 emails that decide a launch Link: https://probiex.gumroad.com/l/launch-week-email-kit
 - **The Freelance Contract Pack**: Scope creep dies in writing: the six documents to sign Link: https://probiex.gumroad.com/l/freelance-contract-pack
 - **Titles & Hooks Scorecard**: The weakest of 6 title checks tells you what to fix Link: https://probiex.gumroad.com/l/video-titles-scorecard
+- **25 Free Cold Email First Lines**: Openers about them, not you: 25 lines, 8 scenarios, 5 rules Link: https://probiex.gumroad.com/l/free-cold-email-openers
+- **Free Landing Page Leak Check: 20 Points**: 20 pass-or-miss points; the misses rank your next fix Link: https://probiex.gumroad.com/l/free-landing-page-checklist
 - **The Late-Payment Playbook**: 59% late-30+; the two emails nobody sends Link: https://probiex.gumroad.com/l/late-payment-playbook
+- **5 Free Invoice Reminder Emails**: The two pre-due emails nobody sends; five copy-paste messages Link: https://probiex.gumroad.com/l/free-invoice-reminder-emails
 - **Freelancer Rate Calculator**: The 14% margin hiding in copied rates Link: https://probiex.gumroad.com/l/freelancer-rate-calculator
 - **Break-Even CAC Calculator**: The CAC ceiling your margins cannot survive Link: https://probiex.gumroad.com/l/break-even-cac-calculator
 - **The Pricing Calculator**: Not "what do competitors charge"; Van Westendorp method Link: https://probiex.gumroad.com/l/pricing-calculator
@@ -93,6 +96,8 @@ the store home only for catalog/progress posts.
 - **LaunchKit Starter**: The boilerplate month, removed Link: https://probiex.gumroad.com/l/launchkit-starter
 - **The Transactional Email Kit**: 8 lifecycle emails coded to render; no image-only receipts Link: https://probiex.gumroad.com/l/transactional-email-kit
 - **The One-Page Personal Site**: The 5-page portfolio never ships; one link does Link: https://probiex.gumroad.com/l/personal-landing-page
+- **Free One-Page Business Plan: Notion + PDF**: The 9-section plan reviewed weekly, not written yearly Link: https://probiex.gumroad.com/l/free-one-page-business-plan
+- **Free Launch Day Checklist: 40 Checks**: 40 ordered checks, T-24h to T+72h; launches fail on unbought prep Link: https://probiex.gumroad.com/l/free-launch-day-checklist
 - **10 Free Claude Prompts**: The free opener; no email wall (use in every trust-building week) Link: https://probiex.gumroad.com/l/free-claude-prompts
 - **100 Claude Prompts for SaaS Founders**: "Open Claude and freeze"; 100 prompts by job Link: https://probiex.gumroad.com/l/claude-prompts-saas-founders
 - **The AI-Slop Audit**: 1-in-10 AI pages; 20 tells in 15 minutes Link: https://probiex.gumroad.com/l/ai-slop-audit

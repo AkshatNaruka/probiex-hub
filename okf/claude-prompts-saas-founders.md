@@ -4,7 +4,7 @@ category: AI & PROMPTS
 format: 100 PROMPTS · PDF + MD
 url: https://probiex.gumroad.com/l/claude-prompts-saas-founders
 audience: SaaS founders running their business with Claude as a working partner.
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 100 copy-paste Claude prompts organized by SaaS job — research, copy, launch, growth, build-in-public — each with context fields and output format built in.

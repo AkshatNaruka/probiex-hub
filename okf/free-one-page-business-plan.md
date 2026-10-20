@@ -4,7 +4,7 @@ category: BUILDS
 format: NOTION + PDF
 url: https://probiex.gumroad.com/l/free-one-page-business-plan
 audience: Indie hackers and solo founders who keep their plan in 40 open tabs; free, no email wall.
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 A one-page business plan you build in Notion in 20 minutes or print and fill by hand: nine sections, a weekly review rule, and a worked example that shows the specificity bar.

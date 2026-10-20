@@ -4,7 +4,7 @@ category: BUILDS
 format: 30-DAY PLAN
 url: https://probiex.gumroad.com/l/ship-saas-30-days
 audience: Builders who want a plan, not more advice.
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 A 30-day playbook from zero to paid SaaS: a day-by-day checklist from validation to first revenue, plus landing page and launch templates for each phase.
