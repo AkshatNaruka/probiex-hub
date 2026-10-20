@@ -4,7 +4,7 @@ category: BUILDS
 format: NEXT.JS STARTER
 url: https://probiex.gumroad.com/l/launchkit-starter
 audience: Solo founders and indie hackers who want their first paying customer, not their fiftieth config file.
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 A production-ready Next.js starter with Clerk auth, Stripe subscriptions, Drizzle ORM, i18n, dark mode, tests, and CI — clone it, fill env vars, deploy.

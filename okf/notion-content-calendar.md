@@ -4,7 +4,7 @@ category: OPERATIONS
 format: NOTION · CONTENT
 url: https://probiex.gumroad.com/l/notion-content-calendar
 audience: Founders and creators running their own distribution.
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 A Notion content database spec — pillars, formats, repurposing links, performance fields — that turns one idea into five posts, built in a single session.

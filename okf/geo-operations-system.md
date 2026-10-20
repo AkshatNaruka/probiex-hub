@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: 0–100 + CLI
 url: https://probiex.gumroad.com/l/geo-operations-system
 audience: Founders and marketers who want their content cited and recommended by AI systems.
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 A GEO system for AI search visibility: a 0-100 scorecard across five weighted dimensions, a fix-order priority formula, an llms.txt template, and E-E-A-T checks.

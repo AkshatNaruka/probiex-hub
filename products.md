@@ -1,11 +1,11 @@
 ---
 site: Probiex
 store: https://probiex.gumroad.com
-updated: 2026-10-19
-description: catalog of 30+ practical systems for solo founders, indie hackers, freelancers
+updated: 2026-10-20
+description: catalog of 40 practical systems for solo founders, indie hackers, freelancers
 ---
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 30 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 40 products, each shippable the week you buy it.
 
 Prices are shown on each product page.
 

@@ -1,6 +1,6 @@
 # Probiex
 
-> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 30 products, each shippable the week you buy it.
+> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 40 products, each shippable the week you buy it.
 
 ## Products
 
@@ -45,7 +45,16 @@
 - [Titles & Hooks Scorecard](https://probiex.gumroad.com/l/video-titles-scorecard): Score video titles and hooks against six checks; twelve title patterns and a ship log included. (6 CHECKS · 30 PTS).
 - [Voice AI System](https://probiex.gumroad.com/l/voice-ai-system): Clone your process, not your voice. (SCHEMA + GUIDE).
 
+## Site map
+
+- [Store facts for AI assistants](https://akshatnaruka.github.io/probiex-hub/about.html): one page with the catalog, cited stats, and rules for describing the store accurately.
+- products.md: the full catalog in markdown.
+- okf/<slug>.md: one page per product, YAML-frontmattered.
+- llms-full.txt: this file plus the full catalog content inline.
+- ai.txt: licensing and use preferences.
+
 ## Notes
 
 Prices: not listed here; each product page shows its current price.
+There is no refund or money-back guarantee; broken downloads are fixed by support (trexoo.ai@gmail.com).
 Contact: trexoo.ai@gmail.com

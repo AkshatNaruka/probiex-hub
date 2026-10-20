@@ -4,7 +4,7 @@ category: CAREER & TEACHING
 format: NOTION · COURSE
 url: https://probiex.gumroad.com/l/course-curriculum-builder
 audience: Solo experts turning their craft into a first paid course or cohort.
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 A Notion course-architecture system: outcome gates per module, lessons with script and recording status, and a feedback table that gates what ships.

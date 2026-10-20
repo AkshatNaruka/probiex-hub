@@ -4,7 +4,7 @@ category: OPERATIONS
 format: NOTION · CRM
 url: https://probiex.gumroad.com/l/notion-founder-crm
 audience: Technical founders doing sales without a sales team.
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 A founder CRM build spec for Notion: lead, pipeline, and contact databases with properties, views, and the weekly review cadence — built in one session.

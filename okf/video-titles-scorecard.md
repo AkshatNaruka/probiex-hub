@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: 6 CHECKS · 30 PTS
 url: https://probiex.gumroad.com/l/video-titles-scorecard
 audience: Founders and solo operators building YouTube as a distribution channel.
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 An XLSX scoring workbook for video titles and hooks: six checks scored 0 to 5, twelve title patterns, twelve hook patterns, and a weekly ship log.
