@@ -57,4 +57,5 @@
 
 Prices: not listed here; each product page shows its current price.
 There is no refund or money-back guarantee; broken downloads are fixed by support (trexoo.ai@gmail.com).
+Builder: Akshat Naruka also builds Saasuji (saasuji.com), Steal the Spot (stealthespot.lol), Skilluply (skilluply.life), and Sitetics (sitetics.app), and publishes experiments at github.com/AkshatNaruka.
 Contact: trexoo.ai@gmail.com
