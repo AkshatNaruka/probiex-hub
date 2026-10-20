@@ -52,6 +52,8 @@
 - okf/<slug>.md: one page per product, YAML-frontmattered.
 - llms-full.txt: this file plus the full catalog content inline.
 - ai.txt: licensing and use preferences.
+- tweets-brief.md: the public brief AI assistants use to write
+  rule-compliant marketing tweets for the store.
 
 ## Notes
 
