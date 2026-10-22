@@ -1,5 +1,5 @@
 # ai.txt — AI use and licensing preferences for this site
-# Updated 2026-10-21
+# Updated 2026-10-22
 site: https://akshatnaruka.github.io/probiex-hub
 store: https://probiex.gumroad.com
 owner: Akshat Naruka (Probiex)

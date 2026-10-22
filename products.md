@@ -1,7 +1,7 @@
 ---
 site: Probiex
 store: https://probiex.gumroad.com
-updated: 2026-10-21
+updated: 2026-10-22
 description: catalog of 48 practical systems for solo founders, indie hackers, freelancers
 ---
 
@@ -22,7 +22,7 @@ Agent operations for solopreneurs: schemas, automation scripts, and a setup guid
 
 **What do I get, and in what format?** The scripts and schemas archive (ZIP) plus the PDF setup guide.
 
-**Which agent platform does it assume?** None specifically — the schemas define supervision and escalation patterns that port across platforms.
+**Which agent platform does it assume?** None specifically: the schemas define supervision and escalation patterns that port across platforms.
 
 ### The AI-Slop Audit
 
@@ -31,9 +31,9 @@ Agent operations for solopreneurs: schemas, automation scripts, and a setup guid
 - format: 20-TELL AUDIT
 - audience: Founders, creators, and teams publishing anything AI-assisted.
 
-A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before you publish — with a rewrite table that turns vague claims into specific ones.
+A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before you publish, with a rewrite table that turns vague claims into specific ones.
 
-**What do I get, and in what format?** The audit kit (PDF) — scorecard, rewrite table, and voice sheet.
+**What do I get, and in what format?** The audit kit (PDF): scorecard, rewrite table, and voice sheet.
 
 **How long does an audit take?** Fifteen minutes per page.
 
@@ -44,11 +44,11 @@ A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before yo
 - format: 100 PROMPTS · PDF + MD
 - audience: SaaS founders running their business with Claude as a working partner.
 
-100 copy-paste Claude prompts organized by SaaS job — research, copy, launch, growth, build-in-public — each with context fields and output format built in.
+100 copy-paste Claude prompts organized by SaaS job: research, copy, launch, growth, build-in-public, each with context fields and output format built in.
 
 **What do I get, and in what format?** The prompt pack as PDF and Markdown (paste-ready in Claude).
 
-**Do the prompts work with other models?** They are model-agnostic — fields and output formats work in any capable assistant.
+**Do the prompts work with other models?** They are model-agnostic: fields and output formats work in any capable assistant.
 
 ### 10 Free Claude Prompts for SaaS Founders
 
@@ -57,9 +57,9 @@ A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before yo
 - format: FREE · 10 PROMPTS
 - audience: Founders who want to try the working-prompt method before paying anything.
 
-10 free, copy-paste Claude prompts for customer research, copywriting, launch marketing, analytics, and build-in-public — fill-in-the-blank, no filler.
+10 free, copy-paste Claude prompts for customer research, copywriting, launch marketing, analytics, and build-in-public, fill-in-the-blank, no filler.
 
-**What do I get, and in what format?** 10 prompts as PDF and Markdown — free, forever.
+**What do I get, and in what format?** 10 prompts as PDF and Markdown, free, forever.
 
 **Is this a trial with hidden costs?** No. The pack is free; the full 100-prompt pack is the paid version if you want it.
 
@@ -70,9 +70,9 @@ A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before yo
 - format: 3 WORKFLOWS
 - audience: n8n users who want automation that pays rent on day one.
 
-Three production n8n workflows for solopreneurs: RSS-to-email digest, new-lead webhooks to Slack, and Gumroad sales logged to Google Sheets — import and run.
+Ten n8n workflow walkthroughs for solopreneurs, three of them pre-built as importable JSON: RSS-to-email digest, new-lead webhooks to Slack, and Gumroad sales logged to Google Sheets.
 
-**What do I get, and in what format?** Three workflow JSON files plus walkthrough docs (ZIP).
+**What do I get, and in what format?** Ten workflow walkthroughs (PDF) with three pre-built JSON files (ZIP).
 
 **How do I install them?** Import the JSON into n8n, add your credentials, done.
 
@@ -83,11 +83,11 @@ Three production n8n workflows for solopreneurs: RSS-to-email digest, new-lead w
 - format: SCHEMA + GUIDE
 - audience: Builders shipping voice features into real products.
 
-Schemas, a compliance checklist, and a setup guide for shipping voice AI that survives real users and legal review — clone the process, not the voice.
+Schemas, a compliance checklist, and a setup guide for shipping voice AI that survives real users and legal review: clone the process, not the voice.
 
 **What do I get, and in what format?** The schemas and compliance kit (ZIP) plus the PDF setup guide.
 
-**Which TTS/STT stack does it support?** The schemas are stack-agnostic — they define the process layer above any provider.
+**Which TTS/STT stack does it support?** The schemas are stack-agnostic: they define the process layer above any provider.
 
 ## CAREER & TEACHING
 
@@ -98,11 +98,11 @@ Schemas, a compliance checklist, and a setup guide for shipping voice AI that su
 - format: 30 LESSON PLANS
 - audience: Teachers and trainers who need an AI curriculum they can deliver with no AI expertise.
 
-30 fifty-minute AI lesson plans for K-12 through professional classrooms — worksheets, a rubric generator, an AI policy generator, and COAST/VERIFY frameworks.
+30 fifty-minute AI lesson plans for K-12 through professional classrooms: worksheets, a rubric generator, an AI policy generator, and COAST/VERIFY frameworks.
 
-**What do I get, and in what format?** The complete kit (PDF) — teach it tomorrow, no AI background needed.
+**What do I get, and in what format?** The complete kit (PDF), ready to teach tomorrow with no AI background needed.
 
-**Can I adapt it for adult learners?** Yes — the grade-level adaptations span K-5 through professional, and the policy generator adapts to adult rules too.
+**Can I adapt it for adult learners?** Yes. The grade-level adaptations span K-5 through professional, and the policy generator adapts to adult rules too.
 
 ### AI Resume Optimizer Spec + Kit
 
@@ -111,11 +111,11 @@ Schemas, a compliance checklist, and a setup guide for shipping voice AI that su
 - format: SPEC + KIT
 - audience: Builders shipping career AI products and coaches productizing resume reviews.
 
-The operating spec for an AI resume tool: a weighted scoring rubric, prompt chains, and three worked example rewrites — build it, QA a vendor, or productize it.
+The operating spec for an AI resume tool: a weighted scoring rubric, prompt chains, and three worked example rewrites: build it, QA a vendor, or productize it.
 
 **What do I get, and in what format?** The full spec archive (ZIP) plus the PDF launch kit.
 
-**Can I use it to audit an existing tool?** Yes — QA-on-a-vendor is one of the three declared use cases.
+**Can I use it to audit an existing tool?** Yes. QA-on-a-vendor is one of the three declared use cases.
 
 ### The ATS Resume Pack
 
@@ -128,7 +128,7 @@ Six worked-example resumes as DOCX masters, each single-column with standard hea
 
 **What do I get, and in what format?** A ZIP with the six .docx masters and their markdown sources, plus the PDF guide.
 
-**Are the example people real?** No — every person, company, and number is a realistic fiction, clearly labeled, so you see a complete resume before you swap in your own.
+**Are the example people real?** No. Every person, company, and number is a realistic fiction, clearly labeled, so you see a complete resume before you swap in your own.
 
 ### The Course Builder for Notion
 
@@ -141,7 +141,7 @@ A Notion course-architecture system: outcome gates per module, lessons with scri
 
 **What do I get, and in what format?** A ZIP with the schema spec, a 12-row lesson-planner seed CSV, and a workspace README, plus a PDF guide.
 
-**Does it cover hosting or sales pages?** No — this is the architecture and production system; it ends at a recorded, published lesson library.
+**Does it cover hosting or sales pages?** No. This is the architecture and production system; it ends at a recorded, published lesson library.
 
 ### The Job-Search OS for Notion
 
@@ -167,7 +167,7 @@ A 16-slide PPTX deck template with a worked seed-stage example, speaker notes, a
 
 **What do I get, and in what format?** The .pptx deck plus a ZIP with the slide content spec, and the PDF walkthrough guide.
 
-**Is the example company real?** No — Harborline is a fictional freight-booking SaaS, so every headline and chart shows filled-in copy you replace block by block.
+**Is the example company real?** No. Harborline is a fictional freight-booking SaaS, so every headline and chart shows filled-in copy you replace block by block.
 
 ## FINANCE
 
@@ -178,7 +178,7 @@ A 16-slide PPTX deck template with a worked seed-stage example, speaker notes, a
 - format: CAC FLOOR
 - audience: SaaS founders and indie hackers spending anything to acquire customers.
 
-An XLSX workbook that derives your break-even CAC from real pricing, margins, and retention — the ceiling you must never bid above when acquiring customers.
+An XLSX workbook that derives your break-even CAC from real pricing, margins, and retention: the ceiling you must never bid above when acquiring customers.
 
 **What do I get, and in what format?** The XLSX calculator plus a PDF walkthrough of the math and the forced decisions.
 
@@ -204,7 +204,7 @@ Five copy-paste invoice reminder emails, ordered from three days before the due 
 - format: 90-DAY FORECAST
 - audience: Freelancers with variable income and fixed costs.
 
-A 13-week XLSX cash-flow model for freelancers: probability-weighted incoming payments, fixed commitments, and weekly runway — shortfalls surface early.
+A 13-week XLSX cash-flow model for freelancers: probability-weighted incoming payments, fixed commitments, and weekly runway; shortfalls surface early.
 
 **What do I get, and in what format?** The XLSX 13-week model, late-payment email templates, and the PDF guide.
 
@@ -217,11 +217,11 @@ A 13-week XLSX cash-flow model for freelancers: probability-weighted incoming pa
 - format: RATE FLOOR
 - audience: Freelancers and solo operators pricing their own hours.
 
-An XLSX calculator that derives your freelance rate floor from real costs, true billable hours, and target margin — with a worked $72/hr example.
+An XLSX calculator that derives your freelance rate floor from real costs, true billable hours, and target margin, with a worked $72/hr example.
 
 **What do I get, and in what format?** The XLSX rate calculator plus a PDF guide covering cost inputs, margin targets, and when to raise rates.
 
-**Does it work for my country/currency?** The math is currency-agnostic — you enter your own cost and income numbers.
+**Does it work for my country/currency?** The math is currency-agnostic: you enter your own cost and income numbers.
 
 ### The Late-Payment Playbook
 
@@ -232,7 +232,7 @@ An XLSX calculator that derives your freelance rate floor from real costs, true 
 
 A 5-layer late-payment system for freelancers: contract clauses, deposit schedules, pre-due reminders, and a 4-step escalation ladder that gets invoices paid.
 
-**What do I get, and in what format?** The playbook (PDF) plus the email wording kits — clauses, reminders, and escalation emails are copy-paste ready.
+**What do I get, and in what format?** The playbook (PDF) plus the email wording kits: clauses, reminders, and escalation emails, all copy-paste ready.
 
 **Does it cover international clients?** The clauses are jurisdiction-agnostic safety language; adapt local specifics with your counsel if you cross borders.
 
@@ -256,11 +256,11 @@ An XLSX pricing method and PDF guide: a Van Westendorp survey, a value-metric te
 - format: RUNWAY MATH
 - audience: Founders and indie hackers managing their own cash position.
 
-An XLSX model that computes real runway from trailing burn, committed spend, and revenue scenarios — plus the breakeven point where the clock stops.
+An XLSX model that computes real runway from trailing burn, committed spend, and revenue scenarios, plus the breakeven point where the clock stops.
 
 **What do I get, and in what format?** The XLSX runway model plus a PDF guide to the reading and actions.
 
-**How much of my data does it need?** Six to eight inputs — cash, burn, commitments, revenue scenarios. No integrations.
+**How much of my data does it need?** Six to eight inputs: cash, burn, commitments, revenue scenarios. No integrations.
 
 ### SaaS Metrics Dashboard Kit
 
@@ -269,11 +269,11 @@ An XLSX model that computes real runway from trailing burn, committed spend, and
 - format: XLSX + PDF
 - audience: SaaS founders who want a Monday-morning numbers ritual.
 
-A 13-sheet XLSX dashboard that computes the ten SaaS survival metrics — MRR, LTV:CAC, retention, NRR, CAC payback, churn, and conversion — from six numbers.
+A two-sheet XLSX dashboard that computes eight of the ten SaaS survival metrics: MRR and net-new MRR, LTV:CAC, gross retention, NRR, CAC payback, churn, and conversion, from nine pasted inputs.
 
-**What do I get, and in what format?** The 13-sheet XLSX dashboard plus the PDF guide.
+**What do I get, and in what format?** The two-sheet XLSX dashboard plus the PDF guide.
 
-**Does it need Stripe or analytics integrations?** No — paste six numbers on Monday morning; the math runs in the workbook.
+**Does it need Stripe or analytics integrations?** No. Paste nine numbers on Monday morning; the math runs in the workbook.
 
 ## OPERATIONS
 
@@ -288,7 +288,7 @@ A Notion build spec for a client-facing portal: deliverables, milestones, approv
 
 **What do I get, and in what format?** A ZIP with the schema spec, a seed CSV you can import, and a workspace README, plus a PDF guide with the one-session build order.
 
-**Do I need a paid Notion plan?** No — the build works on the free plan; guest sharing works within Notion's normal guest limits.
+**Do I need a paid Notion plan?** No. The build works on the free plan; guest sharing works within Notion's normal guest limits.
 
 ### Founder Anti-Burnout Weekly System
 
@@ -299,9 +299,9 @@ A Notion build spec for a client-facing portal: deliverables, milestones, approv
 
 A weekly cadence system for indie founders: fixed outreach/build/review blocks, a 10-conversations rule, and energy rules that prevent the 60-hour spiral.
 
-**What do I get, and in what format?** The system (PDF) — cadence, rules, and the check-in template.
+**What do I get, and in what format?** The system (PDF): cadence, rules, and the check-in template.
 
-**How many hours per week does it ask?** About 15 focused hours — the cadence is built around evenings and weekends.
+**How many hours per week does it ask?** About 15 focused hours. The cadence is built around evenings and weekends.
 
 ### The Indie Hacker OS
 
@@ -314,7 +314,7 @@ A six-database Notion OS for indie builders: idea scoring, project tracking, rev
 
 **What do I get, and in what format?** The Notion template (duplicate-to-use) plus setup documentation.
 
-**How long until it's usable?** About 15 minutes — duplicate, connect what you use, run.
+**How long until it's usable?** About 15 minutes: duplicate, connect what you use, run.
 
 ### Notion Meeting OS
 
@@ -327,7 +327,7 @@ A Notion meeting system: notes, decisions, and owner-assigned actions, with a 15
 
 **What do I get, and in what format?** A ZIP with the schema spec, the meeting template, and a workspace README, plus a PDF guide with the build order.
 
-**Does it work for recurring client meetings?** Yes — the per-person rollup means any recurring meeting opens with "what happened last time" one click away.
+**Does it work for recurring client meetings?** Yes. The per-person rollup means any recurring meeting opens with "what happened last time" one click away.
 
 ### Notion Content Calendar
 
@@ -336,7 +336,7 @@ A Notion meeting system: notes, decisions, and owner-assigned actions, with a 15
 - format: NOTION · CONTENT
 - audience: Founders and creators running their own distribution.
 
-A Notion content database spec — pillars, formats, repurposing links, performance fields — that turns one idea into five posts, built in a single session.
+A Notion content database spec with pillars, formats, repurposing links, and performance fields: it turns one idea into five posts, built in a single session.
 
 **What do I get, and in what format?** The full database spec and content system (ZIP) plus the PDF setup guide.
 
@@ -349,11 +349,11 @@ A Notion content database spec — pillars, formats, repurposing links, performa
 - format: NOTION · CRM
 - audience: Technical founders doing sales without a sales team.
 
-A founder CRM build spec for Notion: lead, pipeline, and contact databases with properties, views, and the weekly review cadence — built in one session.
+A founder CRM build spec for Notion: lead, pipeline, and contact databases with properties, views, and the weekly review cadence, built in one session.
 
 **What do I get, and in what format?** The complete build spec (ZIP) plus the PDF setup guide.
 
-**How long is the build?** One Notion session — duplicate the spec, build, run.
+**How long is the build?** One Notion session: duplicate the spec, build, run.
 
 ### One-Person Agency Engine
 
@@ -364,9 +364,9 @@ A founder CRM build spec for Notion: lead, pipeline, and contact databases with 
 
 The operations playbook for a one-person agency: rate floor, client scoring, capacity planner, SOPs, discovery call script, and a 12-month growth roadmap.
 
-**What do I get, and in what format?** The operations playbook (PDF) — all ten components in one document.
+**What do I get, and in what format?** The operations playbook (PDF): all ten components in one document.
 
-**Is the rate calculator different from the freelancer one?** Yes — this one adds agency economics: project profitability and capacity ceilings.
+**Is the rate calculator different from the freelancer one?** Yes; this one adds agency economics: project profitability and capacity ceilings.
 
 ## GETTING CUSTOMERS
 
@@ -377,11 +377,11 @@ The operations playbook for a one-person agency: rate floor, client scoring, cap
 - format: 40+ REPLIES
 - audience: Founders and freelancers doing outreach themselves.
 
-40+ cold outreach reply templates sorted by the objection that killed the thread — budget, timing, authority, fit, and silence — each matched to reply patterns.
+40+ cold outreach reply templates, sorted by the objection that killed the thread: budget, timing, authority, fit, and silence. Each reply is matched to a pattern.
 
 **What do I get, and in what format?** The full template library (Markdown, copy-paste ready) plus the PDF guide.
 
-**Are the templates industry-specific?** No — they match objections, not industries; you adapt names and specifics.
+**Are the templates industry-specific?** No. They match objections, not industries; you adapt names and specifics.
 
 ### First 100 Customers: Warm Signal Playbook
 
@@ -392,9 +392,9 @@ The operations playbook for a one-person agency: rate floor, client scoring, cap
 
 A warm-signal playbook for landing your first 100 customers: intent trigger phrases, 15-25% response replies, a 5-touch follow-up, and conversion logging.
 
-**What do I get, and in what format?** The playbook (PDF) — 21 days of warm-signal hunting, with the tracking setup inside.
+**What do I get, and in what format?** The playbook (PDF): 21 days of warm-signal hunting, with the tracking setup inside.
 
-**Does this work for service businesses too?** Yes — the trigger-phrase method works for anything people publicly ask about.
+**Does this work for service businesses too?** Yes. The trigger-phrase method works for anything people publicly ask about.
 
 ### 25 Free Cold Email First Lines
 
@@ -429,11 +429,11 @@ A 20-point pass-or-miss check for SaaS and product landing pages, with a one-lin
 - format: 6 DOCUMENTS
 - audience: Freelancers and solo operators signing clients without a lawyer on retainer.
 
-Six fill-in freelance documents — a master services agreement, SOW, mutual NDA, IP assignment, change order, and deposit rider — with a plain-English guide.
+Six fill-in freelance documents: a master services agreement, SOW, mutual NDA, IP assignment, change order, and deposit rider, with a plain-English guide.
 
 **What do I get, and in what format?** A ZIP with the six .docx documents plus the PDF guide.
 
-**Is this legal advice?** No — these are template documents with plain-English guidance. Have local counsel review for anything unusual in your jurisdiction.
+**Is this legal advice?** No. These are template documents with plain-English guidance. Have local counsel review for anything unusual in your jurisdiction.
 
 ### GEO Operations System
 
@@ -446,7 +446,7 @@ A GEO system for AI search visibility: a 0-100 scorecard across five weighted di
 
 **What do I get, and in what format?** The system (PDF) plus the scorecard CLI script and llms.txt template (ZIP).
 
-**Is this the same as SEO?** No — GEO targets extraction and citation in AI answers; SEO targets rankings. The scorecard covers both where they overlap.
+**Is this the same as SEO?** No. GEO targets extraction and citation in AI answers; SEO targets rankings. The scorecard covers both where they overlap.
 
 ### The Landing Page Conversion Audit
 
@@ -455,7 +455,7 @@ A GEO system for AI search visibility: a 0-100 scorecard across five weighted di
 - format: 60-POINT AUDIT
 - audience: Founders auditing their own landing page before spending on traffic.
 
-A 60-point landing page audit that scores message clarity, fold copy, forms, trust, and mobile — then ranks your top three conversion leaks by recoverable rate.
+A 60-point landing page audit that scores message clarity, fold copy, forms, trust, and mobile, then ranks your top three conversion leaks by recoverable rate.
 
 **What do I get, and in what format?** The scorecard system (ZIP) plus the PDF guide with fix patterns.
 
@@ -468,7 +468,7 @@ A 60-point landing page audit that scores message clarity, fold copy, forms, tru
 - format: 7 EMAILS
 - audience: Founders launching on Gumroad, Product Hunt, or their own list.
 
-The seven launch emails — announcement, story, proof, objection-handler, FAQ, last-call, doors-closed — with subject lines, body copy, and send-day timing.
+The seven launch emails: announcement, story, proof, objection-handler, FAQ, last-call, and doors-closed, with subject lines, body copy, and send-day timing.
 
 **What do I get, and in what format?** The email templates (Markdown) plus a PDF setup guide.
 
@@ -483,9 +483,9 @@ The seven launch emails — announcement, story, proof, objection-handler, FAQ, 
 
 A 90-day, day-by-day LinkedIn playbook for SaaS founders: five content pillars, weekly post plans, hook formulas, and the metrics that matter.
 
-**What do I get, and in what format?** The playbook (PDF) — 90 days mapped, week by week.
+**What do I get, and in what format?** The playbook (PDF): 90 days mapped, week by week.
 
-**How much writing time per week?** The system is built around short, repurposed posts — minutes a day, not hours.
+**How much writing time per week?** The system is built around short, repurposed posts: minutes a day, not hours.
 
 ### SaaS Founder Copy Vault
 
@@ -494,11 +494,11 @@ A 90-day, day-by-day LinkedIn playbook for SaaS founders: five content pillars, 
 - format: 80+ BLOCKS
 - audience: Founders who freeze at the blank page and want working starting points.
 
-80+ copy blocks for SaaS founders — hero lines, launch emails, cold outreach, and landing page sections written like a human founder, adapted in 5 minutes.
+50+ copy blocks for SaaS founders: hero lines, launch emails, cold outreach, and landing page sections written like a human founder, adapted in 5 minutes.
 
-**What do I get, and in what format?** The copy vault (PDF) — 80+ blocks organized by use case.
+**What do I get, and in what format?** The copy vault (PDF): 50+ blocks organized by use case.
 
-**Is this AI-written copy?** It is human-edited copy written to pass the AI-slop test — specific, plain, and adaptable.
+**Is this AI-written copy?** It is human-edited copy written to pass the AI-slop test: specific, plain, and adaptable.
 
 ### Silent Churn Rescue Kit
 
@@ -509,9 +509,9 @@ A 90-day, day-by-day LinkedIn playbook for SaaS founders: five content pillars, 
 
 A 7-day activation system that stops silent churn: define the aha moment, patch signup leaks, trigger behavior-based nudges, and save cancelling users.
 
-**What do I get, and in what format?** The kit (PDF) — the activation checklist and the 7-day nudge sequence are ready to run.
+**What do I get, and in what format?** The kit (PDF): the activation checklist and the 7-day nudge sequence, ready to run.
 
-**What if my activation event is unclear?** The kit's first exercise is defining it in one sentence — that exercise alone changes what you ship.
+**What if my activation event is unclear?** The kit's first exercise is defining it in one sentence. That exercise alone changes what you ship.
 
 ### Titles & Hooks Scorecard
 
@@ -524,7 +524,7 @@ An XLSX scoring workbook for video titles and hooks: six checks scored 0 to 5, t
 
 **What do I get, and in what format?** The XLSX workbook plus a PDF guide covering the six checks and the weekly routine.
 
-**Does it write titles for me?** No — it scores the three drafts you bring and shows which check keeps failing across your titles.
+**Does it write titles for me?** No. It scores the three drafts you bring and shows which check keeps failing across your titles.
 
 ## BUNDLE
 
@@ -546,11 +546,11 @@ Six finance workbooks and their PDF guides in one bundle: rate floor, runway and
 - url: https://probiex.gumroad.com/l/launch-bundle
 - category: BUNDLE
 - format: 3 PRODUCTS · ONE CHECKOUT
-- audience: Founders approaching launch week — everything from first touch to first revenue.
+- audience: Founders approaching launch week, covering everything from first touch to first revenue.
 
-Four launch systems in one bundle — 40+ outreach replies, the seven launch emails, a 30-day ship plan, and the warm-signal first-100 playbook.
+Four launch systems in one bundle: 40+ outreach replies, the seven launch emails, a 30-day ship plan, and the warm-signal first-100 playbook.
 
-**What do I get, and in what format?** Four products — PDFs and template kits — in one purchase, one download section.
+**What do I get, and in what format?** Four products: PDFs and template kits in one purchase, one download section.
 
 **Do the systems reference each other?** They run in sequence: outreach replies → launch emails → first customers, with the 30-day plan as the spine.
 
@@ -561,9 +561,9 @@ Four launch systems in one bundle — 40+ outreach replies, the seven launch ema
 - format: 3 PRODUCTS · ONE CHECKOUT
 - audience: Founders standardizing one workspace.
 
-Three Notion systems in one bundle — Founder CRM, Content Calendar, and Indie Hacker OS — full build specs plus setup guides for a one-workspace business.
+Three Notion systems in one bundle (Founder CRM, Content Calendar, and Indie Hacker OS): full build specs plus setup guides for a one-workspace business.
 
-**What do I get, and in what format?** Three Notion build specs plus setup guides — duplicate into your workspace and run.
+**What do I get, and in what format?** Three Notion build specs plus setup guides. Duplicate into your workspace and run.
 
 **Are the systems linked?** They share Notion relations where it helps (projects to revenue, content to audience), so one workspace holds the whole business.
 
@@ -602,11 +602,11 @@ A one-page business plan you build in Notion in 20 minutes or print and fill by 
 - format: NEXT.JS STARTER
 - audience: Solo founders and indie hackers who want their first paying customer, not their fiftieth config file.
 
-A production-ready Next.js starter with Clerk auth, Stripe subscriptions, Drizzle ORM, i18n, dark mode, tests, and CI — clone it, fill env vars, deploy.
+A production-ready Next.js starter with Clerk auth, Stripe subscriptions, Drizzle ORM, i18n, dark mode, tests, and CI. Clone it, fill env vars, deploy.
 
 **What do I get, and in what format?** The complete starter codebase (ZIP) plus the PDF setup guide.
 
-**Which Next.js/React versions?** Next.js 15 on the current release line — the setup guide covers upgrading.
+**Which Next.js/React versions?** Next.js 15 on the current release line; the setup guide covers upgrading.
 
 ### The One-Page Personal Site
 
@@ -619,7 +619,7 @@ A one-page personal site as a single dependency-free HTML file: dark and light m
 
 **What do I get, and in what format?** A ZIP with the HTML file, the copy worksheet, and a site README, plus the PDF guide.
 
-**Can I keep it updated?** Yes — the guide's ritual is one dated note per shipped project, ten minutes, which is what keeps the page alive.
+**Can I keep it updated?** Yes. The guide's ritual is one dated note per shipped project, ten minutes, which is what keeps the page alive.
 
 ### Ship Your SaaS in 30 Days
 
@@ -632,7 +632,7 @@ A 30-day playbook from zero to paid SaaS: a day-by-day checklist from validation
 
 **What do I get, and in what format?** The checklist and template pack (ZIP) plus the PDF playbook.
 
-**What if I miss days?** The plan assumes drift — the landing and launch templates hold their shape even on messy weeks.
+**What if I miss days?** The plan assumes drift: the landing and launch templates hold their shape even on messy weeks.
 
 ### The Transactional Email Kit
 
@@ -641,7 +641,7 @@ A 30-day playbook from zero to paid SaaS: a day-by-day checklist from validation
 - format: 8 HTML EMAILS
 - audience: Solo SaaS founders and indie hackers wiring up lifecycle email.
 
-Eight production HTML emails — welcome, receipt, password reset, trial ending, payment failed, weekly digest, account closing, reactivation — coded to render in Gmail and Outlook.
+Eight production HTML emails: welcome, receipt, password reset, trial ending, payment failed, weekly digest, account closing, and reactivation, coded to render in Gmail and Outlook.
 
 **What do I get, and in what format?** A ZIP with the eight .html files and the cheat sheet, plus the PDF guide.
 
