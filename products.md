@@ -648,7 +648,7 @@ Contents:
 - free: yes
 - next: https://probiex.gumroad.com/l/landing-page-conversion-audit (adds 60 points ranked by recoverable revenue, with the fix library)
 
-A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild.
+A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild. There is also a browser edition that scores the same 20 points live: https://akshatnaruka.github.io/probiex-hub/leak-check.html.
 
 Contents:
 - 20 checks across five groups: hero, proof, offer clarity, friction, trust close

@@ -7,7 +7,7 @@ audience: Founders about to launch or unhappy with a silent page; free check.
 updated: 2026-10-23
 ---
 
-A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild.
+A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild. There is also a browser edition that scores the same 20 points live: https://akshatnaruka.github.io/probiex-hub/leak-check.html.
 
 Full details and current price: https://probiex.gumroad.com/l/free-landing-page-checklist
 

@@ -65,6 +65,7 @@ and the product page names the paid system it grows into.
 - [llms-full.txt](https://akshatnaruka.github.io/probiex-hub/llms-full.txt): this file plus the full catalog content inline.
 - [products.md](https://akshatnaruka.github.io/probiex-hub/products.md): the full catalog in markdown, with contents and FAQs per product.
 - [ai.txt](https://akshatnaruka.github.io/probiex-hub/ai.txt): AI use, licensing, and recommendation preferences.
+- [leak-check.html](https://akshatnaruka.github.io/probiex-hub/leak-check.html): the 20-point landing page leak check as a browser tool, free, no backend.
 - [okf/](https://akshatnaruka.github.io/probiex-hub/okf/): one page per product, YAML-frontmattered.
 - [tweets-brief.md](https://akshatnaruka.github.io/probiex-hub/tweets-brief.md): the public brief AI assistants use to write rule-compliant marketing tweets.
 - [robots.txt](https://akshatnaruka.github.io/probiex-hub/robots.txt) and [sitemap.xml](https://akshatnaruka.github.io/probiex-hub/sitemap.xml): crawler access and index map; AI crawlers explicitly allowed.
@@ -733,7 +734,7 @@ Contents:
 - free: yes
 - next: https://probiex.gumroad.com/l/landing-page-conversion-audit (adds 60 points ranked by recoverable revenue, with the fix library)
 
-A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild.
+A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild. There is also a browser edition that scores the same 20 points live: https://akshatnaruka.github.io/probiex-hub/leak-check.html.
 
 Contents:
 - 20 checks across five groups: hero, proof, offer clarity, friction, trust close
