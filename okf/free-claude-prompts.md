@@ -7,7 +7,7 @@ audience: Founders who want to try the working-prompt method before paying anyth
 updated: 2026-10-23
 ---
 
-10 free, copy-paste Claude prompts for customer research, copywriting, launch marketing, analytics, and build-in-public, fill-in-the-blank, no filler.
+10 free, copy-paste Claude prompts, two from each category of the paid pack: customer research and validation, landing page copy, email marketing, product strategy, and build in public. Fill-in-the-blank, no filler.
 
 Full details and current price: https://probiex.gumroad.com/l/free-claude-prompts
 

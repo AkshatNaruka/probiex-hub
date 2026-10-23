@@ -1,7 +1,7 @@
 ---
 name: SaaS Founder Copy Vault
 category: GETTING CUSTOMERS
-format: 80+ BLOCKS
+format: 50+ BLOCKS
 url: https://probiex.gumroad.com/l/saas-founder-copy-vault
 audience: Founders who freeze at the blank page and want working starting points.
 updated: 2026-10-23

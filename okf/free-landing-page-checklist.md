@@ -3,7 +3,7 @@ name: Free Landing Page Leak Check: 20 Points
 category: GETTING CUSTOMERS
 format: FREE · 20 CHECKS
 url: https://probiex.gumroad.com/l/free-landing-page-checklist
-audience: Founders about to launch or unhappy with a silent page; free check, no email wall.
+audience: Founders about to launch or unhappy with a silent page; free check.
 updated: 2026-10-23
 ---
 

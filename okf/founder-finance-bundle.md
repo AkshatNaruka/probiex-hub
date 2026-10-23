@@ -1,7 +1,7 @@
 ---
 name: Founder Finance Bundle
 category: BUNDLE
-format: 3 PRODUCTS · ONE CHECKOUT
+format: 6 WORKBOOKS · ONE CHECKOUT
 url: https://probiex.gumroad.com/l/founder-finance-bundle
 audience: Founders who want the full finance picture instead of one spreadsheet.
 updated: 2026-10-23

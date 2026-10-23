@@ -3,7 +3,7 @@ name: Free One-Page Business Plan: Notion + PDF
 category: BUILDS
 format: NOTION + PDF
 url: https://probiex.gumroad.com/l/free-one-page-business-plan
-audience: Indie hackers and solo founders who keep their plan in 40 open tabs; free, no email wall.
+audience: Indie hackers and solo founders who keep their plan in 40 open tabs; free.
 updated: 2026-10-23
 ---
 

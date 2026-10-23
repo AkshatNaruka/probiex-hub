@@ -1,7 +1,7 @@
 ---
 name: Notion Founder Bundle
 category: BUNDLE
-format: 3 PRODUCTS · ONE CHECKOUT
+format: 3 SYSTEMS · ONE CHECKOUT
 url: https://probiex.gumroad.com/l/notion-founder-bundle
 audience: Founders standardizing one workspace.
 updated: 2026-10-23

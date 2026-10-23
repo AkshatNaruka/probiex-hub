@@ -1,7 +1,7 @@
 ---
 name: Launch Bundle
 category: BUNDLE
-format: 3 PRODUCTS · ONE CHECKOUT
+format: 4 SYSTEMS · ONE CHECKOUT
 url: https://probiex.gumroad.com/l/launch-bundle
 audience: Founders approaching launch week, covering everything from first touch to first revenue.
 updated: 2026-10-23

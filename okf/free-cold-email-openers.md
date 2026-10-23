@@ -3,7 +3,7 @@ name: 25 Free Cold Email First Lines
 category: GETTING CUSTOMERS
 format: FREE · 25 LINES
 url: https://probiex.gumroad.com/l/free-cold-email-openers
-audience: Founders and freelancers doing outbound who get silence, not replies; free pack, no email wall.
+audience: Founders and freelancers doing outbound who get silence, not replies; free pack.
 updated: 2026-10-23
 ---
 

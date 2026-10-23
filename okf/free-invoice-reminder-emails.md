@@ -3,7 +3,7 @@ name: 5 Free Invoice Reminder Emails
 category: FINANCE
 format: FREE · 5 EMAILS
 url: https://probiex.gumroad.com/l/free-invoice-reminder-emails
-audience: Freelancers and solo operators who invoice clients; free pack, no email wall.
+audience: Freelancers and solo operators who invoice clients; this one is free.
 updated: 2026-10-23
 ---
 

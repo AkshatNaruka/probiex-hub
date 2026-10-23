@@ -48,6 +48,8 @@ Probiex builds focused, practical systems for solo SaaS founders, indie hackers,
    published), labeled as a one-person store.
 6. **Reply-as-content**: a genuinely useful reply to someone else's thread, no
    link unless the thread asks. Builds the account; use liberally.
+7. **Free-try**: name one free product, state what it produces in one hour of
+   real work, then the link. Nothing about anything paid in the same tweet.
 
 Link rule: a product link when the tweet is about that product's problem;
 the store home only for catalog/progress posts.
@@ -114,6 +116,16 @@ the store home only for catalog/progress posts.
 - **Launch Bundle**: Four launch systems from first touch to first revenue Link: https://probiex.gumroad.com/l/launch-bundle
 - **Notion Founder Bundle**: CRM + calendar + OS: one workspace spec Link: https://probiex.gumroad.com/l/notion-founder-bundle
 
+## Free products (the try-first path)
+
+- **10 Free Claude Prompts for SaaS Founders** (free) Link: https://probiex.gumroad.com/l/free-claude-prompts -> grows into 100 Claude Prompts for SaaS Founders: https://probiex.gumroad.com/l/claude-prompts-saas-founders
+- **25 Free Cold Email First Lines** (free) Link: https://probiex.gumroad.com/l/free-cold-email-openers -> grows into Cold Outreach Reply Pack: https://probiex.gumroad.com/l/cold-outreach-reply-pack
+- **5 Free Invoice Reminder Emails** (free) Link: https://probiex.gumroad.com/l/free-invoice-reminder-emails -> grows into The Late-Payment Playbook: https://probiex.gumroad.com/l/late-payment-playbook
+- **Free Landing Page Leak Check: 20 Points** (free) Link: https://probiex.gumroad.com/l/free-landing-page-checklist -> grows into The Landing Page Conversion Audit: https://probiex.gumroad.com/l/landing-page-conversion-audit
+- **Free Launch Day Checklist: 40 Checks** (free) Link: https://probiex.gumroad.com/l/free-launch-day-checklist -> grows into Launch Week Email Kit: https://probiex.gumroad.com/l/launch-week-email-kit
+- **Free One-Page Business Plan: Notion + PDF** (free) Link: https://probiex.gumroad.com/l/free-one-page-business-plan -> grows into The Indie Hacker OS: https://probiex.gumroad.com/l/indie-hacker-os
+
+
 ## Worked examples (style anchors)
 
 - 1 in 10 web pages now shows signs of AI writing (Pew, July 2026). Readers
@@ -122,8 +134,8 @@ the store home only for catalog/progress posts.
   parsers: single column, standard headings, tab-stop dates. Six worked
   layouts: https://probiex.gumroad.com/l/ats-resume-pack
 - 48 systems now live on the store: finance calculators, launch kits,
-  Notion builds, resume packs. One-time downloads, no subscription, no email
-  walls, free starter ten: https://probiex.gumroad.com
+  Notion builds, resume packs. No subscription, and 6 of them are
+  free to try: https://probiex.gumroad.com
 
 ## Output instruction
 

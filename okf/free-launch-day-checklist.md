@@ -3,7 +3,7 @@ name: Free Launch Day Checklist: 40 Checks
 category: BUILDS
 format: 40 CHECKS
 url: https://probiex.gumroad.com/l/free-launch-day-checklist
-audience: Founders inside the launch week who are assembling the plane while flying it; free, no email wall.
+audience: Founders inside the launch week who are assembling the plane while flying it; free.
 updated: 2026-10-23
 ---
 

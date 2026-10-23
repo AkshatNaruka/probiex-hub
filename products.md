@@ -2,12 +2,30 @@
 site: Probiex
 store: https://probiex.gumroad.com
 updated: 2026-10-23
+products: 48
+free products: 6
 description: catalog of 48 practical systems for solo founders, indie hackers, freelancers
 ---
 
 Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 48 products, each shippable the week you buy it.
 
 Prices are shown on each product page.
+
+## The free path
+
+6 products are free. Each is the working first slice of a paid system, and the free product page names that next step before anyone pays:
+
+- [10 Free Claude Prompts for SaaS Founders](https://probiex.gumroad.com/l/free-claude-prompts) -> [100 Claude Prompts for SaaS Founders](https://probiex.gumroad.com/l/claude-prompts-saas-founders): adds the full 100-prompt pack across the same five disciplines, with the source Markdown.
+
+- [25 Free Cold Email First Lines](https://probiex.gumroad.com/l/free-cold-email-openers) -> [Cold Outreach Reply Pack](https://probiex.gumroad.com/l/cold-outreach-reply-pack): adds 40+ replies sorted by the objection that killed the thread.
+
+- [5 Free Invoice Reminder Emails](https://probiex.gumroad.com/l/free-invoice-reminder-emails) -> [The Late-Payment Playbook](https://probiex.gumroad.com/l/late-payment-playbook): adds contract clauses, deposit schedules, and the escalation ladder.
+
+- [Free Landing Page Leak Check: 20 Points](https://probiex.gumroad.com/l/free-landing-page-checklist) -> [The Landing Page Conversion Audit](https://probiex.gumroad.com/l/landing-page-conversion-audit): adds 60 points ranked by recoverable revenue, with the fix library.
+
+- [Free Launch Day Checklist: 40 Checks](https://probiex.gumroad.com/l/free-launch-day-checklist) -> [Launch Week Email Kit](https://probiex.gumroad.com/l/launch-week-email-kit): adds the seven emails a launch decides with, with subject lines and send timing.
+
+- [Free One-Page Business Plan: Notion + PDF](https://probiex.gumroad.com/l/free-one-page-business-plan) -> [The Indie Hacker OS](https://probiex.gumroad.com/l/indie-hacker-os): adds six linked Notion databases that run the week.
 
 ## AI & PROMPTS
 
@@ -17,8 +35,14 @@ Prices are shown on each product page.
 - category: AI & PROMPTS
 - format: AGENTS · SCHEMAS
 - audience: Solopreneurs whose bottleneck is themselves.
+- free: no
 
 Agent operations for solopreneurs: schemas, automation scripts, and a setup guide to offload triage, follow-ups, inbox, and reporting to supervised agents.
+
+Contents:
+- The system schemas for agent-led operations
+- Automation scripts for recurring ops
+- A setup guide from one supervised workflow to a full week
 
 **What do I get, and in what format?** The scripts and schemas archive (ZIP) plus the PDF setup guide.
 
@@ -30,8 +54,16 @@ Agent operations for solopreneurs: schemas, automation scripts, and a setup guid
 - category: AI & PROMPTS
 - format: 20-TELL AUDIT
 - audience: Founders, creators, and teams publishing anything AI-assisted.
+- free: no
 
 A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before you publish, with a rewrite table that turns vague claims into specific ones.
+
+Contents:
+- A 20-tell scorecard grouped by structure, language, and evidence
+- A rewrite table: a buzzword-forward claim becomes a plain, specific one
+- A brand voice sheet so your drafts have something to break against
+- A one-pass cleanup workflow, including the specific detail AI cannot invent
+- A "read the page backwards" test for weak endings
 
 **What do I get, and in what format?** The audit kit (PDF): scorecard, rewrite table, and voice sheet.
 
@@ -43,8 +75,16 @@ A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before yo
 - category: AI & PROMPTS
 - format: 100 PROMPTS · PDF + MD
 - audience: SaaS founders running their business with Claude as a working partner.
+- free: no
 
 100 copy-paste Claude prompts organized by SaaS job: research, copy, launch, growth, build-in-public, each with context fields and output format built in.
+
+Contents:
+- Customer Research and Validation (20 prompts)
+- Copy and Conversion (20)
+- Launch and Marketing (20)
+- Growth and Analytics (20)
+- Social and Build in Public (20)
 
 **What do I get, and in what format?** The prompt pack as PDF and Markdown (paste-ready in Claude).
 
@@ -56,8 +96,15 @@ A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before yo
 - category: AI & PROMPTS
 - format: FREE · 10 PROMPTS
 - audience: Founders who want to try the working-prompt method before paying anything.
+- free: yes
+- next: https://probiex.gumroad.com/l/claude-prompts-saas-founders (adds the full 100-prompt pack across the same five disciplines, with the source Markdown)
 
-10 free, copy-paste Claude prompts for customer research, copywriting, launch marketing, analytics, and build-in-public, fill-in-the-blank, no filler.
+10 free, copy-paste Claude prompts, two from each category of the paid pack: customer research and validation, landing page copy, email marketing, product strategy, and build in public. Fill-in-the-blank, no filler.
+
+Contents:
+- 10 battle-tested prompts across 5 founder disciplines
+- Fill-in-the-blank format, usable in 60 seconds
+- A sample from the full 100-prompt pack
 
 **What do I get, and in what format?** 10 prompts as PDF and Markdown, free, forever.
 
@@ -69,8 +116,15 @@ A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before yo
 - category: AI & PROMPTS
 - format: 3 WORKFLOWS
 - audience: n8n users who want automation that pays rent on day one.
+- free: no
 
 Ten n8n workflow walkthroughs for solopreneurs, three of them pre-built as importable JSON: RSS-to-email digest, new-lead webhooks to Slack, and Gumroad sales logged to Google Sheets.
+
+Contents:
+- RSS digest piped to email
+- New-lead webhooks routed to Slack
+- Gumroad sales logged to a Google Sheet automatically
+- Walkthrough docs for each workflow
 
 **What do I get, and in what format?** Ten workflow walkthroughs (PDF) with three pre-built JSON files (ZIP).
 
@@ -82,8 +136,14 @@ Ten n8n workflow walkthroughs for solopreneurs, three of them pre-built as impor
 - category: AI & PROMPTS
 - format: SCHEMA + GUIDE
 - audience: Builders shipping voice features into real products.
+- free: no
 
 Schemas, a compliance checklist, and a setup guide for shipping voice AI that survives real users and legal review: clone the process, not the voice.
+
+Contents:
+- Voice-system schemas (intake, routing, escalation)
+- A compliance checklist written for review meetings
+- A setup guide for production voice workflows
 
 **What do I get, and in what format?** The schemas and compliance kit (ZIP) plus the PDF setup guide.
 
@@ -97,8 +157,16 @@ Schemas, a compliance checklist, and a setup guide for shipping voice AI that su
 - category: CAREER & TEACHING
 - format: 30 LESSON PLANS
 - audience: Teachers and trainers who need an AI curriculum they can deliver with no AI expertise.
+- free: no
 
 30 fifty-minute AI lesson plans for K-12 through professional classrooms: worksheets, a rubric generator, an AI policy generator, and COAST/VERIFY frameworks.
+
+Contents:
+- 30 lesson plans across four phases: awareness, literacy, integration, creation
+- Printable worksheets and a rubric generator
+- Grade-level adaptations from K-5 through professional
+- An AI policy generator with Red/Yellow/Green zones
+- The COAST and VERIFY frameworks
 
 **What do I get, and in what format?** The complete kit (PDF), ready to teach tomorrow with no AI background needed.
 
@@ -110,8 +178,14 @@ Schemas, a compliance checklist, and a setup guide for shipping voice AI that su
 - category: CAREER & TEACHING
 - format: SPEC + KIT
 - audience: Builders shipping career AI products and coaches productizing resume reviews.
+- free: no
 
 The operating spec for an AI resume tool: a weighted scoring rubric, prompt chains, and three worked example rewrites: build it, QA a vendor, or productize it.
+
+Contents:
+- A weighted scoring rubric for resume rewrites
+- The prompt chains that implement the rubric
+- Three fully worked example rewrites: before, after, and score
 
 **What do I get, and in what format?** The full spec archive (ZIP) plus the PDF launch kit.
 
@@ -123,8 +197,15 @@ The operating spec for an AI resume tool: a weighted scoring rubric, prompt chai
 - category: CAREER & TEACHING
 - format: 6 DOCX MASTERS
 - audience: Freelancers and solo operators applying to full-time or contract roles.
+- free: no
 
 Six worked-example resumes as DOCX masters, each single-column with standard headings, built to survive how applicant tracking systems parse documents.
+
+Contents:
+- Six complete .docx resumes with realistic worked examples: modern Arial, Georgia classic, bullet-forward sales, skills-first career switcher, executive summary, compact tech
+- A PDF guide on how a parse actually works, in definitional terms
+- The keyword pass: pull 8 to 12 exact phrases from a posting and place them truthfully
+- The replace-my-data checklist mapping every fictional value to what you swap in
 
 **What do I get, and in what format?** A ZIP with the six .docx masters and their markdown sources, plus the PDF guide.
 
@@ -136,8 +217,15 @@ Six worked-example resumes as DOCX masters, each single-column with standard hea
 - category: CAREER & TEACHING
 - format: NOTION · COURSE
 - audience: Solo experts turning their craft into a first paid course or cohort.
+- free: no
 
 A Notion course-architecture system: outcome gates per module, lessons with script and recording status, and a feedback table that gates what ships.
+
+Contents:
+- Database schemas: Courses, Modules, Lessons, Assets and Scripts, Student Feedback, with exact properties and formulas
+- The outcome-first gate: define what a student can do on day 1 and day 30 per module, with a worksheet
+- A recording queue that only admits lessons with approved scripts and a passed module gate
+- Views: architecture board, recording queue, actionable feedback
 
 **What do I get, and in what format?** A ZIP with the schema spec, a 12-row lesson-planner seed CSV, and a workspace README, plus a PDF guide.
 
@@ -149,8 +237,15 @@ A Notion course-architecture system: outcome gates per module, lessons with scri
 - category: CAREER & TEACHING
 - format: NOTION · SEARCH
 - audience: Freelancers between contracts and solo operators running a full-time or contract search.
+- free: no
 
 A Notion job-search system: applications, contacts, follow-up dates, and offer math, built to run a search like a sales campaign.
+
+Contents:
+- Database schemas: Companies, Roles, Applications, People, Interviews, with exact properties and formulas
+- Views: follow-ups due today, applications out for over two weeks, the interview-stage board
+- A follow-up cadence (day 4, 6, 12, 20) with honest framing on cold versus referred replies
+- Offer math: a total-compensation comparison across contract and full-time offers
 
 **What do I get, and in what format?** A ZIP with the schema spec, a 14-row seed CSV for the application tracker, and a workspace README, plus a PDF guide.
 
@@ -162,8 +257,15 @@ A Notion job-search system: applications, contacts, follow-up dates, and offer m
 - category: CAREER & TEACHING
 - format: 16 SLIDES + PPTX
 - audience: Solo founders at pre-seed and seed raising a first round.
+- free: no
 
 A 16-slide PPTX deck template with a worked seed-stage example, speaker notes, and a walkthrough that answers one investor question per slide.
+
+Contents:
+- A 16-slide PPTX: ten core slides plus appendix (pipeline, cohorts, pricing, benchmark definitions, FAQ, contact)
+- A traction chart, a 2x2 alternatives grid, and a big-number ask slide, all pre-built
+- Speaker notes written as the words to say, not bullet reminders
+- A PDF walkthrough: the one question each slide answers, the make-or-break rule, and the numbers-honesty block
 
 **What do I get, and in what format?** The .pptx deck plus a ZIP with the slide content spec, and the PDF walkthrough guide.
 
@@ -177,8 +279,14 @@ A 16-slide PPTX deck template with a worked seed-stage example, speaker notes, a
 - category: FINANCE
 - format: CAC FLOOR
 - audience: SaaS founders and indie hackers spending anything to acquire customers.
+- free: no
 
 An XLSX workbook that derives your break-even CAC from real pricing, margins, and retention: the ceiling you must never bid above when acquiring customers.
+
+Contents:
+- Break-even CAC computed from your real pricing, margins, and retention
+- Headroom analysis per acquisition channel
+- A PDF guide on the three decisions the number forces: pricing, channel mix, payback target
 
 **What do I get, and in what format?** The XLSX calculator plus a PDF walkthrough of the math and the forced decisions.
 
@@ -189,9 +297,18 @@ An XLSX workbook that derives your break-even CAC from real pricing, margins, an
 - url: https://probiex.gumroad.com/l/free-invoice-reminder-emails
 - category: FINANCE
 - format: FREE · 5 EMAILS
-- audience: Freelancers and solo operators who invoice clients; free pack, no email wall.
+- audience: Freelancers and solo operators who invoice clients; this one is free.
+- free: yes
+- next: https://probiex.gumroad.com/l/late-payment-playbook (adds contract clauses, deposit schedules, and the escalation ladder)
 
 Five copy-paste invoice reminder emails, ordered from three days before the due date to the final notice before work pauses: the pre-due messages most freelancers never send.
+
+Contents:
+- Email 1: three business days before the due date (catches lost invoices at the AP desk)
+- Email 2: the due-day morning nudge
+- Email 3: day 1 overdue, framed as a process check, not an accusation
+- Email 4: day 14, asking for a specific commitment date
+- Email 5: the final notice that states the work pause plainly
 
 **Are these the same emails as in the Late-Payment Playbook?** Five of the reminder emails overlap; the playbook adds the rest of the system: contract clauses, deposit schedules, and the full escalation ladder.
 
@@ -203,8 +320,15 @@ Five copy-paste invoice reminder emails, ordered from three days before the due 
 - category: FINANCE
 - format: 90-DAY FORECAST
 - audience: Freelancers with variable income and fixed costs.
+- free: no
 
 A 13-week XLSX cash-flow model for freelancers: probability-weighted incoming payments, fixed commitments, and weekly runway; shortfalls surface early.
+
+Contents:
+- A rolling 90-day forecast with probability weights for late invoices
+- Commitments tracker and runway computed weekly
+- Late-payment email templates
+- A PDF guide covering the three habits that make forecasting stick
 
 **What do I get, and in what format?** The XLSX 13-week model, late-payment email templates, and the PDF guide.
 
@@ -216,8 +340,14 @@ A 13-week XLSX cash-flow model for freelancers: probability-weighted incoming pa
 - category: FINANCE
 - format: RATE FLOOR
 - audience: Freelancers and solo operators pricing their own hours.
+- free: no
 
 An XLSX calculator that derives your freelance rate floor from real costs, true billable hours, and target margin, with a worked $72/hr example.
+
+Contents:
+- The rate-floor calculator with cost inputs and margin targets
+- A worked example ($4,300 costs, 100 billable hours, 40% margin = $72/hr minimum)
+- Rate-raise timing guidance tied to your numbers
 
 **What do I get, and in what format?** The XLSX rate calculator plus a PDF guide covering cost inputs, margin targets, and when to raise rates.
 
@@ -229,8 +359,16 @@ An XLSX calculator that derives your freelance rate floor from real costs, true 
 - category: FINANCE
 - format: PDF + EMAIL KIT
 - audience: Freelancers and solo operators who invoice clients and get paid late.
+- free: no
 
 A 5-layer late-payment system for freelancers: contract clauses, deposit schedules, pre-due reminders, and a 4-step escalation ladder that gets invoices paid.
+
+Contents:
+- Three contract clauses that survive a difficult client
+- Deposit schedules by project size (never start without the money)
+- The pre-due and due-date messages most freelancers never send
+- A 4-step escalation ladder with ready-to-paste email wording
+- A write-off policy (when to stop chasing) and a 15-minute weekly cash review
 
 **What do I get, and in what format?** The playbook (PDF) plus the email wording kits: clauses, reminders, and escalation emails, all copy-paste ready.
 
@@ -242,8 +380,15 @@ A 5-layer late-payment system for freelancers: contract clauses, deposit schedul
 - category: FINANCE
 - format: BANDS + TIERS
 - audience: SaaS founders and indie hackers setting or resetting prices.
+- free: no
 
 An XLSX pricing method and PDF guide: a Van Westendorp survey, a value-metric test, and three-tier structure rules for setting or resetting prices.
+
+Contents:
+- A Van Westendorp survey to find acceptable price bands
+- A value-metric test to pick what you charge for
+- Three-tier structure rules and mobile pricing-page checks
+- A quarterly revisit cadence: work it once per product, then re-run
 
 **What do I get, and in what format?** The XLSX pricing workbook plus a PDF method guide walking through the math.
 
@@ -255,8 +400,15 @@ An XLSX pricing method and PDF guide: a Van Westendorp survey, a value-metric te
 - category: FINANCE
 - format: RUNWAY MATH
 - audience: Founders and indie hackers managing their own cash position.
+- free: no
 
 An XLSX model that computes real runway from trailing burn, committed spend, and revenue scenarios, plus the breakeven point where the clock stops.
+
+Contents:
+- Runway computed from trailing burn, committed spend, and revenue scenarios
+- The breakeven point: the revenue level where the clock stops
+- Scenario rows to test hiring, raises, and churn shocks before they happen
+- A PDF guide on reading the output and the three actions a short runway forces
 
 **What do I get, and in what format?** The XLSX runway model plus a PDF guide to the reading and actions.
 
@@ -268,8 +420,14 @@ An XLSX model that computes real runway from trailing burn, committed spend, and
 - category: FINANCE
 - format: XLSX + PDF
 - audience: SaaS founders who want a Monday-morning numbers ritual.
+- free: no
 
 A two-sheet XLSX dashboard that computes eight of the ten SaaS survival metrics: MRR and net-new MRR, LTV:CAC, gross retention, NRR, CAC payback, churn, and conversion, from nine pasted inputs.
+
+Contents:
+- Eight of the ten survival metrics computed in the sheet: MRR and net-new MRR, LTV:CAC, gross retention and NRR, CAC payback, churn, and free-to-paid conversion; the guide walks GRR and LTV by hand from the same numbers
+- The decision each metric forces, written next to it
+- A PDF guide explaining every metric and its action threshold
 
 **What do I get, and in what format?** The two-sheet XLSX dashboard plus the PDF guide.
 
@@ -283,8 +441,15 @@ A two-sheet XLSX dashboard that computes eight of the ten SaaS survival metrics:
 - category: OPERATIONS
 - format: NOTION · PORTAL
 - audience: Freelancers and solo operators juggling 3 to 8 clients over email and Slack.
+- free: no
 
 A Notion build spec for a client-facing portal: deliverables, milestones, approvals, and a decision log clients can check themselves.
+
+Contents:
+- Database schemas: Clients, Projects, Deliverables, Discussions, with exact properties and formulas
+- The approval workflow: Draft to Review to Approved to Delivered, with a publishing rule
+- Ten views including per-client dashboards and a wrap-up view for retainers
+- A guest-sharing walkthrough: what the client sees, what stays internal, how to revoke
 
 **What do I get, and in what format?** A ZIP with the schema spec, a seed CSV you can import, and a workspace README, plus a PDF guide with the one-session build order.
 
@@ -296,8 +461,16 @@ A Notion build spec for a client-facing portal: deliverables, milestones, approv
 - category: OPERATIONS
 - format: 15H/WEEK
 - audience: Indie founders stuck in the build-solo loop.
+- free: no
 
 A weekly cadence system for indie founders: fixed outreach/build/review blocks, a 10-conversations rule, and energy rules that prevent the 60-hour spiral.
+
+Contents:
+- A fixed weekly cadence: outreach, interviews, build, review
+- 10 conversations moved per week
+- The one-objection-one-feature build rule
+- A 20-minute founder check-in habit
+- Energy rules that prevent the 60-hour burnout spiral
 
 **What do I get, and in what format?** The system (PDF): cadence, rules, and the check-in template.
 
@@ -309,8 +482,16 @@ A weekly cadence system for indie founders: fixed outreach/build/review blocks, 
 - category: OPERATIONS
 - format: 6 DATABASES
 - audience: Solo developers building digital products.
+- free: no
 
 A six-database Notion OS for indie builders: idea scoring, project tracking, revenue math, audience stats, a learning log, and a weekly ops dashboard.
+
+Contents:
+- Idea Vault with a scoring formula
+- Project Hub with launch tracking
+- Revenue Tracker with Stripe-fee math
+- Audience Growth with cross-platform stats
+- Learning Log and an Operations Dashboard for weekly reviews
 
 **What do I get, and in what format?** The Notion template (duplicate-to-use) plus setup documentation.
 
@@ -322,8 +503,15 @@ A six-database Notion OS for indie builders: idea scoring, project tracking, rev
 - category: OPERATIONS
 - format: NOTION · MEETINGS
 - audience: Solo founders and freelancers whose meetings with clients, leads, and contractors produce notes but no follow-through.
+- free: no
 
 A Notion meeting system: notes, decisions, and owner-assigned actions, with a 15-minute Friday review that closes every loop the week opened.
+
+Contents:
+- Database schemas: People, Meetings, Decisions, Actions, with exact properties and formulas
+- Eight views: today's agenda with last meeting's decisions rolled up, open actions by owner, the decision log
+- The literal meeting-note template text to paste into a Notion template block
+- The Friday review: a 15-minute flow with exact filters for closing the week
 
 **What do I get, and in what format?** A ZIP with the schema spec, the meeting template, and a workspace README, plus a PDF guide with the build order.
 
@@ -335,8 +523,14 @@ A Notion meeting system: notes, decisions, and owner-assigned actions, with a 15
 - category: OPERATIONS
 - format: NOTION · CONTENT
 - audience: Founders and creators running their own distribution.
+- free: no
 
 A Notion content database spec with pillars, formats, repurposing links, and performance fields: it turns one idea into five posts, built in a single session.
+
+Contents:
+- A content database with pillars, formats, repurposing links, and performance fields
+- Specified down to the database properties
+- The repurposing design that makes one idea become five posts by design, not by accident
 
 **What do I get, and in what format?** The full database spec and content system (ZIP) plus the PDF setup guide.
 
@@ -348,8 +542,14 @@ A Notion content database spec with pillars, formats, repurposing links, and per
 - category: OPERATIONS
 - format: NOTION · CRM
 - audience: Technical founders doing sales without a sales team.
+- free: no
 
 A founder CRM build spec for Notion: lead, pipeline, and contact databases with properties, views, and the weekly review cadence, built in one session.
+
+Contents:
+- Lead, pipeline, and contact databases, with properties and views specified
+- The weekly review cadence that keeps the CRM alive
+- A one-session build guide
 
 **What do I get, and in what format?** The complete build spec (ZIP) plus the PDF setup guide.
 
@@ -361,8 +561,17 @@ A founder CRM build spec for Notion: lead, pipeline, and contact databases with 
 - category: OPERATIONS
 - format: RATE + CAPACITY
 - audience: One-person agencies and solo operators managing larger clients.
+- free: no
 
 The operations playbook for a one-person agency: rate floor, client scoring, capacity planner, SOPs, discovery call script, and a 12-month growth roadmap.
+
+Contents:
+- True hourly rate calculator from real costs
+- Project profitability model and 7-factor client scoring matrix
+- Capacity planner with price-raise thresholds
+- Automation decision tree and SOP template
+- 10 outreach scripts, a 15-minute discovery call script
+- A 12-month growth roadmap and a client firing script
 
 **What do I get, and in what format?** The operations playbook (PDF): all ten components in one document.
 
@@ -376,8 +585,14 @@ The operations playbook for a one-person agency: rate floor, client scoring, cap
 - category: GETTING CUSTOMERS
 - format: 40+ REPLIES
 - audience: Founders and freelancers doing outreach themselves.
+- free: no
 
 40+ cold outreach reply templates, sorted by the objection that killed the thread: budget, timing, authority, fit, and silence. Each reply is matched to a pattern.
+
+Contents:
+- 40+ reply templates covering budget, timing, authority, fit, and the polite brush-off
+- Each reply matched to a known reply-rate pattern
+- A PDF guide on when to send each reply, and when to walk away
 
 **What do I get, and in what format?** The full template library (Markdown, copy-paste ready) plus the PDF guide.
 
@@ -389,8 +604,16 @@ The operations playbook for a one-person agency: rate floor, client scoring, cap
 - category: GETTING CUSTOMERS
 - format: 21-DAY PLAN
 - audience: Founders with a product and zero distribution.
+- free: no
 
 A warm-signal playbook for landing your first 100 customers: intent trigger phrases, 15-25% response replies, a 5-touch follow-up, and conversion logging.
+
+Contents:
+- Where to find buyers already looking (Reddit, X, communities)
+- The exact trigger phrases that signal purchase intent
+- How to write a reply that gets 15-25% response rates
+- The 5-touch follow-up sequence
+- How to log and measure what converts
 
 **What do I get, and in what format?** The playbook (PDF): 21 days of warm-signal hunting, with the tracking setup inside.
 
@@ -401,9 +624,16 @@ A warm-signal playbook for landing your first 100 customers: intent trigger phra
 - url: https://probiex.gumroad.com/l/free-cold-email-openers
 - category: GETTING CUSTOMERS
 - format: FREE · 25 LINES
-- audience: Founders and freelancers doing outbound who get silence, not replies; free pack, no email wall.
+- audience: Founders and freelancers doing outbound who get silence, not replies; free pack.
+- free: yes
+- next: https://probiex.gumroad.com/l/cold-outreach-reply-pack (adds 40+ replies sorted by the objection that killed the thread)
 
 Twenty-five first lines for cold emails, grouped by scenario, plus the five rules that keep an opener about the recipient instead of the sender.
+
+Contents:
+- 25 openers across eight scenarios: referral mentions, their recent launch or post, product observations, shared stack, community overlap, hiring signals, competitor-switch moments, and praise with proof
+- The 5 rules of a first line (under 12 words, verifiable, no ask)
+- Four reply-killers and the day-3 / day-7 follow-up spacing
 
 **Is this the same as the Cold Outreach Reply Pack?** No. That pack handles what comes after a reply, matched to the objection. This one is only the first line that earns the reply.
 
@@ -414,9 +644,16 @@ Twenty-five first lines for cold emails, grouped by scenario, plus the five rule
 - url: https://probiex.gumroad.com/l/free-landing-page-checklist
 - category: GETTING CUSTOMERS
 - format: FREE · 20 CHECKS
-- audience: Founders about to launch or unhappy with a silent page; free check, no email wall.
+- audience: Founders about to launch or unhappy with a silent page; free check.
+- free: yes
+- next: https://probiex.gumroad.com/l/landing-page-conversion-audit (adds 60 points ranked by recoverable revenue, with the fix library)
 
 A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild.
+
+Contents:
+- 20 checks across five groups: hero, proof, offer clarity, friction, trust close
+- A "Fix:" line under every check for the fail case
+- Scoring bands: 0-4 misses ship-ready, 5-9 leaking, 10+ rebuild section by section
 
 **How does this relate to the full Landing Page Conversion Audit?** This is the first 20 points. The audit runs 60, ranks leaks by revenue impact, and includes the fix library.
 
@@ -428,8 +665,15 @@ A 20-point pass-or-miss check for SaaS and product landing pages, with a one-lin
 - category: GETTING CUSTOMERS
 - format: 6 DOCUMENTS
 - audience: Freelancers and solo operators signing clients without a lawyer on retainer.
+- free: no
 
 Six fill-in freelance documents: a master services agreement, SOW, mutual NDA, IP assignment, change order, and deposit rider, with a plain-English guide.
+
+Contents:
+- Six .docx contracts: MSA, SOW, NDA, IP assignment and transfer, change order, deposit and payment schedule
+- Milestone payments with a late-fee clause, a kill fee on early termination, and an acceptance window in the SOW
+- A guide chaining the documents: MSA once, SOW per project, NDA up front, change order when scope moves
+- The three decisions inside each document you must actually choose, called out per contract
 
 **What do I get, and in what format?** A ZIP with the six .docx documents plus the PDF guide.
 
@@ -441,8 +685,16 @@ Six fill-in freelance documents: a master services agreement, SOW, mutual NDA, I
 - category: GETTING CUSTOMERS
 - format: 0–100 + CLI
 - audience: Founders and marketers who want their content cited and recommended by AI systems.
+- free: no
 
 A GEO system for AI search visibility: a 0-100 scorecard across five weighted dimensions, a fix-order priority formula, an llms.txt template, and E-E-A-T checks.
+
+Contents:
+- GEO Scorecard across 5 weighted dimensions
+- Priority formula: fix the highest-ROI pages first
+- llms.txt template ready to deploy
+- E-E-A-T checklist for AI trust signals
+- 30-day implementation schedule + scorecard CLI script
 
 **What do I get, and in what format?** The system (PDF) plus the scorecard CLI script and llms.txt template (ZIP).
 
@@ -454,8 +706,14 @@ A GEO system for AI search visibility: a 0-100 scorecard across five weighted di
 - category: GETTING CUSTOMERS
 - format: 60-POINT AUDIT
 - audience: Founders auditing their own landing page before spending on traffic.
+- free: no
 
 A 60-point landing page audit that scores message clarity, fold copy, forms, trust, and mobile, then ranks your top three conversion leaks by recoverable rate.
+
+Contents:
+- The 60-point scorecard: message clarity, fold copy, forms, trust signals, mobile
+- A leak-ranking system by recoverable conversion, so you fix in the right order
+- Fix patterns for each failure mode in the PDF guide
 
 **What do I get, and in what format?** The scorecard system (ZIP) plus the PDF guide with fix patterns.
 
@@ -467,8 +725,14 @@ A 60-point landing page audit that scores message clarity, fold copy, forms, tru
 - category: GETTING CUSTOMERS
 - format: 7 EMAILS
 - audience: Founders launching on Gumroad, Product Hunt, or their own list.
+- free: no
 
 The seven launch emails: announcement, story, proof, objection-handler, FAQ, last-call, and doors-closed, with subject lines, body copy, and send-day timing.
+
+Contents:
+- All seven emails, ready to send, with the send-day timing for each
+- Sequencing and segmentation guidance
+- The two reminders most launches skip
 
 **What do I get, and in what format?** The email templates (Markdown) plus a PDF setup guide.
 
@@ -480,8 +744,16 @@ The seven launch emails: announcement, story, proof, objection-handler, FAQ, las
 - category: GETTING CUSTOMERS
 - format: 90 DAYS
 - audience: SaaS founders growing an audience that actually converts.
+- free: no
 
 A 90-day, day-by-day LinkedIn playbook for SaaS founders: five content pillars, weekly post plans, hook formulas, and the metrics that matter.
+
+Contents:
+- The 5 content pillars with exact percentage splits
+- What to post each week for 12 weeks
+- Hook formulas with fill-in slots, from post one to post ninety
+- How to turn one idea into five posts
+- Metrics that matter (and the vanity metrics to ignore)
 
 **What do I get, and in what format?** The playbook (PDF): 90 days mapped, week by week.
 
@@ -491,10 +763,18 @@ A 90-day, day-by-day LinkedIn playbook for SaaS founders: five content pillars, 
 
 - url: https://probiex.gumroad.com/l/saas-founder-copy-vault
 - category: GETTING CUSTOMERS
-- format: 80+ BLOCKS
+- format: 50+ BLOCKS
 - audience: Founders who freeze at the blank page and want working starting points.
+- free: no
 
 50+ copy blocks for SaaS founders: hero lines, launch emails, cold outreach, and landing page sections written like a human founder, adapted in 5 minutes.
+
+Contents:
+- Landing page hero and subhead lines
+- Launch and announcement email sequences
+- Cold DM and cold email openers
+- Objection-handling responses
+- Product Hunt and launch-day copy
 
 **What do I get, and in what format?** The copy vault (PDF): 50+ blocks organized by use case.
 
@@ -506,8 +786,16 @@ A 90-day, day-by-day LinkedIn playbook for SaaS founders: five content pillars, 
 - category: GETTING CUSTOMERS
 - format: 7-DAY SYSTEM
 - audience: SaaS founders watching trial and signup cohorts leak away.
+- free: no
 
 A 7-day activation system that stops silent churn: define the aha moment, patch signup leaks, trigger behavior-based nudges, and save cancelling users.
+
+Contents:
+- Define your "aha moment" in one sentence
+- Count the leaks between signup and activation
+- A 3-step activation checklist
+- Behavior-triggered 7-day nudge email sequence
+- The cancel-save flow that learns from lost users
 
 **What do I get, and in what format?** The kit (PDF): the activation checklist and the 7-day nudge sequence, ready to run.
 
@@ -519,8 +807,15 @@ A 7-day activation system that stops silent churn: define the aha moment, patch 
 - category: GETTING CUSTOMERS
 - format: 6 CHECKS · 30 PTS
 - audience: Founders and solo operators building YouTube as a distribution channel.
+- free: no
 
 An XLSX scoring workbook for video titles and hooks: six checks scored 0 to 5, twelve title patterns, twelve hook patterns, and a weekly ship log.
+
+Contents:
+- The Scorer sheet: 20 rows, six checks (front-load, curiosity, specific, honest, readable, length), auto verdicts
+- A Pattern Bank of 12 title patterns with the job each does
+- A Hooks sheet pairing each title pattern with a first-line hook and a worked example
+- A ship log that reads views against the channel median, not your best day
 
 **What do I get, and in what format?** The XLSX workbook plus a PDF guide covering the six checks and the weekly routine.
 
@@ -532,8 +827,9 @@ An XLSX scoring workbook for video titles and hooks: six checks scored 0 to 5, t
 
 - url: https://probiex.gumroad.com/l/founder-finance-bundle
 - category: BUNDLE
-- format: 3 PRODUCTS · ONE CHECKOUT
+- format: 6 WORKBOOKS · ONE CHECKOUT
 - audience: Founders who want the full finance picture instead of one spreadsheet.
+- free: no
 
 Six finance workbooks and their PDF guides in one bundle: rate floor, runway and breakeven, break-even CAC, the ten SaaS metrics, the pricing method, and a 90-day cash forecast.
 
@@ -545,8 +841,9 @@ Six finance workbooks and their PDF guides in one bundle: rate floor, runway and
 
 - url: https://probiex.gumroad.com/l/launch-bundle
 - category: BUNDLE
-- format: 3 PRODUCTS · ONE CHECKOUT
+- format: 4 SYSTEMS · ONE CHECKOUT
 - audience: Founders approaching launch week, covering everything from first touch to first revenue.
+- free: no
 
 Four launch systems in one bundle: 40+ outreach replies, the seven launch emails, a 30-day ship plan, and the warm-signal first-100 playbook.
 
@@ -558,8 +855,9 @@ Four launch systems in one bundle: 40+ outreach replies, the seven launch emails
 
 - url: https://probiex.gumroad.com/l/notion-founder-bundle
 - category: BUNDLE
-- format: 3 PRODUCTS · ONE CHECKOUT
+- format: 3 SYSTEMS · ONE CHECKOUT
 - audience: Founders standardizing one workspace.
+- free: no
 
 Three Notion systems in one bundle (Founder CRM, Content Calendar, and Indie Hacker OS): full build specs plus setup guides for a one-workspace business.
 
@@ -574,9 +872,16 @@ Three Notion systems in one bundle (Founder CRM, Content Calendar, and Indie Hac
 - url: https://probiex.gumroad.com/l/free-launch-day-checklist
 - category: BUILDS
 - format: 40 CHECKS
-- audience: Founders inside the launch week who are assembling the plane while flying it; free, no email wall.
+- audience: Founders inside the launch week who are assembling the plane while flying it; free.
+- free: yes
+- next: https://probiex.gumroad.com/l/launch-week-email-kit (adds the seven emails a launch decides with, with subject lines and send timing)
 
 Forty ordered checks for launch day, from T-24h through T+72h: product ready, checkout tested, content staged, the launch itself, first-day replies, and the retro.
+
+Contents:
+- 40 checks in four run-throughs: T-24h (product, site, money, content), T-0 (post order, email, communities), T+24h (replies, first fix, sources), T+72h (retro, follow-ups, next iteration)
+- Every check carries a one-line why, so a co-founder can run it without you
+- A failure-mapping table: which missed check explains which launch-day symptom
 
 **Does this replace a launch plan?** No. It covers launch day and the 72 hours after. The 30 days before are Ship Your SaaS in 30 Days, and the launch emails are the Launch Week Email Kit.
 
@@ -587,9 +892,17 @@ Forty ordered checks for launch day, from T-24h through T+72h: product ready, ch
 - url: https://probiex.gumroad.com/l/free-one-page-business-plan
 - category: BUILDS
 - format: NOTION + PDF
-- audience: Indie hackers and solo founders who keep their plan in 40 open tabs; free, no email wall.
+- audience: Indie hackers and solo founders who keep their plan in 40 open tabs; free.
+- free: yes
+- next: https://probiex.gumroad.com/l/indie-hacker-os (adds six linked Notion databases that run the week)
 
 A one-page business plan you build in Notion in 20 minutes or print and fill by hand: nine sections, a weekly review rule, and a worked example that shows the specificity bar.
+
+Contents:
+- The 9-section template: promise, customer, problem, wedge, channel, revenue model, 90-day milestones, weekly metric, kill criteria
+- The Notion build spec (page, callouts, and a linked milestones database with Name, Due, Status, Evidence)
+- The Monday review rule: 5 minutes, update 3 fields, keep or kill one experiment
+- A filled worked example for a fictional indie SaaS
 
 **Do I need Notion?** No. The PDF works on paper. The Notion spec is there if you want the weekly review to live where you work.
 
@@ -601,8 +914,15 @@ A one-page business plan you build in Notion in 20 minutes or print and fill by 
 - category: BUILDS
 - format: NEXT.JS STARTER
 - audience: Solo founders and indie hackers who want their first paying customer, not their fiftieth config file.
+- free: no
 
 A production-ready Next.js starter with Clerk auth, Stripe subscriptions, Drizzle ORM, i18n, dark mode, tests, and CI. Clone it, fill env vars, deploy.
+
+Contents:
+- Next.js 15 starter with Clerk auth (magic links, OAuth, multi-tenancy)
+- Stripe subscriptions with webhooks and customer portal
+- Drizzle ORM on Postgres, English/French i18n, dark mode
+- Storybook, Playwright E2E, Vitest, and GitHub Actions CI
 
 **What do I get, and in what format?** The complete starter codebase (ZIP) plus the PDF setup guide.
 
@@ -614,8 +934,15 @@ A production-ready Next.js starter with Clerk auth, Stripe subscriptions, Drizzl
 - category: BUILDS
 - format: ONE FILE · 0 DEPS
 - audience: Freelancers and solo operators who need one shareable link instead of an unfinished site.
+- free: no
 
 A one-page personal site as a single dependency-free HTML file: dark and light mode, work cards, services, notes, and a contact panel, deployable anywhere.
+
+Contents:
+- One polished index.html: semantic markup, focus states, responsive to 360px, zero dependencies beyond one font link
+- Dark and light mode: automatic via system preference plus a manual toggle that remembers
+- A copy worksheet so you write your sections before touching markup
+- Deploy steps for GitHub Pages, Netlify, Vercel, or any static host, plus a domain pointer
 
 **What do I get, and in what format?** A ZIP with the HTML file, the copy worksheet, and a site README, plus the PDF guide.
 
@@ -627,8 +954,14 @@ A one-page personal site as a single dependency-free HTML file: dark and light m
 - category: BUILDS
 - format: 30-DAY PLAN
 - audience: Builders who want a plan, not more advice.
+- free: no
 
 A 30-day playbook from zero to paid SaaS: a day-by-day checklist from validation to first revenue, plus landing page and launch templates for each phase.
+
+Contents:
+- A day-by-day checklist: validation, build, landing page, waitlist, launch, first revenue
+- Landing-page and launch templates so no day starts from blank
+- The forcing function: follow the days, ship on day 30
 
 **What do I get, and in what format?** The checklist and template pack (ZIP) plus the PDF playbook.
 
@@ -640,8 +973,15 @@ A 30-day playbook from zero to paid SaaS: a day-by-day checklist from validation
 - category: BUILDS
 - format: 8 HTML EMAILS
 - audience: Solo SaaS founders and indie hackers wiring up lifecycle email.
+- free: no
 
 Eight production HTML emails: welcome, receipt, password reset, trial ending, payment failed, weekly digest, account closing, and reactivation, coded to render in Gmail and Outlook.
+
+Contents:
+- Eight self-contained .html files: 600px table layout, inline styles, dark-mode-safe panel, bulletproof CTA buttons
+- A from/subject cheat sheet: three subject options and preheader text per email
+- A send-trigger map: what fires each email and when not to send it
+- A QA checklist: Gmail and Outlook tests, plaintext fallback, token tests, the 400px mobile check
 
 **What do I get, and in what format?** A ZIP with the eight .html files and the cheat sheet, plus the PDF guide.
 
