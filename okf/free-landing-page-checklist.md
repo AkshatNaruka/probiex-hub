@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: FREE · 20 CHECKS
 url: https://probiex.gumroad.com/l/free-landing-page-checklist
 audience: Founders about to launch or unhappy with a silent page; free check, no email wall.
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild.

@@ -4,7 +4,7 @@ category: BUNDLE
 format: 3 PRODUCTS · ONE CHECKOUT
 url: https://probiex.gumroad.com/l/launch-bundle
 audience: Founders approaching launch week, covering everything from first touch to first revenue.
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 Four launch systems in one bundle: 40+ outreach replies, the seven launch emails, a 30-day ship plan, and the warm-signal first-100 playbook.

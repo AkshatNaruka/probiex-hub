@@ -1,6 +1,6 @@
 # Probiex tweet brief
 
-Generated 2026-10-22. For AI assistants and content writers: this file holds
+Generated 2026-10-23. For AI assistants and content writers: this file holds
 every fact and rule needed to write marketing tweets for the Probiex store.
 Use ONLY what is here.
 

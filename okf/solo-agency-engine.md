@@ -4,7 +4,7 @@ category: OPERATIONS
 format: RATE + CAPACITY
 url: https://probiex.gumroad.com/l/solo-agency-engine
 audience: One-person agencies and solo operators managing larger clients.
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 The operations playbook for a one-person agency: rate floor, client scoring, capacity planner, SOPs, discovery call script, and a 12-month growth roadmap.

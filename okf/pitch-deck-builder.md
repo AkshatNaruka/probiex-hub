@@ -4,7 +4,7 @@ category: CAREER & TEACHING
 format: 16 SLIDES + PPTX
 url: https://probiex.gumroad.com/l/pitch-deck-builder
 audience: Solo founders at pre-seed and seed raising a first round.
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 A 16-slide PPTX deck template with a worked seed-stage example, speaker notes, and a walkthrough that answers one investor question per slide.

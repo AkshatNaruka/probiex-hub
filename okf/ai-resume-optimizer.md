@@ -4,7 +4,7 @@ category: CAREER & TEACHING
 format: SPEC + KIT
 url: https://probiex.gumroad.com/l/ai-resume-optimizer
 audience: Builders shipping career AI products and coaches productizing resume reviews.
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 The operating spec for an AI resume tool: a weighted scoring rubric, prompt chains, and three worked example rewrites: build it, QA a vendor, or productize it.
