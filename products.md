@@ -996,7 +996,7 @@ Contents:
 - url: https://probiex.gumroad.com/l/free-vibe-code-safety-check
 - category: SHIP SAFE
 - format: FREE · 15 CHECKS
-- audience: Anyone shipping an AI-built app who has not run a security review yet. Free, no email, no signup.
+- audience: Anyone shipping an AI-built app who has not run a security review yet. Free, no account, no card. Gumroad asks for an email to deliver the file.
 - free: yes
 - next: https://probiex.gumroad.com/l/vibe-code-rescue (adds the 60-point audit, 17-check CLI, 15 fix prompts, the RLS policy pack, and three runbooks)
 

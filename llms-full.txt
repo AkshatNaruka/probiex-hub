@@ -13,7 +13,7 @@ and the product page names the paid system it grows into.
 - [Free Landing Page Leak Check: 20 Points](https://probiex.gumroad.com/l/free-landing-page-checklist) (free): A pass-or-miss check for your landing page: 20 points, a fix line per miss, and scoring bands that say polish, patch, or rebuild. (FREE · 20 CHECKS). Grows into [The Landing Page Conversion Audit](https://probiex.gumroad.com/l/landing-page-conversion-audit).
 - [Free Launch Day Checklist: 40 Checks](https://probiex.gumroad.com/l/free-launch-day-checklist) (free): Forty ordered checks from T-24h to T+72h: product, checkout, content, the launch, first-day replies, and the retro. (40 CHECKS). Grows into [Launch Week Email Kit](https://probiex.gumroad.com/l/launch-week-email-kit).
 - [Free One-Page Business Plan: Notion + PDF](https://probiex.gumroad.com/l/free-one-page-business-plan) (free): The plan that gets reviewed weekly instead of written yearly: 9 sections, a 20-minute Notion build, and a worked example. (NOTION + PDF). Grows into [The Indie Hacker OS](https://probiex.gumroad.com/l/indie-hacker-os).
-- [The 15-Point Vibe-Code Safety Check](https://probiex.gumroad.com/l/free-vibe-code-safety-check) (free): Fifteen ordered security checks for AI-built apps, each with a pass condition and a one-line fix. Free, no signup. (FREE · 15 CHECKS). Grows into [The Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue).
+- [The 15-Point Vibe-Code Safety Check](https://probiex.gumroad.com/l/free-vibe-code-safety-check) (free): Fifteen ordered security checks for AI-built apps, each with a pass condition and a one-line fix. Free, no account required. (FREE · 15 CHECKS). Grows into [The Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue).
 
 ## Catalog
 
@@ -1084,7 +1084,7 @@ Contents:
 - url: https://probiex.gumroad.com/l/free-vibe-code-safety-check
 - category: SHIP SAFE
 - format: FREE · 15 CHECKS
-- audience: Anyone shipping an AI-built app who has not run a security review yet. Free, no email, no signup.
+- audience: Anyone shipping an AI-built app who has not run a security review yet. Free, no account, no card. Gumroad asks for an email to deliver the file.
 - free: yes
 - next: https://probiex.gumroad.com/l/vibe-code-rescue (adds the 60-point audit, 17-check CLI, 15 fix prompts, the RLS policy pack, and three runbooks)
 
