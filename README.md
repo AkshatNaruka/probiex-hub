@@ -9,6 +9,7 @@ Store: https://probiex.gumroad.com
 - `products.md`: the full catalog in markdown
 - `okf/*.md`: one page per product, YAML-frontmattered
 - `ai.txt`: AI use and licensing preferences
+- `ads.txt`: the full marketing context for AI writers
 - `leak-check.html`: the 20-point landing page leak check as a browser tool
 - `robots.txt` + `sitemap.xml`: crawler access and index map
 - `index.html`: hosted catalog with Organization/ItemList/FAQPage schema

@@ -1,0 +1,2736 @@
+# PROBIEX MARKETING CONTEXT
+# ads.txt
+#
+# This is a marketing context file, not an IAB ads.txt seller authorization file.
+# It exists so an AI writer can produce accurate posts for X, LinkedIn, dev.to,
+# Medium, Indie Hackers, and email without inventing facts or prices.
+#
+# Canonical plain text: https://akshatnaruka.github.io/probiex-hub/ads.txt
+# Gumroad mirror: https://probiex.gumroad.com/ads-txt
+# Gumroad page slugs cannot contain a dot, so the literal /ads.txt path is
+# served by the AI hub, not Gumroad. The Gumroad mirror has the same content.
+#
+# Catalog hash: 61cd5b76f6bc59f7
+# Last updated: 2026-10-28
+# Catalog: 50 live, 1 draft, 11 deep briefs
+#
+# HOW TO USE WITH AI
+# 1. Paste this file into the model, or give it the canonical URL.
+# 2. Ask for one channel, one product, one angle, and one output format.
+# 3. Require the model to use only the facts here and to follow the hard bans.
+# 4. Check that the output has one link, no price, no invented proof, and a real source.
+#
+# COPY-PASTE PROMPTS
+# - "Using only this file, write one X post about the Rescue Kit. One angle,
+#    one hook, under 220 characters including the link. No price. One link."
+# - "Using only this file, write a 900-word dev.to article about the 2027 plan.
+#    Title names the problem. Teach the math. Add limitations. One product link."
+# - "Using only this file, write a LinkedIn post about the free safety check.
+#    Use a labeled hypothetical, not a fake customer. 150-250 words. One link."
+#
+# RULE: if a fact is not in this file, do not use it. If a product is marked
+# 'not live; do not link', do not link it. If a product is marked 'draft', do
+# not publish the post before its launch date.
+
+==============================================================================
+1. STORE
+==============================================================================
+store_name: Probiex
+owner: Akshat Naruka
+store_url: https://probiex.gumroad.com
+hub_url: https://akshatnaruka.github.io/probiex-hub
+plain_text_url: https://akshatnaruka.github.io/probiex-hub/ads.txt
+gumroad_mirror: https://probiex.gumroad.com/ads-txt
+one_liner: Practical systems for solo SaaS founders, indie hackers, and freelancers. Every product ends in a tool, a template, or a number, not a motivational PDF.
+
+audience:
+  - Solo SaaS founders and indie hackers who built with AI and are about to charge money.
+  - One-person businesses and freelancers who run the whole thing without hiring.
+  - Small teams that need a repeatable pipeline, not a 40-page strategy deck.
+  - Buyers who want the first working slice free before they pay for the full system.
+
+positioning:
+  - Built by a solo founder for solo budgets, not enterprise procurement.
+  - The free pack is a real first slice. The paid product is the system around it.
+  - The proof is usually math, a scanner result, or a worked example, not a testimonial.
+  - The store is new. Do not imply traction, reviews, or sales that do not exist.
+
+voice:
+  - Numbers-first, direct, slightly skeptical. Founder-to-founder, not brand-to-audience.
+  - Open with a concrete number, a scene, or a named mistake. Never open with a thesis statement.
+  - Short sentences. One idea per paragraph. No em-dashes.
+  - Use plain words. If a sentence sounds like a pitch deck, rewrite it.
+  - One link per post. One CTA. 0-2 hashtags, usually none.
+
+banned_words:
+  - game-changer
+  - delve
+  - in today's fast-paced
+  - supercharge
+  - unlock
+  - elevate
+  - revolutionize
+  - effortless
+  - seamlessly
+  - journey
+  - holistic
+  - cutting-edge
+  - leverage as a verb
+  - skyrocket
+  - 10x
+  - secret hack
+  - passive income
+  - get rich
+
+hard_bans:
+  - No prices, price ranges, discount amounts, or dollar figures for a product. The product page shows the current price.
+  - No refund or money-back claims. All sales are final; support fixes broken downloads.
+  - Do not claim a free download requires no email or no signup. Gumroad collects an email for delivery. Say 'no account, no card' instead.
+  - No invented sales, reviews, testimonials, users, followers, or waitlists. The store is new and says so.
+  - No fabricated personal stories. Label a hypothetical as a hypothetical. Use the workbook's default example, not a fake customer.
+  - No 'guaranteed', '100% safe', 'hacker-proof', 'pass any audit', 'SOC 2 certified', 'GDPR compliant', 'legal advice', or 'tax advice'.
+  - Do not call the Rescue Kit a penetration test or a compliance certification.
+  - No fake urgency, countdowns, 'only X left', or 'was $X' anchors.
+  - No claim that Gumroad Discover is available or that the store has paid sales.
+  - No breach claim about a named company beyond the cited Lovable incident. No 'I found a breach in your app' unless it is true and you have permission.
+  - No em-dashes. Use periods, commas, or colons.
+
+citable_stats:
+  - 98% of live vibe-coded apps had at least one vulnerability; 29% had a high or critical one. (vibe-eval, August 2026). Use for: Rescue Kit, security posts.
+  - 45% of AI-generated code samples introduce at least one OWASP Top 10 issue. (Cloud Security Alliance, April 2026). Use for: Rescue Kit, AI-built app posts.
+  - The Lovable breach in April 2026 exposed source code, database credentials, and chat histories for 48 days. (Lovable incident response, April 2026; Business Insider, April 2026). Use for: Rescue Kit, trust posts.
+  - 0 of 15 AI-built APIs had CSRF protection; 1 attempted rate limiting. (Zuplo, March 2026). Use for: Rescue Kit, API security posts.
+  - Pages scoring under about 45/100 get almost no AI citations; over 70 average 5 or more. (GEO scorecard sample, Probiex). Use for: AI Visibility OS. Label it as a sample, not a universal law..
+  - Median B2B SaaS pages convert at 3.8%; top performers convert at 10-15%. (landing-page industry sample). Use for: Landing Page Conversion Audit, offer posts.
+  - 81% of forms get abandoned. (landing-page industry sample). Use for: Landing Page Conversion Audit, activation posts.
+  - 59% of small-business invoices run 30 or more days late; small businesses waited 29.3 days on average in Q2 2026. (Intuit QuickBooks, 2026). Use for: Late Payment Playbook, freelance posts.
+  - 1 in 10 web pages shows signs of AI writing. (Pew Research, July 2026). Use for: AI Slop Audit, writing posts.
+
+clusters:
+  - Ship Safe: buyer: Built with AI, about to charge money. Promise: Find the failure before a customer or an attacker does.
+  - Get Found: buyer: Has a product, no repeatable pipeline. Promise: Be found, be chosen, keep the account.
+  - Run Solo: buyer: One person running the whole business. Promise: Make the math work without hiring.
+
+free_funnel:
+  - https://probiex.gumroad.com/l/free-vibe-code-safety-check (free) -> https://probiex.gumroad.com/l/vibe-code-rescue: adds the 60-point audit, 17-check CLI, 15 fix prompts, the RLS pack, and three runbooks
+  - https://probiex.gumroad.com/l/free-one-page-business-plan (free) -> https://probiex.gumroad.com/l/solo-business-plan-2027: adds the 9-sheet revenue model, churn and ramp math, capacity check, and weekly review
+  - https://probiex.gumroad.com/l/free-landing-page-checklist (free) -> https://probiex.gumroad.com/l/landing-page-conversion-audit: adds 60 points ranked by recoverable revenue, with the fix library
+  - https://probiex.gumroad.com/l/free-cold-email-openers (free) -> https://probiex.gumroad.com/l/cold-outreach-reply-pack: adds 40+ replies sorted by the objection that killed the thread
+  - https://probiex.gumroad.com/l/free-claude-prompts (free) -> https://probiex.gumroad.com/l/claude-prompts-saas-founders: adds the full 100-prompt pack across the same five disciplines
+  - https://probiex.gumroad.com/l/free-invoice-reminder-emails (free) -> https://probiex.gumroad.com/l/late-payment-playbook: adds contract clauses, deposit schedules, and the escalation ladder
+  - https://probiex.gumroad.com/l/free-launch-day-checklist (free) -> https://probiex.gumroad.com/l/launch-week-email-kit: adds the seven emails a launch decides with, with subject lines and send timing
+
+==============================================================================
+2. CHANNEL PLAYBOOKS
+==============================================================================
+## X
+job: Build in public, scanner findings, short proof, replies.
+format: One post, 220 characters or fewer including the link. Thread only when teaching a full system: 6-8 posts, one idea each, link in the last post.
+rules:
+  - Open with the number, the mistake, or the scene. No 'Tired of...?' openers.
+  - One link. One CTA. 0-2 hashtags, usually none. At most one emoji.
+  - A thread must teach the system, not tease it. Every post stands alone.
+  - Reply-as-content is the default growth move. Be useful first; link only when the thread asks.
+  - Do not quote a product price. Do not promise a result.
+prompt: Write one X post about {product}. Pick one angle and one hook from the brief. Keep it under 220 characters including the link. One link. No price. Cite any stat with its source. Output only the post.
+
+## LinkedIn
+job: Story, customer problem, case study, build-in-public lesson.
+format: 150-250 words. First line is the hook and must work before 'see more'. Short paragraphs. One link at the end.
+rules:
+  - Start with the tension: the app works, the plan looks fine, the dashboard is green, and the failure is still there.
+  - Use a concrete mechanism, not a motivational lesson. Show the math or the check.
+  - No 'I am excited to announce'. No fake vulnerability story. Label hypotheticals.
+  - One link in the post. Do not put the link in the first comment and call it a post.
+  - End with a specific next action, not 'thoughts?'.
+prompt: Write one LinkedIn post about {product}. 150-250 words. Open with a concrete tension or number. Explain the mechanism. Give three specific steps or findings from the brief. End with one link. No price. No invented customer story.
+
+## dev.to
+job: Owned search traffic. One problem, one system, canonical to the product page.
+format: 900-1,400 words. Problem, mechanism, worked example, limitations, CTA. Code or math where it helps. 4 tags.
+rules:
+  - Title names the problem, not the product. 'Your AI-built app is probably leaking a secret' beats 'Introducing the Rescue Kit'.
+  - Show the check or the math in the body. Do not save it for the paid product.
+  - Include an honest limitations section: what the product does not do, who it is not for.
+  - Set the canonical URL to the product page. One product link in the CTA.
+  - No price. No affiliate links. No fake test data.
+prompt: Write a dev.to article about {product}. 900-1,400 words. Title names the problem. Teach one check or one piece of math in the body. Include a limitations section. End with one product link and set the canonical URL to that page. Use 4 tags. No price.
+
+## Medium
+job: Secondary search surface. Republish the dev.to article after 7 days.
+format: Same body as dev.to, new title and opening. Canonical to the dev.to URL or the product page.
+rules:
+  - Wait at least 7 days after dev.to so the canonical has time to settle.
+  - Change the title and the first two paragraphs; keep the mechanism and the math.
+  - Set the canonical URL. Do not publish the same title twice.
+  - One product link at the end. No price.
+prompt: Rewrite this dev.to article for Medium. New title and opening. Keep the mechanism and the math. 900-1,400 words. Set the canonical URL. One product link at the end. No price.
+
+## Indie Hackers and communities
+job: Answer first, build trust, one post a week.
+format: A teardown, a build-in-public update, or a genuinely useful answer. No drive-by promotion.
+rules:
+  - Answer the question in the thread before mentioning a product. If the answer is enough, do not link.
+  - Build-in-public numbers must be true: products live, articles published, checks run. Never invent revenue or users.
+  - One post a week per community. Reply to others more than you post.
+  - No 'check out my product' as the first sentence. No link unless the thread asks for a tool.
+prompt: Write a community post or reply about {product} for Indie Hackers or a founder community. Lead with the useful answer or the teardown. Link only if the thread asks for a tool. No price. No invented traction.
+
+## Email
+job: One idea, one link, plain text.
+format: 120-180 words. Subject line 6 words or fewer. One link.
+rules:
+  - Write like a person, not a newsletter template. No header image, no gradient button.
+  - One idea per email. The link is the next step, not the payload.
+  - No price. No fake deadline. No 'last chance'.
+prompt: Write one plain-text email about {product}. 120-180 words. Subject line 6 words or fewer. One idea. One link. No price. No fake deadline.
+
+==============================================================================
+3. PRODUCT BRIEFS
+==============================================================================
+
+Format: every product has the same fields. Use the angles and hooks as
+starting points, not as copy to paste unchanged. The 'do_not_say' list
+overrides any clever line.
+
+## 3.1 Live deep briefs
+
+### Cluster: Ship Safe
+
+### vibe-code-rescue
+name: The Vibe-Code Rescue Kit
+url: https://probiex.gumroad.com/l/vibe-code-rescue
+status: live
+cluster: Ship Safe
+launch_date: 2026-10-28
+price_band: core
+audience: Solo founders and small teams who built with Lovable, Bolt, v0, Cursor, Claude Code, or Replit and are about to charge money. Not security teams with a budget.
+problem: The app works, so the founder assumes it is safe. The demo defaults are still there: a secret in the browser bundle, a table without RLS, a webhook that trusts anyone, a write route with no session check.
+promise: Find the expensive mistakes before a customer or an attacker does. A 60-point audit, a 17-check read-only CLI, 15 fix prompts, a Supabase RLS pack, and three launch runbooks.
+proof:
+  - 98% of live vibe-coded apps had at least one vulnerability; 29% had a high or critical one (vibe-eval, August 2026).
+  - 45% of AI-generated code samples introduce at least one OWASP Top 10 issue (Cloud Security Alliance, April 2026).
+  - The Lovable breach in April 2026 exposed source code, database credentials, and chat histories for 48 days.
+  - 0 of 15 AI-built APIs had CSRF protection; 1 attempted rate limiting (Zuplo, March 2026).
+  - The worked example is fictional and labeled as such: an app scored 31/100, fixed over four weeks, rescored 92/100. Do not present it as a real customer.
+inside:
+  - The 60-point Launch Safety Audit (XLSX) with severity weights, evidence fields, scoring, and a ranked fix order
+  - vibe-check, a read-only CLI with 17 checks, JSON output, and a --lite five-check mode
+  - 15 copy-paste fix prompts for Claude, Cursor, or any AI editor, each with a verification step
+  - A Supabase RLS policy pack for profiles, teams, projects, invoices, files, API keys, and storage
+  - Three runbooks: pre-launch T-7 to T+7, incident response for the first 24 hours, and a 30-day monitoring plan
+  - A full worked example: a fictional app scored 31/100, fixed over four weeks, rescored 92/100
+faq:
+  - Q: What do I get, and in what format?
+    A: A ZIP with the PDF guide, the XLSX audit, the Node CLI, the fix prompts, the SQL pack, the runbooks, and the worked example.
+  - Q: Does the scanner upload my code?
+    A: No. It reads files locally and prints a report. No API calls, no telemetry, no writes.
+  - Q: Is this a penetration test?
+    A: No. It finds the common, expensive mistakes in AI-built apps. It does not certify compliance or replace a qualified review.
+angles:
+  - Your app works. That is the problem: the demo defaults are still in production.
+  - A secret in the browser bundle is not a secret. It is a public key with a private name.
+  - 98% of live vibe-coded apps had at least one vulnerability. The common fails are not exotic.
+  - The five checks to run before you charge money, in order.
+  - Your Supabase table without RLS is a public table with a nicer name.
+  - The scanner reads your code locally. No upload, no telemetry. That is the trust angle.
+hooks:
+  - You built it with AI. It works. It may already be leaking a secret.
+  - A table without RLS is a public table with a nicer name.
+  - The demo defaults are still in production.
+  - The app passed the demo. It has not passed the launch.
+  - Nobody runs a security review before the first customer. That is the problem.
+objections:
+  - "I am not a security person." -> The kit is written for founders, not security teams. Each fix has a prompt and a verification step.
+  - "My app is too small to be a target." -> Automated scanners do not care about your size. The 98% / 29% stats show the common fails.
+  - "Is this a penetration test?" -> No. It finds the common, expensive mistakes in AI-built apps. It does not certify compliance or replace a qualified review.
+  - "My stack is not Next.js and Supabase." -> The audit and fix patterns are stack-agnostic. The CLI checks the patterns it can see. The RLS pack is Supabase-specific.
+  - "I can find this with a free checklist." -> The free 15-point check is the first slice. The paid kit adds the 60-point audit, the 17-check CLI, the fix prompts, the RLS pack, and the runbooks.
+cross_sell:
+  - The 15-Point Vibe-Code Safety Check (https://probiex.gumroad.com/l/free-vibe-code-safety-check)
+  - Trust & Legal Pages (planned, not live)
+  - Security Questionnaire (planned, not live)
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+cta: Start with the free 15-point check. If it finds more than two fails, the kit is the fix.
+do_not_say:
+  - guaranteed secure
+  - penetration test
+  - compliance certification
+  - 100% safe
+  - hacker-proof
+  - pass any audit
+  - military-grade
+  - I found a breach in your app (unless true and with permission)
+last_updated: 2026-10-28
+source: product description + launch docs
+
+### free-vibe-code-safety-check
+name: The 15-Point Vibe-Code Safety Check
+url: https://probiex.gumroad.com/l/free-vibe-code-safety-check
+status: live (free)
+cluster: Ship Safe
+launch_date: 2026-10-28
+price_band: free
+audience: Solo founders and small teams who built with AI and have not run a security review yet. They want the first check before they buy a kit.
+problem: The app works, but the founder has not checked the demo defaults: a key in the browser bundle, a table without RLS, a webhook that trusts anyone, or a write route with no session check.
+promise: Fifteen ordered checks, each with a pass condition, a fail example, and a one-line fix. A six-page PDF and Markdown file. No account, no card.
+proof:
+  - 98% of live vibe-coded apps had at least one vulnerability; 29% had a high or critical one (vibe-eval, August 2026). The free check is the first slice of the same audit.
+  - The checklist is a real 15-point pass/fail document, not a teaser. The paid Rescue Kit adds the 60-point audit, the CLI, the fix prompts, the RLS pack, and the runbooks.
+inside:
+  - 15 checks across secrets, data access, payments, input, and operations
+  - A pass condition and a one-line fix for every check
+  - The two-account authorization test that finds the most bugs
+  - The vibe-check --lite command for the five automated checks
+  - A score band that tells you whether to launch, fix, or stop
+faq:
+  - Q: Is this the whole kit?
+    A: No. It is the 15-point short list. The full Vibe-Code Rescue Kit adds the 60-point audit, the 17-check scanner, 15 fix prompts, the RLS pack, and three runbooks.
+  - Q: How long does it take?
+    A: About 30 minutes for a small app, plus the fixes.
+angles:
+  - Run these 15 checks before you charge money.
+  - The first five checks: the browser bundle, the RLS table, the webhook, the write route, the admin client.
+  - A table without RLS is a public table with a nicer name.
+  - A secret in the browser bundle is not a secret.
+  - The free check is the first slice. The kit is the system around it.
+hooks:
+  - Run this before you charge money.
+  - Fifteen checks. No account, no card.
+  - The free check is the first slice of the Rescue Kit.
+  - The app works. The demo defaults might still be public.
+objections:
+  - "Is this a sales pitch?" -> It is a real six-page checklist with pass conditions and fixes. The paid kit is the next step only if the check finds gaps.
+  - "Do I need an account?" -> No account and no card. Gumroad asks for an email to deliver the file.
+  - "Is this enough to secure the app?" -> No. It covers the first 15 common fails. The 60-point audit, the CLI, and the RLS pack are the deeper pass.
+cross_sell:
+  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
+  - Trust & Legal Pages (planned, not live)
+  - Security Questionnaire (planned, not live)
+cta: Download the free check. If it finds more than two fails, the Rescue Kit is the fix.
+do_not_say:
+  - no email
+  - no signup
+  - guaranteed secure
+  - penetration test
+  - compliance certification
+  - 100% safe
+  - hacker-proof
+last_updated: 2026-10-28
+source: product description + launch docs
+
+### Cluster: Get Found
+
+### geo-operations-system
+name: GEO Operations System
+url: https://probiex.gumroad.com/l/geo-operations-system
+status: live now as GEO Operations System; upgrading and re-pricing as AI Visibility OS 2027 on 2026-11-25. Do not create a duplicate.
+cluster: Get Found
+launch_date: 2026-11-25
+price_band: core
+audience: B2B SaaS founders, consultants, and agencies with content but no repeatable AI-search pipeline.
+problem: AI answers cite a small set of pages. Most sites are invisible, and the team cannot tell which pages or fixes would change it.
+promise: A 0-100 AI-citation scorecard, a CLI script, an audit, and a 30-day plan to fix the pages AI answers actually use.
+proof:
+  - Pages scoring under about 45/100 get almost no AI citations; over 70 average 5 or more (GEO scorecard sample, Probiex). Label this as a sample, not a universal law.
+inside:
+  - GEO Scorecard across 5 weighted dimensions
+  - Priority formula: fix the highest-ROI pages first
+  - llms.txt template ready to deploy
+  - E-E-A-T checklist for AI trust signals
+  - 30-day implementation schedule + scorecard CLI script
+faq:
+  - Q: What do I get, and in what format?
+    A: The system (PDF) plus the scorecard CLI script and llms.txt template (ZIP).
+  - Q: Is this the same as SEO?
+    A: No. GEO targets extraction and citation in AI answers; SEO targets rankings. The scorecard covers both where they overlap.
+angles:
+  - If AI answers do not cite you, the problem is not your traffic.
+  - A 45/100 GEO score gets almost no citations. The fix is specific pages, not more posts.
+  - The 30-day AI visibility plan: audit, fix the lowest categories, re-score.
+  - What ChatGPT cites that you do not, and why the gap is structural.
+  - GEO is not SEO with a new name. It is the answer layer above the search result.
+hooks:
+  - Your page is invisible to AI answers.
+  - A 45/100 GEO score gets almost no citations.
+  - The answer layer is the new front page.
+  - More content will not fix a page AI cannot parse.
+objections:
+  - "Is this just SEO?" -> GEO is the AI-answer layer. It complements SEO; it does not replace the technical basics.
+  - "Does it work for my niche?" -> The scorecard is built for B2B and SaaS content. Check the categories before you buy.
+  - "Can you guarantee citations?" -> No. The product finds the gaps and gives a 30-day fix plan. It does not control the model.
+  - "Is this black-hat LLM manipulation?" -> No. It is page structure, evidence, and citation hygiene.
+cross_sell:
+  - Free Landing Page Leak Check: 20 Points (https://probiex.gumroad.com/l/free-landing-page-checklist)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+  - The Landing Page Conversion Audit (https://probiex.gumroad.com/l/landing-page-conversion-audit)
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+cta: Run the scorecard, then fix the lowest three categories first.
+do_not_say:
+  - guaranteed citations
+  - rank #1 in ChatGPT
+  - AI SEO is dead
+  - black-hat LLM manipulation
+  - secret prompt
+  - hack the algorithm
+last_updated: 2026-10-22
+source: product description + launch docs
+
+## 3.2 Draft: ready for launch day
+
+### solo-business-plan-2027
+name: The 2027 Solo Business Plan
+url: https://probiex.gumroad.com/l/solo-business-plan-2027
+status: draft; publish 2026-11-11; do not link before launch day
+cluster: Run Solo
+launch_date: 2026-11-11
+price_band: core
+audience: Solo founders, freelancers, and one-person product businesses who want a plan they will review weekly, not a 40-page document.
+problem: Annual plans start with a revenue goal someone else picked. The goal has no link to customers, churn, traffic, or the hours in a week. The plan dies in February, when the first month does not look like the average.
+promise: Start from owner pay, expenses, and a tax reserve. Solve for new customers per month, year-end MRR, traffic, and capacity. A 9-sheet XLSX model, a Notion build spec, a Friday review, and three worked examples.
+proof:
+  - These are example owner-pay, expense, and price-per-customer inputs, not the product price. Never quote them as the product price.
+  - Default example: $60,000 owner pay + $12,000 expenses, with a 30% tax reserve, needs $102,857 in revenue.
+  - $12,000 of planned services leaves $90,857 of product revenue.
+  - At $50 per customer per month, that is 1,817 customer-months, not 2,057 customers.
+  - With 5% monthly churn and 40 current customers, the plan needs 23 new customers a month. Year-end: 233 customers, $11,650 MRR.
+  - Capacity: 30 hours a week at 1.5 hours per customer per month carries about 86 customers. The default plan is 2.7x over capacity.
+  - Price lever: at $100 per customer per month, the same target needs 9 new customers a month, ends at 104 customers, and fits at 1.2x capacity.
+  - Do not mix the 2,057 customer-months figure (before services) with the 23/233 figures (after services). Use the services-adjusted version.
+inside:
+  - A nine-sheet XLSX model: Inputs, Pipeline Math, Annual Plan, Quarterly Rocks, Weekly Review, Scenarios, Capacity, Tax Reserve, and a Start Here dashboard
+  - Real formulas: annual revenue target, customer-months, churn decay, growth ramp, new customers per month, year-end MRR, traffic multiple, capacity multiple, runway
+  - A Notion build spec with six databases, four relations, and a one-screen dashboard
+  - A printable Friday review and a monthly/quarterly review cadence
+  - Three worked examples: a [price on page] start, a [price on page]k/month freelancer, and a [price on page]k/month product business
+  - A PDF guide explaining the method, the math, the price lever, and the common mistakes
+faq:
+  - Q: What do I get, and in what format?
+    A: A ZIP with the XLSX workbook, the PDF guide, the Notion build spec, the weekly review page, and the worked examples.
+  - Q: Do I need Notion?
+    A: No. The workbook is the model. Notion is the cockpit if you want one; the spec is included.
+  - Q: Does it work if I am starting from zero?
+    A: Yes. The first worked example is a [price on page] start at 20 hours a week. It shows why a low price forces a customer count the hours cannot support.
+angles:
+  - A revenue goal is not a plan. The missing step is the arithmetic between the money and the calendar.
+  - The annual plan dies in February because the first month does not look like the average.
+  - You need 23 new customers a month, not 2,057 customers. Customer-months is the unit that matters.
+  - The constraint is hours, not motivation. At 233 customers, the plan is 2.7x the week you have.
+  - Move the price or move the target. Do not move your sleep. The $100 price lever cuts 23 new customers to 9.
+  - A Friday review beats a 40-page plan. Fifteen minutes a week is the correction mechanism.
+hooks:
+  - A $120,000 revenue goal is not a plan.
+  - Your plan needs 23 new customers a month, not a vision board.
+  - At 233 customers, the plan is 2.7x the hours you have.
+  - The first month never looks like the average. That is why the plan dies in February.
+  - The price lever is the capacity lever.
+objections:
+  - "I do not have churn data." -> Use a conservative estimate, then replace it after the first month. The workbook shows how much the answer moves when churn changes.
+  - "I do not use Notion." -> The XLSX does the math. Notion is the cockpit if you want one; the spec is included.
+  - "I sell services too." -> The workbook subtracts planned services revenue before it solves for product customers, so the customer count is not inflated by hours already sold.
+  - "Is the tax reserve tax advice?" -> No. It is a planning buffer. Confirm your rate and dates with an accountant.
+  - "I am starting from zero." -> The first worked example is a $0 start at 20 hours a week. It shows why a low price forces a customer count the hours cannot support.
+cross_sell:
+  - Free One-Page Business Plan: Notion + PDF (https://probiex.gumroad.com/l/free-one-page-business-plan)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+  - The Pricing Calculator (https://probiex.gumroad.com/l/pricing-calculator)
+  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
+cta: Start with the free one-page plan, then run the 2027 model.
+do_not_say:
+  - guaranteed revenue
+  - replace your accountant
+  - tax advice
+  - passive income
+  - this will make you $X
+  - the only plan you need
+  - set it and forget it
+last_updated: 2026-10-28
+source: product description + launch docs
+
+## 3.3 Planned products: do not link yet
+
+### Cluster: Ship Safe
+
+### trust-legal-pages
+name: Trust & Legal Pages
+url: not live; do not link
+status: planned for 2026-12-09; not live; do not link
+cluster: Ship Safe
+launch_date: 2026-12-09
+price_band: core
+audience: Solo founders shipping a paid app, especially AI-built apps, without a lawyer on call.
+problem: The checkout, privacy page, terms, cookie notice, refund policy, AI disclosure, and subprocessor list are missing or copied. Buyers and enterprise reviewers check them before they pay.
+promise: Six plain-English pages with annotations, fill-in brackets, and a publish checklist. A starting point you can hand to a lawyer, not a substitute for one.
+proof:
+  - No hard stat. Use the contents and the buyer's checklist, not a traction claim.
+angles:
+  - Your checkout is missing the pages buyers check.
+  - A privacy policy is not a copy-paste from a competitor.
+  - The AI disclosure your app needs before the next enterprise review.
+  - The six legal pages a solo app needs, in publish order.
+  - A lawyer is expensive. Starting from a blank page is more expensive.
+hooks:
+  - The buyer checked your footer before they checked your features.
+  - A copied privacy policy is a liability with a nice font.
+  - The enterprise review starts before the demo.
+objections:
+  - "I am not a lawyer." -> The pack is a starting point, not legal advice. It gives you the structure to review with a lawyer.
+  - "Is this GDPR compliant?" -> It gives the structure. Compliance depends on your data flows and jurisdiction. Have a qualified reviewer check it.
+  - "Can I just copy a template?" -> You can. The pack explains what each clause is doing so you can tell when the template is wrong for your app.
+  - "I am too small for this." -> The pages are checked by buyers and payment processors before size matters.
+cross_sell:
+  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
+  - Security Questionnaire (planned, not live)
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+cta: Get the six pages live before the next checkout.
+do_not_say:
+  - lawyer-approved
+  - GDPR compliant
+  - legal advice
+  - guaranteed to protect you
+  - one-size-fits-all
+source: product description + launch docs
+
+### security-questionnaire
+name: Security Questionnaire
+url: not live; do not link
+status: planned for 2026-12-23; not live; do not link
+cluster: Ship Safe
+launch_date: 2026-12-23
+price_band: core
+audience: Solo founders and small teams selling B2B. The first enterprise buyer sends an 80-question security review.
+problem: The deal stalls because the founder answers the same security questions from scratch, inconsistently, and without evidence.
+promise: An 80-question answer bank, an editable DOCX, an evidence index, and a 30-minute prep checklist. Walk into the review with the answers already organized.
+proof:
+  - No hard stat. Use the 80-question scope and the evidence index, not a close-rate claim.
+angles:
+  - The security questionnaire is the deal. The demo is not.
+  - Answer 80 questions in 30 minutes because the evidence was already indexed.
+  - The evidence index is the real product. The answers are the cover letter.
+  - Your first enterprise buyer will ask for the same 80 questions. Build the answers once.
+hooks:
+  - The security questionnaire is where the deal stalls.
+  - The demo was great. The 80-question review is the actual sale.
+  - Your evidence index is the answer key.
+objections:
+  - "We are too small for enterprise." -> The questionnaire is the gate. The pack makes you look prepared before the first call.
+  - "Is this a compliance certification?" -> No. It is an answer bank and evidence index. It does not certify SOC 2 or ISO 27001.
+  - "We already have a wiki." -> A wiki is not an evidence index. The pack maps each answer to the artifact a reviewer will ask for.
+  - "Can we just copy answers from another company?" -> No. The answers must match your stack, your data, and your controls.
+cross_sell:
+  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
+  - Trust & Legal Pages (planned, not live)
+  - AI Agent Production (planned, not live)
+cta: Build the evidence index before the next questionnaire.
+do_not_say:
+  - SOC 2 certified
+  - ISO 27001 compliant
+  - pass any security review
+  - guaranteed enterprise deal
+source: product description + launch docs
+
+### ai-agent-production
+name: AI Agent Production
+url: not live; do not link
+status: planned for 2027-02-17; folds n8n Solopreneur Workflows, Voice AI System, and AI Agent Blueprint Stack; not live; do not link
+cluster: Ship Safe
+launch_date: 2027-02-17
+price_band: core
+audience: Solo founders and small teams putting an AI agent into production, not a demo.
+problem: Agents demo well, then fail on tool permissions, cost ceilings, evals, and incidents. The demo is not the product.
+promise: An agent eval harness, a tool-permission model, a cost ceiling, an incident runbook, and three production patterns.
+proof:
+  - No hard stat. Use the eval harness, the permission model, and the incident runbook, not a reliability claim.
+angles:
+  - Your agent works in the demo. Production is a different product.
+  - The tool-permission model before the agent gets a credit card.
+  - An agent without an eval harness is a liability with a chat window.
+  - The cost ceiling is a product decision, not an infrastructure setting.
+hooks:
+  - The demo agent is not the production agent.
+  - The agent got a credit card before it got a permission model.
+  - An eval harness is cheaper than an incident.
+objections:
+  - "I am not an ML engineer." -> The patterns are for builders using APIs, not training models. You need the eval, permission, and runbook layer.
+  - "Is this a framework?" -> No. It is the production layer around your stack: evals, permissions, cost, and incidents.
+  - "My agent is internal." -> Internal agents still spend money, touch data, and fail. The runbook matters more, not less.
+cross_sell:
+  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
+  - Security Questionnaire (planned, not live)
+  - GEO Operations System (https://probiex.gumroad.com/l/geo-operations-system)
+cta: Put a cost ceiling and a permission model on the agent before it ships.
+do_not_say:
+  - autonomous
+  - guaranteed safe
+  - replaces your team
+  - works with any model
+  - no-code AI employee
+source: product description + launch docs
+
+### Cluster: Get Found
+
+### warm-outbound
+name: Warm Outbound
+url: not live; do not link
+status: planned for 2027-01-20; folds First 100 Customers and the Cold Outreach Reply Pack; not live; do not link
+cluster: Get Found
+launch_date: 2027-01-20
+price_band: core
+audience: Founders with a product and no repeatable pipeline, and service businesses that need warm conversations.
+problem: Cold messages get ignored. Warm signals, public moments when someone says they need exactly what you sell, convert. Most founders do not monitor them.
+promise: Trigger monitoring, a 5-touch sequence, 40 reply templates, and a weekly pipeline review. Ten warm conversations a week instead of 1,800 cold sends.
+proof:
+  - The existing First 100 Customers playbook cites 15-25% response rates and 30 contextual touches versus 1,800 generic DMs. Present these as the playbook's sample, not a guarantee.
+angles:
+  - Stop sending 1,800 cold DMs. Find 30 warm signals instead.
+  - The trigger phrases that mean 'I need this now'.
+  - Warm signals beat cold outreach because the buyer already said the problem out loud.
+  - A weekly pipeline review is the whole system. The templates are the easy part.
+hooks:
+  - 1,800 cold DMs lost to 30 contextual touches.
+  - The buyer already said they need it. You just were not listening.
+  - Cold outreach is not dead. Cold lists are.
+objections:
+  - "I do not have an audience." -> The triggers are public. You do not need followers to find someone asking for the thing you sell.
+  - "Is this spam?" -> It is a reply to a public signal, not a blast. The sequence starts with the signal and stays specific.
+  - "I tried cold email." -> This is not a bigger list. It is a smaller list of people who already described the problem.
+cross_sell:
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+  - Activation & Retention (planned, not live)
+cta: Find 10 warm signals this week.
+do_not_say:
+  - guaranteed reply rate
+  - spam
+  - scrape LinkedIn
+  - automate DMs (unless compliant)
+  - 10x pipeline
+source: product description + launch docs
+
+### activation-retention
+name: Activation & Retention
+url: not live; do not link
+status: planned for 2027-03-03; folds Silent Churn Rescue Kit and SaaS Metrics Dashboard; not live; do not link
+cluster: Get Found
+launch_date: 2027-03-03
+price_band: core
+audience: SaaS founders with signups but no activation, and small teams watching MRR instead of behavior.
+problem: Signups do not reach the aha moment. Churn is silent until the cancel. The dashboard shows MRR, not the behavior that predicts it.
+promise: An aha-moment map, a 7-day activation sequence, churn signals, and a weekly retention review.
+proof:
+  - 81% of forms get abandoned (landing-page industry sample). The first activation gap often starts before the account exists.
+angles:
+  - Your signups are not activated. The dashboard will not tell you.
+  - The day-7 churn signal is behavioral, not financial.
+  - The permission-to-close email that saves the account before the cancel.
+  - A weekly retention review beats a monthly MRR screenshot.
+hooks:
+  - The signup is not the activation.
+  - Churn is silent until the cancel.
+  - The dashboard is green. The account is already gone.
+objections:
+  - "I do not have enough users." -> The signals work at small N. Start with the next 10 signups.
+  - "Is this a CRM?" -> No. It is the aha-moment map and the sequence. Use your existing email tool.
+  - "My churn is low." -> Low churn can hide a silent activation problem. Check the day-7 behavior before the cancel.
+cross_sell:
+  - Warm Outbound (planned, not live)
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+  - The Landing Page Conversion Audit (https://probiex.gumroad.com/l/landing-page-conversion-audit)
+cta: Map the aha moment before the next signup.
+do_not_say:
+  - guaranteed retention
+  - zero churn
+  - this will save every account
+  - growth hack
+source: product description + launch docs
+
+### Cluster: Run Solo
+
+### offer-pricing-stress-test
+name: Offer & Pricing Stress Test
+url: not live; do not link
+status: planned for 2027-01-06; not live; do not link
+cluster: Run Solo
+launch_date: 2027-01-06
+price_band: entry
+audience: Solo founders with an offer that is not converting, and freelancers who underprice.
+problem: The price is a guess, the offer is vague, and every objection becomes a discount. The problem is usually the offer, not the price.
+promise: An offer scorecard, 20 pricing objections, a three-tier rebuild, and a 10-minute test script. Find the value gap before changing the number.
+proof:
+  - Median B2B SaaS pages convert at 3.8%; top performers convert at 10-15% (landing-page industry sample). The offer and the page are part of the same conversion problem.
+angles:
+  - Your price is not the problem. The offer is.
+  - 20 objections that kill a $49 sale, and the sentence that answers each one.
+  - Rebuild the three tiers in an afternoon. The middle tier is not the default.
+  - The 10-minute test before the next discount.
+hooks:
+  - The discount is a symptom. The offer is the cause.
+  - If the buyer cannot repeat the offer in one sentence, the price is not the issue.
+  - Twenty objections. One scorecard. No more guessing.
+objections:
+  - "I cannot raise prices." -> The stress test finds the value gap first. The price follows the offer, not the other way around.
+  - "Is this generic pricing advice?" -> It ends in a scorecard, a three-tier rebuild, and a test script you can run this week.
+  - "My buyers are price-sensitive." -> Price sensitivity is often a value-clarity problem. The objections section shows what to fix before discounting.
+cross_sell:
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+  - The Landing Page Conversion Audit (https://probiex.gumroad.com/l/landing-page-conversion-audit)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+cta: Run the 10-minute test before the next discount.
+do_not_say:
+  - charge more
+  - guaranteed conversion lift
+  - pricing psychology hack
+  - this will 10x your revenue
+source: product description + launch docs
+
+### freelance-1099-tax
+name: Freelance 1099/Tax
+url: not live; do not link
+status: planned for 2027-02-03; not live; do not link
+cluster: Run Solo
+launch_date: 2027-02-03
+price_band: core
+audience: Freelancers and solo founders with 1099 income, especially first-year taxes.
+problem: Quarterly taxes, deductions, and invoice language are a guess. The result is penalties, cash-flow surprises, and invoices that invite a late payment.
+promise: A quarterly tax calendar, an estimated-payment calculator, a deduction checklist, and invoice language. A planning system, not tax advice.
+proof:
+  - 59% of small-business invoices run 30 or more days late; small businesses waited 29.3 days on average in Q2 2026 (Intuit QuickBooks). The invoice language is part of the cash-flow problem.
+angles:
+  - The quarterly tax date you miss every year.
+  - Your invoice is missing the tax and late-payment language.
+  - The deduction checklist for solo founders who file a 1099.
+  - A tax reserve is a cash-flow system, not an accounting chore.
+hooks:
+  - The quarterly tax date is not a surprise. The calendar is missing.
+  - Your invoice invites a late payment.
+  - The deduction is not the hard part. The record is.
+objections:
+  - "Is this tax advice?" -> No. It is a planning system. Confirm your rate and dates with an accountant.
+  - "I have a day job." -> The calendar covers side income too. The estimated-payment math starts from the extra income.
+  - "I already use accounting software." -> The software records the past. The pack plans the next four dates.
+cross_sell:
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+  - Offer & Pricing Stress Test (planned, not live)
+cta: Put the four quarterly dates in your calendar.
+do_not_say:
+  - tax advice
+  - IRS-approved
+  - guaranteed deduction
+  - you will owe $X
+  - audit-proof
+source: product description + launch docs
+
+## 3.4 Legacy catalog (generated from the shipped description)
+
+These products are live but are not part of the active Wave 6 slate.
+Use them for reply content, catalog posts, and cross-sells. Do not build
+a full campaign around them until they are folded or retired.
+
+### AI & PROMPTS
+
+### free-claude-prompts
+name: 10 Free Claude Prompts for SaaS Founders
+url: https://probiex.gumroad.com/l/free-claude-prompts
+status: live (free)
+cluster: AI & PROMPTS
+launch_date: already live
+price_band: free
+audience: Founders who want to try the working-prompt method before paying anything.
+problem: Steal the exact prompts working founders use every week. Copy, paste, run in Claude. No generic "act as a" filler.
+promise: Free starter ten: two Claude prompts from each category of the 100-prompt pack, ready to paste.
+proof:
+  - 10 free, copy-paste Claude prompts, two from each category of the paid pack: customer research and validation, landing page copy, email marketing, product strategy, and build in public.
+inside:
+  - 10 battle-tested prompts across 5 founder disciplines
+  - Fill-in-the-blank format, usable in 60 seconds
+  - A sample from the full 100-prompt pack
+faq:
+  - Q: What do I get, and in what format?
+    A: 10 prompts as PDF and Markdown, free, forever.
+  - Q: Is this a trial with hidden costs?
+    A: No. The pack is free; the full 100-prompt pack is the paid version if you want it.
+angles:
+  - The problem: Steal the exact prompts working founders use every week. Copy, paste, run in Claude. No generic "act as a" filler.
+  - What is inside: 10 battle-tested prompts across 5 founder disciplines
+hooks:
+  - Steal the exact prompts working founders use every week.
+  - Free starter ten: two Claude prompts from each category of the 100-prompt pack, ready to paste.
+  - Download the free pack and run it.
+objections:
+  - "Is this a trial with hidden costs?" -> No. The pack is free. The paid next step is optional.
+  - "Do I need an account?" -> No account and no card. Gumroad asks for an email to deliver the file.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+cross_sell:
+  - 100 Claude Prompts for SaaS Founders (https://probiex.gumroad.com/l/claude-prompts-saas-founders)
+cta: Download the free pack. If it finds a gap, the paid next step is linked on the page.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### claude-prompts-saas-founders
+name: 100 Claude Prompts for SaaS Founders
+url: https://probiex.gumroad.com/l/claude-prompts-saas-founders
+status: live
+cluster: AI & PROMPTS
+launch_date: already live
+price_band: paid; see product page
+audience: SaaS founders running their business with Claude as a working partner.
+problem: Most founders open Claude and freeze. This pack hands you 100 proven, specific prompts organized by job.
+promise: 100 copy-paste Claude prompts that run your SaaS business: research, launch, copy, and growth.
+proof:
+  - 100 copy-paste Claude prompts organized by SaaS job: research, copy, launch, growth, build-in-public, each with context fields and output format built in.
+  - This pack hands you 100 proven, specific prompts organized by job.
+inside:
+  - Customer Research and Validation (20 prompts)
+  - Copy and Conversion (20)
+  - Launch and Marketing (20)
+  - Growth and Analytics (20)
+  - Social and Build in Public (20)
+faq:
+  - Q: What do I get, and in what format?
+    A: The prompt pack as PDF and Markdown (paste-ready in Claude).
+  - Q: Do the prompts work with other models?
+    A: They are model-agnostic: fields and output formats work in any capable assistant.
+angles:
+  - "Open Claude and freeze"; 100 prompts by job
+  - The problem: Most founders open Claude and freeze. This pack hands you 100 proven, specific prompts organized by job.
+  - What is inside: Customer Research and Validation (20 prompts)
+hooks:
+  - Most founders open Claude and freeze.
+  - "Open Claude and freeze"; 100 prompts by job
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - AI Agent Blueprint Stack (https://probiex.gumroad.com/l/ai-agent-blueprint-stack)
+  - The AI-Slop Audit (https://probiex.gumroad.com/l/ai-slop-audit)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### ai-agent-blueprint-stack
+name: AI Agent Blueprint Stack
+url: https://probiex.gumroad.com/l/ai-agent-blueprint-stack
+status: live
+cluster: AI & PROMPTS
+launch_date: already live
+price_band: paid; see product page
+audience: Solopreneurs whose bottleneck is themselves.
+problem: You are the operations department. Every week, the same tasks eat the hours meant for building. This stack hands the work to agents you supervise, starting with one workflow and expanding to the week.
+promise: An agent-powered operation, hand over.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - The system schemas for agent-led operations
+  - Automation scripts for recurring ops
+  - A setup guide from one supervised workflow to a full week
+faq:
+  - Q: What do I get, and in what format?
+    A: The scripts and schemas archive (ZIP) plus the PDF setup guide.
+  - Q: Which agent platform does it assume?
+    A: None specifically: the schemas define supervision and escalation patterns that port across platforms.
+angles:
+  - Supervised agents for triage/inbox/scheduling
+  - The problem: You are the operations department. Every week, the same tasks eat the hours meant for building. This stack hands the work to agents you supervise, starting with one workflow and expanding to the week.
+  - What is inside: The system schemas for agent-led operations
+hooks:
+  - You are the operations department.
+  - Supervised agents for triage/inbox/scheduling
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - The AI-Slop Audit (https://probiex.gumroad.com/l/ai-slop-audit)
+  - 100 Claude Prompts for SaaS Founders (https://probiex.gumroad.com/l/claude-prompts-saas-founders)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### ai-slop-audit
+name: The AI-Slop Audit
+url: https://probiex.gumroad.com/l/ai-slop-audit
+status: live
+cluster: AI & PROMPTS
+launch_date: already live
+price_band: paid; see product page
+audience: Founders, creators, and teams publishing anything AI-assisted.
+problem: The data:
+promise: A 20-tell scoring system for catching AI-sounding writing before you publish it. 15-minute audit.
+proof:
+  - A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before you publish, with a rewrite table that turns vague claims into specific ones.
+inside:
+  - A 20-tell scorecard grouped by structure, language, and evidence
+  - A rewrite table: a buzzword-forward claim becomes a plain, specific one
+  - A brand voice sheet so your drafts have something to break against
+  - A one-pass cleanup workflow, including the specific detail AI cannot invent
+  - A "read the page backwards" test for weak endings
+faq:
+  - Q: What do I get, and in what format?
+    A: The audit kit (PDF): scorecard, rewrite table, and voice sheet.
+  - Q: How long does an audit take?
+    A: Fifteen minutes per page.
+angles:
+  - 1-in-10 AI pages; 20 tells in 15 minutes
+  - The problem: The data:
+  - What is inside: A 20-tell scorecard grouped by structure, language, and evidence
+hooks:
+  - The data:
+  - 1-in-10 AI pages; 20 tells in 15 minutes
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - AI Agent Blueprint Stack (https://probiex.gumroad.com/l/ai-agent-blueprint-stack)
+  - 100 Claude Prompts for SaaS Founders (https://probiex.gumroad.com/l/claude-prompts-saas-founders)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### voice-ai-system
+name: Voice AI System
+url: https://probiex.gumroad.com/l/voice-ai-system
+status: live
+cluster: AI & PROMPTS
+launch_date: already live
+price_band: paid; see product page
+audience: Builders shipping voice features into real products.
+problem: Voice AI projects fail when teams try to clone a voice instead of cloning a process. The demo impresses; the production system hallucinates, breaks compliance, and dies in review.
+promise: Clone your process, not your voice.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Voice-system schemas (intake, routing, escalation)
+  - A compliance checklist written for review meetings
+  - A setup guide for production voice workflows
+faq:
+  - Q: What do I get, and in what format?
+    A: The schemas and compliance kit (ZIP) plus the PDF setup guide.
+  - Q: Which TTS/STT stack does it support?
+    A: The schemas are stack-agnostic: they define the process layer above any provider.
+angles:
+  - Clone the process, not the voice; compliance survives
+  - The problem: Voice AI projects fail when teams try to clone a voice instead of cloning a process. The demo impresses; the production system hallucinates, breaks compliance, and dies in review.
+  - What is inside: Voice-system schemas (intake, routing, escalation)
+hooks:
+  - Voice AI projects fail when teams try to clone a voice instead of cloning a process.
+  - Clone the process, not the voice; compliance survives
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - AI Agent Blueprint Stack (https://probiex.gumroad.com/l/ai-agent-blueprint-stack)
+  - The AI-Slop Audit (https://probiex.gumroad.com/l/ai-slop-audit)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### n8n-solopreneur-workflows
+name: n8n Solopreneur Workflows
+url: https://probiex.gumroad.com/l/n8n-solopreneur-workflows
+status: live
+cluster: AI & PROMPTS
+launch_date: already live
+price_band: paid; see product page
+audience: n8n users who want automation that pays rent on day one.
+problem: A solopreneur's week leaks hours to glue work: checking feeds, copying leads into tools, reconciling sales. None of it is hard; all of it compounds.
+promise: Automation workflows that run your week.
+proof:
+  - Ten n8n workflow walkthroughs for solopreneurs, three of them pre-built as importable JSON: RSS-to-email digest, new-lead webhooks to Slack, and Gumroad sales logged to Google Sheets.
+inside:
+  - RSS digest piped to email
+  - New-lead webhooks routed to Slack
+  - Gumroad sales logged to a Google Sheet automatically
+  - Walkthrough docs for each workflow
+faq:
+  - Q: What do I get, and in what format?
+    A: Ten workflow walkthroughs (PDF) with three pre-built JSON files (ZIP).
+  - Q: How do I install them?
+    A: Import the JSON into n8n, add your credentials, done.
+angles:
+  - 3 workflows eat the glue hours
+  - The problem: A solopreneur's week leaks hours to glue work: checking feeds, copying leads into tools, reconciling sales. None of it is hard; all of it compounds.
+  - What is inside: RSS digest piped to email
+hooks:
+  - A solopreneur's week leaks hours to glue work: checking feeds, copying leads into tools, reconciling sales.
+  - 3 workflows eat the glue hours
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - AI Agent Blueprint Stack (https://probiex.gumroad.com/l/ai-agent-blueprint-stack)
+  - The AI-Slop Audit (https://probiex.gumroad.com/l/ai-slop-audit)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### BUILDS
+
+### free-launch-day-checklist
+name: Free Launch Day Checklist: 40 Checks
+url: https://probiex.gumroad.com/l/free-launch-day-checklist
+status: live (free)
+cluster: BUILDS
+launch_date: already live
+price_band: free
+audience: Founders inside the launch week who are assembling the plane while flying it; free.
+problem: Founders inside the launch week who are assembling the plane while flying it; free.
+promise: Forty ordered checks from T-24h to T+72h: product, checkout, content, the launch, first-day replies, and the retro.
+proof:
+  - Forty ordered checks for launch day, from T-24h through T+72h: product ready, checkout tested, content staged, the launch itself, first-day replies, and the retro.
+inside:
+  - 40 checks in four run-throughs: T-24h (product, site, money, content), T-0 (post order, email, communities), T+24h (replies, first fix, sources), T+72h (retro, follow-ups, next iteration)
+  - Every check carries a one-line why, so a co-founder can run it without you
+  - A failure-mapping table: which missed check explains which launch-day symptom
+faq:
+  - Q: Does this replace a launch plan?
+    A: No. It covers launch day and the 72 hours after. The 30 days before are Ship Your SaaS in 30 Days, and the launch emails are the Launch Week Email Kit.
+  - Q: Can I run it for a non-SaaS launch?
+    A: Yes; the checkout and site checks assume a digital product with a buy button, which covers most launches.
+angles:
+  - 40 ordered checks, T-24h to T+72h; launches fail on unbought prep
+  - The problem: Founders inside the launch week who are assembling the plane while flying it; free.
+  - What is inside: 40 checks in four run-throughs: T-24h (product, site, money, content), T-0 (post order, email, communities), T+24h (replies, first fix, sources), T+72h (retro, follow-ups, next iteration)
+hooks:
+  - Founders inside the launch week who are assembling the plane while flying it; free.
+  - 40 ordered checks, T-24h to T+72h; launches fail on unbought prep
+  - Download the free pack and run it.
+objections:
+  - "Is this a trial with hidden costs?" -> No. The pack is free. The paid next step is optional.
+  - "Do I need an account?" -> No account and no card. Gumroad asks for an email to deliver the file.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+cross_sell:
+  - Launch Week Email Kit (https://probiex.gumroad.com/l/launch-week-email-kit)
+cta: Download the free pack. If it finds a gap, the paid next step is linked on the page.
+do_not_say: see the global hard bans; apply all of them.
+source: product description
+
+### free-one-page-business-plan
+name: Free One-Page Business Plan: Notion + PDF
+url: https://probiex.gumroad.com/l/free-one-page-business-plan
+status: live (free)
+cluster: BUILDS
+launch_date: already live
+price_band: free
+audience: Indie hackers and solo founders who keep their plan in 40 open tabs; free.
+problem: Indie hackers and solo founders who keep their plan in 40 open tabs; free.
+promise: The plan that gets reviewed weekly instead of written yearly: 9 sections, a 20-minute Notion build, and a worked example.
+proof:
+  - A one-page business plan you build in Notion in 20 minutes or print and fill by hand: nine sections, a weekly review rule, and a worked example that shows the specificity bar.
+  - Indie hackers and solo founders who keep their plan in 40 open tabs; free.
+inside:
+  - The 9-section template: promise, customer, problem, wedge, channel, revenue model, 90-day milestones, weekly metric, kill criteria
+  - The Notion build spec (page, callouts, and a linked milestones database with Name, Due, Status, Evidence)
+  - The Monday review rule: 5 minutes, update 3 fields, keep or kill one experiment
+  - A filled worked example for a fictional indie SaaS
+faq:
+  - Q: Do I need Notion?
+    A: No. The PDF works on paper. The Notion spec is there if you want the weekly review to live where you work.
+  - Q: Is this the same as the Indie Hacker OS?
+    A: No. The plan sets direction on one page; the OS is six linked databases that run the week-to-week operation.
+angles:
+  - The 9-section plan reviewed weekly, not written yearly
+  - The problem: Indie hackers and solo founders who keep their plan in 40 open tabs; free.
+  - What is inside: The 9-section template: promise, customer, problem, wedge, channel, revenue model, 90-day milestones, weekly metric, kill criteria
+hooks:
+  - Indie hackers and solo founders who keep their plan in 40 open tabs; free.
+  - The 9-section plan reviewed weekly, not written yearly
+  - Download the free pack and run it.
+objections:
+  - "Is this a trial with hidden costs?" -> No. The pack is free. The paid next step is optional.
+  - "Do I need an account?" -> No account and no card. Gumroad asks for an email to deliver the file.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+cross_sell:
+  - The Indie Hacker OS (https://probiex.gumroad.com/l/indie-hacker-os)
+cta: Download the free pack. If it finds a gap, the paid next step is linked on the page.
+do_not_say: see the global hard bans; apply all of them.
+source: product description
+
+### launchkit-starter
+name: LaunchKit Starter
+url: https://probiex.gumroad.com/l/launchkit-starter
+status: live
+cluster: BUILDS
+launch_date: already live
+price_band: paid; see product page
+audience: Solo founders and indie hackers who want their first paying customer, not their fiftieth config file.
+problem: Every SaaS starts with two to four weeks of boilerplate: auth, billing, database schema, i18n, dark mode, tests, CI. That is a month of no-customer work before you write a single feature.
+promise: Production-ready Next.js 15 SaaS starter with auth, billing, DB, i18n.
+proof:
+  - A production-ready Next.js starter with Clerk auth, Stripe subscriptions, Drizzle ORM, i18n, dark mode, tests, and CI.
+  - Every SaaS starts with two to four weeks of boilerplate: auth, billing, database schema, i18n, dark mode, tests, CI.
+inside:
+  - Next.js 15 starter with Clerk auth (magic links, OAuth, multi-tenancy)
+  - Stripe subscriptions with webhooks and customer portal
+  - Drizzle ORM on Postgres, English/French i18n, dark mode
+  - Storybook, Playwright E2E, Vitest, and GitHub Actions CI
+faq:
+  - Q: What do I get, and in what format?
+    A: The complete starter codebase (ZIP) plus the PDF setup guide.
+  - Q: Which Next.js/React versions?
+    A: Next.js 15 on the current release line; the setup guide covers upgrading.
+angles:
+  - The boilerplate month, removed
+  - The problem: Every SaaS starts with two to four weeks of boilerplate: auth, billing, database schema, i18n, dark mode, tests, CI. That is a month of no-customer work before you write a single feature.
+  - What is inside: Next.js 15 starter with Clerk auth (magic links, OAuth, multi-tenancy)
+hooks:
+  - Every SaaS starts with two to four weeks of boilerplate: auth, billing, database schema, i18n, dark mode, tests, CI.
+  - The boilerplate month, removed
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Free Launch Day Checklist: 40 Checks (https://probiex.gumroad.com/l/free-launch-day-checklist)
+  - Free One-Page Business Plan: Notion + PDF (https://probiex.gumroad.com/l/free-one-page-business-plan)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### ship-saas-30-days
+name: Ship Your SaaS in 30 Days
+url: https://probiex.gumroad.com/l/ship-saas-30-days
+status: live
+cluster: BUILDS
+launch_date: already live
+price_band: paid; see product page
+audience: Builders who want a plan, not more advice.
+problem: Shipping a SaaS in 30 days fails for one reason: no plan. Builders either polish forever or sprint randomly and launch to silence.
+promise: A one-month playbook from zero to paid.
+proof:
+  - A 30-day playbook from zero to paid SaaS: a day-by-day checklist from validation to first revenue, plus landing page and launch templates for each phase.
+  - Shipping a SaaS in 30 days fails for one reason: no plan.
+inside:
+  - A day-by-day checklist: validation, build, landing page, waitlist, launch, first revenue
+  - Landing-page and launch templates so no day starts from blank
+  - The forcing function: follow the days, ship on day 30
+faq:
+  - Q: What do I get, and in what format?
+    A: The checklist and template pack (ZIP) plus the PDF playbook.
+  - Q: What if I miss days?
+    A: The plan assumes drift: the landing and launch templates hold their shape even on messy weeks.
+angles:
+  - Random sprint vs day-by-day zero-to-paid
+  - The problem: Shipping a SaaS in 30 days fails for one reason: no plan. Builders either polish forever or sprint randomly and launch to silence.
+  - What is inside: A day-by-day checklist: validation, build, landing page, waitlist, launch, first revenue
+hooks:
+  - Shipping a SaaS in 30 days fails for one reason: no plan.
+  - Random sprint vs day-by-day zero-to-paid
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Free Launch Day Checklist: 40 Checks (https://probiex.gumroad.com/l/free-launch-day-checklist)
+  - Free One-Page Business Plan: Notion + PDF (https://probiex.gumroad.com/l/free-one-page-business-plan)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### personal-landing-page
+name: The One-Page Personal Site
+url: https://probiex.gumroad.com/l/personal-landing-page
+status: live
+cluster: BUILDS
+launch_date: already live
+price_band: paid; see product page
+audience: Freelancers and solo operators who need one shareable link instead of an unfinished site.
+problem: The five-page portfolio never ships. One page that exists beats five pages in a drafts folder: what you do, proof, how to hire you, one link you can put in an email signature.
+promise: A dependency-free one-page personal site with dark mode, deployable anywhere in minutes.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - One polished index.html: semantic markup, focus states, responsive to 360px, zero dependencies beyond one font link
+  - Dark and light mode: automatic via system preference plus a manual toggle that remembers
+  - A copy worksheet so you write your sections before touching markup
+  - Deploy steps for GitHub Pages, Netlify, Vercel, or any static host, plus a domain pointer
+faq:
+  - Q: What do I get, and in what format?
+    A: A ZIP with the HTML file, the copy worksheet, and a site README, plus the PDF guide.
+  - Q: Can I keep it updated?
+    A: Yes. The guide's ritual is one dated note per shipped project, ten minutes, which is what keeps the page alive.
+angles:
+  - The 5-page portfolio never ships; one link does
+  - The problem: The five-page portfolio never ships. One page that exists beats five pages in a drafts folder: what you do, proof, how to hire you, one link you can put in an email signature.
+  - What is inside: One polished index.html: semantic markup, focus states, responsive to 360px, zero dependencies beyond one font link
+hooks:
+  - The five-page portfolio never ships.
+  - The 5-page portfolio never ships; one link does
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Free Launch Day Checklist: 40 Checks (https://probiex.gumroad.com/l/free-launch-day-checklist)
+  - Free One-Page Business Plan: Notion + PDF (https://probiex.gumroad.com/l/free-one-page-business-plan)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### transactional-email-kit
+name: The Transactional Email Kit
+url: https://probiex.gumroad.com/l/transactional-email-kit
+status: live
+cluster: BUILDS
+launch_date: already live
+price_band: paid; see product page
+audience: Solo SaaS founders and indie hackers wiring up lifecycle email.
+problem: Every SaaS needs the same eight lifecycle emails, and every founder ships them as an afterthought: broken tables, image-only receipts, dunning copy that reads like a threat. This kit is the set, table-coded with inline CSS and a send map.
+promise: Eight lifecycle emails coded to render in Gmail and Outlook, with a send map and QA checklist.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Eight self-contained .html files: 600px table layout, inline styles, dark-mode-safe panel, bulletproof CTA buttons
+  - A from/subject cheat sheet: three subject options and preheader text per email
+  - A send-trigger map: what fires each email and when not to send it
+  - A QA checklist: Gmail and Outlook tests, plaintext fallback, token tests, the 400px mobile check
+faq:
+  - Q: What do I get, and in what format?
+    A: A ZIP with the eight .html files and the cheat sheet, plus the PDF guide.
+  - Q: Do the emails work in dark mode?
+    A: The design uses a dark panel with fixed light body text, which is the standard dark-safe pattern; the guide covers the details.
+angles:
+  - 8 lifecycle emails coded to render; no image-only receipts
+  - The problem: Every SaaS needs the same eight lifecycle emails, and every founder ships them as an afterthought: broken tables, image-only receipts, dunning copy that reads like a threat. This kit is the set, table-coded with inline CSS and a send map.
+  - What is inside: Eight self-contained .html files: 600px table layout, inline styles, dark-mode-safe panel, bulletproof CTA buttons
+hooks:
+  - Every SaaS needs the same eight lifecycle emails, and every founder ships them as an afterthought: broken tables, image-only receipts, dunning copy that reads like a threat.
+  - 8 lifecycle emails coded to render; no image-only receipts
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Free Launch Day Checklist: 40 Checks (https://probiex.gumroad.com/l/free-launch-day-checklist)
+  - Free One-Page Business Plan: Notion + PDF (https://probiex.gumroad.com/l/free-one-page-business-plan)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### BUNDLE
+
+### founder-finance-bundle
+name: Founder Finance Bundle
+url: https://probiex.gumroad.com/l/founder-finance-bundle
+status: live
+cluster: BUNDLE
+launch_date: already live
+price_band: paid; see product page
+audience: Founders who want the full finance picture instead of one spreadsheet.
+problem: One purchase covers all six: the same workbooks, one checkout, one download section.
+promise: Six finance workbooks in one checkout: rate floor, runway, CAC ceiling, metrics, pricing, and cash forecast.
+proof:
+  - Six finance workbooks and their PDF guides in one bundle: rate floor, runway and breakeven, break-even CAC, the ten SaaS metrics, the pricing method, and a 90-day cash forecast.
+faq:
+  - Q: What do I get, and in what format?
+    A: Six XLSX workbooks plus their PDF guides, in one purchase and one download section.
+  - Q: Do the books share data?
+    A: They share the same founder math assumptions (costs, margins, runway), so the numbers stay consistent across tools.
+angles:
+  - The six finance workbooks, one checkout
+  - The problem: One purchase covers all six: the same workbooks, one checkout, one download section.
+hooks:
+  - One purchase covers all six: the same workbooks, one checkout, one download section.
+  - The six finance workbooks, one checkout
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Launch Bundle (https://probiex.gumroad.com/l/launch-bundle)
+  - Notion Founder Bundle (https://probiex.gumroad.com/l/notion-founder-bundle)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### launch-bundle
+name: Launch Bundle
+url: https://probiex.gumroad.com/l/launch-bundle
+status: live
+cluster: BUNDLE
+launch_date: already live
+price_band: paid; see product page
+audience: Founders approaching launch week, covering everything from first touch to first revenue.
+problem: One purchase covers all four: the same systems, one checkout, one download section.
+promise: Four launch systems in one checkout: outreach replies, launch emails, the 30-day ship plan, and first-100 distribution.
+proof:
+  - Four launch systems in one bundle: 40+ outreach replies, the seven launch emails, a 30-day ship plan, and the warm-signal first-100 playbook.
+faq:
+  - Q: What do I get, and in what format?
+    A: Four products: PDFs and template kits in one purchase, one download section.
+  - Q: Do the systems reference each other?
+    A: They run in sequence: outreach replies → launch emails → first customers, with the 30-day plan as the spine.
+angles:
+  - Four launch systems from first touch to first revenue
+  - The problem: One purchase covers all four: the same systems, one checkout, one download section.
+hooks:
+  - One purchase covers all four: the same systems, one checkout, one download section.
+  - Four launch systems from first touch to first revenue
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Founder Finance Bundle (https://probiex.gumroad.com/l/founder-finance-bundle)
+  - Notion Founder Bundle (https://probiex.gumroad.com/l/notion-founder-bundle)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### notion-founder-bundle
+name: Notion Founder Bundle
+url: https://probiex.gumroad.com/l/notion-founder-bundle
+status: live
+cluster: BUNDLE
+launch_date: already live
+price_band: paid; see product page
+audience: Founders standardizing one workspace.
+problem: One purchase covers all three: the same build specs and guides, one checkout.
+promise: Three Notion systems in one checkout: Founder CRM, Content Calendar, and Indie Hacker OS.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+faq:
+  - Q: What do I get, and in what format?
+    A: Three Notion build specs plus setup guides. Duplicate into your workspace and run.
+  - Q: Are the systems linked?
+    A: They share Notion relations where it helps (projects to revenue, content to audience), so one workspace holds the whole business.
+angles:
+  - CRM + calendar + OS: one workspace spec
+  - The problem: One purchase covers all three: the same build specs and guides, one checkout.
+hooks:
+  - One purchase covers all three: the same build specs and guides, one checkout.
+  - CRM + calendar + OS: one workspace spec
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Founder Finance Bundle (https://probiex.gumroad.com/l/founder-finance-bundle)
+  - Launch Bundle (https://probiex.gumroad.com/l/launch-bundle)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### CAREER & TEACHING
+
+### ai-literacy-kit
+name: AI Literacy Engineering Kit
+url: https://probiex.gumroad.com/l/ai-literacy-kit
+status: live
+cluster: CAREER & TEACHING
+launch_date: already live
+price_band: paid; see product page
+audience: Teachers and trainers who need an AI curriculum they can deliver with no AI expertise.
+problem: Teachers and trainers who need an AI curriculum they can deliver with no AI expertise.
+promise: 30 lesson plans that teach students to think critically with AI, not avoid it.
+proof:
+  - 30 fifty-minute AI lesson plans for K-12 through professional classrooms: worksheets, a rubric generator, an AI policy generator, and COAST/VERIFY frameworks.
+inside:
+  - 30 lesson plans across four phases: awareness, literacy, integration, creation
+  - Printable worksheets and a rubric generator
+  - Grade-level adaptations from K-5 through professional
+  - An AI policy generator with Red/Yellow/Green zones
+  - The COAST and VERIFY frameworks
+faq:
+  - Q: What do I get, and in what format?
+    A: The complete kit (PDF), ready to teach tomorrow with no AI background needed.
+  - Q: Can I adapt it for adult learners?
+    A: Yes. The grade-level adaptations span K-5 through professional, and the policy generator adapts to adult rules too.
+angles:
+  - 30 lessons teaching critical thinking with AI
+  - The problem: Teachers and trainers who need an AI curriculum they can deliver with no AI expertise.
+  - What is inside: 30 lesson plans across four phases: awareness, literacy, integration, creation
+hooks:
+  - Teachers and trainers who need an AI curriculum they can deliver with no AI expertise.
+  - 30 lessons teaching critical thinking with AI
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - AI Resume Optimizer Spec + Kit (https://probiex.gumroad.com/l/ai-resume-optimizer)
+  - The ATS Resume Pack (https://probiex.gumroad.com/l/ats-resume-pack)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### ai-resume-optimizer
+name: AI Resume Optimizer Spec + Kit
+url: https://probiex.gumroad.com/l/ai-resume-optimizer
+status: live
+cluster: CAREER & TEACHING
+launch_date: already live
+price_band: paid; see product page
+audience: Builders shipping career AI products and coaches productizing resume reviews.
+problem: Building or evaluating an AI resume tool without a scoring rubric means shipping vibes instead of quality. What counts as a "good" rewrite? Nobody on the team can say. This kit makes it measurable.
+promise: A complete spec and launch kit for a resume tool.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - A weighted scoring rubric for resume rewrites
+  - The prompt chains that implement the rubric
+  - Three fully worked example rewrites: before, after, and score
+faq:
+  - Q: What do I get, and in what format?
+    A: The full spec archive (ZIP) plus the PDF launch kit.
+  - Q: Can I use it to audit an existing tool?
+    A: Yes. QA-on-a-vendor is one of the three declared use cases.
+angles:
+  - Shipping vibes vs a weighted rubric
+  - The problem: Building or evaluating an AI resume tool without a scoring rubric means shipping vibes instead of quality. What counts as a "good" rewrite? Nobody on the team can say. This kit makes it measurable.
+  - What is inside: A weighted scoring rubric for resume rewrites
+hooks:
+  - Building or evaluating an AI resume tool without a scoring rubric means shipping vibes instead of quality.
+  - Shipping vibes vs a weighted rubric
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - AI Literacy Engineering Kit (https://probiex.gumroad.com/l/ai-literacy-kit)
+  - The ATS Resume Pack (https://probiex.gumroad.com/l/ats-resume-pack)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### ats-resume-pack
+name: The ATS Resume Pack
+url: https://probiex.gumroad.com/l/ats-resume-pack
+status: live
+cluster: CAREER & TEACHING
+launch_date: already live
+price_band: paid; see product page
+audience: Freelancers and solo operators applying to full-time or contract roles.
+problem: The best-looking resume in the stack is often the one that never gets seen: two columns interleave, text boxes vanish, and the parsed record a recruiter actually reads is scrambled. These six templates stay where the parser looks.
+promise: Six worked-example resumes as DOCX masters, built to survive how applicant tracking systems parse documents.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Six complete .docx resumes with realistic worked examples: modern Arial, Georgia classic, bullet-forward sales, skills-first career switcher, executive summary, compact tech
+  - A PDF guide on how a parse actually works, in definitional terms
+  - The keyword pass: pull 8 to 12 exact phrases from a posting and place them truthfully
+  - The replace-my-data checklist mapping every fictional value to what you swap in
+faq:
+  - Q: What do I get, and in what format?
+    A: A ZIP with the six .docx masters and their markdown sources, plus the PDF guide.
+  - Q: Are the example people real?
+    A: No. Every person, company, and number is a realistic fiction, clearly labeled, so you see a complete resume before you swap in your own.
+angles:
+  - Two columns scramble the parse; single column survives
+  - The problem: The best-looking resume in the stack is often the one that never gets seen: two columns interleave, text boxes vanish, and the parsed record a recruiter actually reads is scrambled. These six templates stay where the parser looks.
+  - What is inside: Six complete .docx resumes with realistic worked examples: modern Arial, Georgia classic, bullet-forward sales, skills-first career switcher, executive summary, compact tech
+hooks:
+  - The best-looking resume in the stack is often the one that never gets seen: two columns interleave, text boxes vanish, and the parsed record a recruiter actually reads is scrambled.
+  - Two columns scramble the parse; single column survives
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - AI Literacy Engineering Kit (https://probiex.gumroad.com/l/ai-literacy-kit)
+  - AI Resume Optimizer Spec + Kit (https://probiex.gumroad.com/l/ai-resume-optimizer)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### course-curriculum-builder
+name: The Course Builder for Notion
+url: https://probiex.gumroad.com/l/course-curriculum-builder
+status: live
+cluster: CAREER & TEACHING
+launch_date: already live
+price_band: paid; see product page
+audience: Solo experts turning their craft into a first paid course or cohort.
+problem: Course projects die in folder archaeology: scripts across docs, recordings on a drive, no record of which lesson serves which outcome. This system forces the outcome test before you record anything.
+promise: Course architecture in Notion: outcome gates per module, a recording queue, and a feedback loop.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Database schemas: Courses, Modules, Lessons, Assets and Scripts, Student Feedback, with exact properties and formulas
+  - The outcome-first gate: define what a student can do on day 1 and day 30 per module, with a worksheet
+  - A recording queue that only admits lessons with approved scripts and a passed module gate
+  - Views: architecture board, recording queue, actionable feedback
+faq:
+  - Q: What do I get, and in what format?
+    A: A ZIP with the schema spec, a 12-row lesson-planner seed CSV, and a workspace README, plus a PDF guide.
+  - Q: Does it cover hosting or sales pages?
+    A: No. This is the architecture and production system; it ends at a recorded, published lesson library.
+angles:
+  - The outcome test comes before the recordings
+  - The problem: Course projects die in folder archaeology: scripts across docs, recordings on a drive, no record of which lesson serves which outcome. This system forces the outcome test before you record anything.
+  - What is inside: Database schemas: Courses, Modules, Lessons, Assets and Scripts, Student Feedback, with exact properties and formulas
+hooks:
+  - Course projects die in folder archaeology: scripts across docs, recordings on a drive, no record of which lesson serves which outcome.
+  - The outcome test comes before the recordings
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - AI Literacy Engineering Kit (https://probiex.gumroad.com/l/ai-literacy-kit)
+  - AI Resume Optimizer Spec + Kit (https://probiex.gumroad.com/l/ai-resume-optimizer)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### job-search-os
+name: The Job-Search OS for Notion
+url: https://probiex.gumroad.com/l/job-search-os
+status: live
+cluster: CAREER & TEACHING
+launch_date: already live
+price_band: paid; see product page
+audience: Freelancers between contracts and solo operators running a full-time or contract search.
+problem: Sixty applications, four replies, and no record of what worked: that is the spreadsheet problem. A search run like a campaign tracks every application's stage, every person touched, and the follow-up that is due today.
+promise: Run your job search like a campaign: applications, contacts, follow-up dates, and offer math in one system.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Database schemas: Companies, Roles, Applications, People, Interviews, with exact properties and formulas
+  - Views: follow-ups due today, applications out for over two weeks, the interview-stage board
+  - A follow-up cadence (day 4, 6, 12, 20) with honest framing on cold versus referred replies
+  - Offer math: a total-compensation comparison across contract and full-time offers
+faq:
+  - Q: What do I get, and in what format?
+    A: A ZIP with the schema spec, a 14-row seed CSV for the application tracker, and a workspace README, plus a PDF guide.
+  - Q: Does it tell me what to say in follow-ups?
+    A: The system tracks who and when; the guide's cadence section covers the timing logic. For wording, pair it with the Cold Outreach Reply Pack.
+angles:
+  - 60 applied, 4 replies, no record; run it like a campaign
+  - The problem: Sixty applications, four replies, and no record of what worked: that is the spreadsheet problem. A search run like a campaign tracks every application's stage, every person touched, and the follow-up that is due today.
+  - What is inside: Database schemas: Companies, Roles, Applications, People, Interviews, with exact properties and formulas
+hooks:
+  - Sixty applications, four replies, and no record of what worked: that is the spreadsheet problem.
+  - 60 applied, 4 replies, no record; run it like a campaign
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - AI Literacy Engineering Kit (https://probiex.gumroad.com/l/ai-literacy-kit)
+  - AI Resume Optimizer Spec + Kit (https://probiex.gumroad.com/l/ai-resume-optimizer)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### pitch-deck-builder
+name: The Pitch Deck Builder
+url: https://probiex.gumroad.com/l/pitch-deck-builder
+status: live
+cluster: CAREER & TEACHING
+launch_date: already live
+price_band: paid; see product page
+audience: Solo founders at pre-seed and seed raising a first round.
+problem: Thirty-slide decks get skimmed, and decks without an ask get filed. The ten-slide structure exists because each slide has one job; this builder gives you those ten plus six appendix slides, filled with replaceable example copy.
+promise: A 16-slide investor deck template with a worked example, speaker notes, and one question answered per slide.
+proof:
+  - A 16-slide PPTX deck template with a worked seed-stage example, speaker notes, and a walkthrough that answers one investor question per slide.
+inside:
+  - A 16-slide PPTX: ten core slides plus appendix (pipeline, cohorts, pricing, benchmark definitions, FAQ, contact)
+  - A traction chart, a 2x2 alternatives grid, and a big-number ask slide, all pre-built
+  - Speaker notes written as the words to say, not bullet reminders
+  - A PDF walkthrough: the one question each slide answers, the make-or-break rule, and the numbers-honesty block
+faq:
+  - Q: What do I get, and in what format?
+    A: The .pptx deck plus a ZIP with the slide content spec, and the PDF walkthrough guide.
+  - Q: Is the example company real?
+    A: No. Harborline is a fictional freight-booking SaaS, so every headline and chart shows filled-in copy you replace block by block.
+angles:
+  - 30-slide decks get skimmed; one question per slide
+  - The problem: Thirty-slide decks get skimmed, and decks without an ask get filed. The ten-slide structure exists because each slide has one job; this builder gives you those ten plus six appendix slides, filled with replaceable example copy.
+  - What is inside: A 16-slide PPTX: ten core slides plus appendix (pipeline, cohorts, pricing, benchmark definitions, FAQ, contact)
+hooks:
+  - Thirty-slide decks get skimmed, and decks without an ask get filed.
+  - 30-slide decks get skimmed; one question per slide
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - AI Literacy Engineering Kit (https://probiex.gumroad.com/l/ai-literacy-kit)
+  - AI Resume Optimizer Spec + Kit (https://probiex.gumroad.com/l/ai-resume-optimizer)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### FINANCE
+
+### free-invoice-reminder-emails
+name: 5 Free Invoice Reminder Emails
+url: https://probiex.gumroad.com/l/free-invoice-reminder-emails
+status: live (free)
+cluster: FINANCE
+launch_date: already live
+price_band: free
+audience: Freelancers and solo operators who invoice clients; this one is free.
+problem: Freelancers and solo operators who invoice clients; this one is free.
+promise: Five copy-paste emails that keep invoices out of the late pile: pre-due, due-day, day 1, day 14, and the final notice.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Email 1: three business days before the due date (catches lost invoices at the AP desk)
+  - Email 2: the due-day morning nudge
+  - Email 3: day 1 overdue, framed as a process check, not an accusation
+  - Email 4: day 14, asking for a specific commitment date
+  - Email 5: the final notice that states the work pause plainly
+faq:
+  - Q: Are these the same emails as in the Late-Payment Playbook?
+    A: Five of the reminder emails overlap; the playbook adds the rest of the system: contract clauses, deposit schedules, and the full escalation ladder.
+  - Q: Do I need to edit them before sending?
+    A: Replace the bracketed fields and send. Each one is under 90 words and asks for exactly one thing.
+angles:
+  - The two pre-due emails nobody sends; five copy-paste messages
+  - The problem: Freelancers and solo operators who invoice clients; this one is free.
+  - What is inside: Email 1: three business days before the due date (catches lost invoices at the AP desk)
+hooks:
+  - Freelancers and solo operators who invoice clients; this one is free.
+  - The two pre-due emails nobody sends; five copy-paste messages
+  - Download the free pack and run it.
+objections:
+  - "Is this a trial with hidden costs?" -> No. The pack is free. The paid next step is optional.
+  - "Do I need an account?" -> No account and no card. Gumroad asks for an email to deliver the file.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+cross_sell:
+  - The Late-Payment Playbook (https://probiex.gumroad.com/l/late-payment-playbook)
+cta: Download the free pack. If it finds a gap, the paid next step is linked on the page.
+do_not_say: see the global hard bans; apply all of them.
+source: product description
+
+### break-even-cac-calculator
+name: Break-Even CAC Calculator
+url: https://probiex.gumroad.com/l/break-even-cac-calculator
+status: live
+cluster: FINANCE
+launch_date: already live
+price_band: paid; see product page
+audience: SaaS founders and indie hackers spending anything to acquire customers.
+problem: There is exactly one CAC number your margins cannot survive above, and most founders never compute it. They scale ad spend or outreach until the unit economics quietly break.
+promise: The CAC your margins cannot sustain.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Break-even CAC computed from your real pricing, margins, and retention
+  - Headroom analysis per acquisition channel
+  - A PDF guide on the three decisions the number forces: pricing, channel mix, payback target
+faq:
+  - Q: What do I get, and in what format?
+    A: The XLSX calculator plus a PDF walkthrough of the math and the forced decisions.
+  - Q: How long does setup take?
+    A: Plug in six numbers; the rest computes itself.
+angles:
+  - The CAC ceiling your margins cannot survive
+  - The problem: There is exactly one CAC number your margins cannot survive above, and most founders never compute it. They scale ad spend or outreach until the unit economics quietly break.
+  - What is inside: Break-even CAC computed from your real pricing, margins, and retention
+hooks:
+  - There is exactly one CAC number your margins cannot survive above, and most founders never compute it.
+  - The CAC ceiling your margins cannot survive
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - 5 Free Invoice Reminder Emails (https://probiex.gumroad.com/l/free-invoice-reminder-emails)
+  - The Freelance Cash-Flow Planner (https://probiex.gumroad.com/l/freelance-cash-flow-planner)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### freelancer-rate-calculator
+name: Freelancer Rate Calculator
+url: https://probiex.gumroad.com/l/freelancer-rate-calculator
+status: live
+cluster: FINANCE
+launch_date: already live
+price_band: paid; see product page
+audience: Freelancers and solo operators pricing their own hours.
+problem: Most freelancers set rates by copying competitors or picking a number that feels fair, then discover the margin was 14% and they are losing money on every hour. This calculator derives the floor from your real costs: fixed plus variable monthly spend divided by true billable hours, adjusted for your target margin.
+promise: What to bill so the math works, as a workbook.
+proof:
+  - An XLSX calculator that derives your freelance rate floor from real costs, true billable hours, and target margin, with a worked [price on page]/hr example.
+  - Most freelancers set rates by copying competitors or picking a number that feels fair, then discover the margin was 14% and they are losing money on every hour.
+inside:
+  - The rate-floor calculator with cost inputs and margin targets
+  - A worked example ([price on page] costs, 100 billable hours, 40% margin = [price on page]/hr minimum)
+  - Rate-raise timing guidance tied to your numbers
+faq:
+  - Q: What do I get, and in what format?
+    A: The XLSX rate calculator plus a PDF guide covering cost inputs, margin targets, and when to raise rates.
+  - Q: Does it work for my country/currency?
+    A: The math is currency-agnostic: you enter your own cost and income numbers.
+angles:
+  - The 14% margin hiding in copied rates
+  - The problem: Most freelancers set rates by copying competitors or picking a number that feels fair, then discover the margin was 14% and they are losing money on every hour. This calculator derives the floor from your real costs: fixed plus variable monthly spend divided by true billable hours, adjusted for your target margin.
+  - What is inside: The rate-floor calculator with cost inputs and margin targets
+hooks:
+  - Most freelancers set rates by copying competitors or picking a number that feels fair, then discover the margin was 14% and they are losing money on every hour.
+  - The 14% margin hiding in copied rates
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Break-Even CAC Calculator (https://probiex.gumroad.com/l/break-even-cac-calculator)
+  - 5 Free Invoice Reminder Emails (https://probiex.gumroad.com/l/free-invoice-reminder-emails)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### runway-breakeven-calculator
+name: Runway & Breakeven Calculator
+url: https://probiex.gumroad.com/l/runway-breakeven-calculator
+status: live
+cluster: FINANCE
+launch_date: already live
+price_band: paid; see product page
+audience: Founders and indie hackers managing their own cash position.
+problem: "We have plenty of runway" is the most expensive sentence in startups. Founders divide cash by last month's burn and call it planning, then a bad quarter halves the number overnight.
+promise: How many months of cash you actually have.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Runway computed from trailing burn, committed spend, and revenue scenarios
+  - The breakeven point: the revenue level where the clock stops
+  - Scenario rows to test hiring, raises, and churn shocks before they happen
+  - A PDF guide on reading the output and the three actions a short runway forces
+faq:
+  - Q: What do I get, and in what format?
+    A: The XLSX runway model plus a PDF guide to the reading and actions.
+  - Q: How much of my data does it need?
+    A: Six to eight inputs: cash, burn, commitments, revenue scenarios. No integrations.
+angles:
+  - "Plenty of runway" is the most expensive sentence
+  - The problem: "We have plenty of runway" is the most expensive sentence in startups. Founders divide cash by last month's burn and call it planning, then a bad quarter halves the number overnight.
+  - What is inside: Runway computed from trailing burn, committed spend, and revenue scenarios
+hooks:
+  - "We have plenty of runway" is the most expensive sentence in startups.
+  - "Plenty of runway" is the most expensive sentence
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Break-Even CAC Calculator (https://probiex.gumroad.com/l/break-even-cac-calculator)
+  - 5 Free Invoice Reminder Emails (https://probiex.gumroad.com/l/free-invoice-reminder-emails)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### saas-metrics-dashboard
+name: SaaS Metrics Dashboard Kit
+url: https://probiex.gumroad.com/l/saas-metrics-dashboard
+status: live
+cluster: FINANCE
+launch_date: already live
+price_band: paid; see product page
+audience: SaaS founders who want a Monday-morning numbers ritual.
+problem: Founders track vanity metrics and miss the ten numbers that decide survival. Each one forces a specific decision; this workbook writes that decision next to each metric.
+promise: The 10 survival numbers for SaaS as a workbook you own.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Eight of the ten survival metrics computed in the sheet: MRR and net-new MRR, LTV:CAC, gross retention and NRR, CAC payback, churn, and free-to-paid conversion; the guide walks GRR and LTV by hand from the same numbers
+  - The decision each metric forces, written next to it
+  - A PDF guide explaining every metric and its action threshold
+faq:
+  - Q: What do I get, and in what format?
+    A: The two-sheet XLSX dashboard plus the PDF guide.
+  - Q: Does it need Stripe or analytics integrations?
+    A: No. Paste nine numbers on Monday morning; the math runs in the workbook.
+angles:
+  - 6 numbers in, 10 decisions out
+  - The problem: Founders track vanity metrics and miss the ten numbers that decide survival. Each one forces a specific decision; this workbook writes that decision next to each metric.
+  - What is inside: Eight of the ten survival metrics computed in the sheet: MRR and net-new MRR, LTV:CAC, gross retention and NRR, CAC payback, churn, and free-to-paid conversion; the guide walks GRR and LTV by hand from the same numbers
+hooks:
+  - Founders track vanity metrics and miss the ten numbers that decide survival.
+  - 6 numbers in, 10 decisions out
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Break-Even CAC Calculator (https://probiex.gumroad.com/l/break-even-cac-calculator)
+  - 5 Free Invoice Reminder Emails (https://probiex.gumroad.com/l/free-invoice-reminder-emails)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### freelance-cash-flow-planner
+name: The Freelance Cash-Flow Planner
+url: https://probiex.gumroad.com/l/freelance-cash-flow-planner
+status: live
+cluster: FINANCE
+launch_date: already live
+price_band: paid; see product page
+audience: Freelancers with variable income and fixed costs.
+problem: Freelance income is lumpy and commitments are fixed; that gap is where panic lives. Mental math ("I think I'm fine") fails exactly when a client pays 29 days late. This planner shows the shortfall six weeks out instead of the day rent is due.
+promise: A 90-day rolling plan for the money you actually have.
+proof:
+  - A 13-week XLSX cash-flow model for freelancers: probability-weighted incoming payments, fixed commitments, and weekly runway; shortfalls surface early.
+  - Mental math ("I think I'm fine") fails exactly when a client pays 29 days late.
+inside:
+  - A rolling 90-day forecast with probability weights for late invoices
+  - Commitments tracker and runway computed weekly
+  - Late-payment email templates
+  - A PDF guide covering the three habits that make forecasting stick
+faq:
+  - Q: What do I get, and in what format?
+    A: The XLSX 13-week model, late-payment email templates, and the PDF guide.
+  - Q: How much time does the weekly ritual take?
+    A: Fifteen minutes a week keeps the forecast honest.
+angles:
+  - 90-day forecast weighted for late payers
+  - The problem: Freelance income is lumpy and commitments are fixed; that gap is where panic lives. Mental math ("I think I'm fine") fails exactly when a client pays 29 days late. This planner shows the shortfall six weeks out instead of the day rent is due.
+  - What is inside: A rolling 90-day forecast with probability weights for late invoices
+hooks:
+  - Freelance income is lumpy and commitments are fixed; that gap is where panic lives.
+  - 90-day forecast weighted for late payers
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Break-Even CAC Calculator (https://probiex.gumroad.com/l/break-even-cac-calculator)
+  - 5 Free Invoice Reminder Emails (https://probiex.gumroad.com/l/free-invoice-reminder-emails)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### late-payment-playbook
+name: The Late-Payment Playbook
+url: https://probiex.gumroad.com/l/late-payment-playbook
+status: live
+cluster: FINANCE
+launch_date: already live
+price_band: paid; see product page
+audience: Freelancers and solo operators who invoice clients and get paid late.
+problem: The numbers behind this playbook:
+promise: The 5-layer collection system for freelancers: contract clauses, deposits, reminder emails, and an escalation ladder that gets …
+proof:
+  - A 5-layer late-payment system for freelancers: contract clauses, deposit schedules, pre-due reminders, and a 4-step escalation ladder that gets invoices paid.
+inside:
+  - Three contract clauses that survive a difficult client
+  - Deposit schedules by project size (never start without the money)
+  - The pre-due and due-date messages most freelancers never send
+  - A 4-step escalation ladder with ready-to-paste email wording
+  - A write-off policy (when to stop chasing) and a 15-minute weekly cash review
+faq:
+  - Q: What do I get, and in what format?
+    A: The playbook (PDF) plus the email wording kits: clauses, reminders, and escalation emails, all copy-paste ready.
+  - Q: Does it cover international clients?
+    A: The clauses are jurisdiction-agnostic safety language; adapt local specifics with your counsel if you cross borders.
+angles:
+  - 59% late-30+; the two emails nobody sends
+  - The problem: The numbers behind this playbook:
+  - What is inside: Three contract clauses that survive a difficult client
+hooks:
+  - The numbers behind this playbook:
+  - 59% late-30+; the two emails nobody sends
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Break-Even CAC Calculator (https://probiex.gumroad.com/l/break-even-cac-calculator)
+  - 5 Free Invoice Reminder Emails (https://probiex.gumroad.com/l/free-invoice-reminder-emails)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### pricing-calculator
+name: The Pricing Calculator
+url: https://probiex.gumroad.com/l/pricing-calculator
+status: live
+cluster: FINANCE
+launch_date: already live
+price_band: paid; see product page
+audience: SaaS founders and indie hackers setting or resetting prices.
+problem: Pricing by gut feeling leaves money on the table or prices you out of deals, and you never learn which. "What do competitors charge" is not a method. This workbook is.
+promise: Van Westendorp bands, value-metric selection, and three tiers, as a workbook.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - A Van Westendorp survey to find acceptable price bands
+  - A value-metric test to pick what you charge for
+  - Three-tier structure rules and mobile pricing-page checks
+  - A quarterly revisit cadence: work it once per product, then re-run
+faq:
+  - Q: What do I get, and in what format?
+    A: The XLSX pricing workbook plus a PDF method guide walking through the math.
+  - Q: How long does it take to run?
+    A: One focused working session per product; revisit quarterly.
+angles:
+  - Not "what do competitors charge"; Van Westendorp method
+  - The problem: Pricing by gut feeling leaves money on the table or prices you out of deals, and you never learn which. "What do competitors charge" is not a method. This workbook is.
+  - What is inside: A Van Westendorp survey to find acceptable price bands
+hooks:
+  - Pricing by gut feeling leaves money on the table or prices you out of deals, and you never learn which.
+  - Not "what do competitors charge"; Van Westendorp method
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Break-Even CAC Calculator (https://probiex.gumroad.com/l/break-even-cac-calculator)
+  - 5 Free Invoice Reminder Emails (https://probiex.gumroad.com/l/free-invoice-reminder-emails)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### GETTING CUSTOMERS
+
+### free-cold-email-openers
+name: 25 Free Cold Email First Lines
+url: https://probiex.gumroad.com/l/free-cold-email-openers
+status: live (free)
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: free
+audience: Founders and freelancers doing outbound who get silence, not replies; free pack.
+problem: Founders and freelancers doing outbound who get silence, not replies; free pack.
+promise: Twenty-five first lines grouped by scenario, plus the five rules that keep an opener about them, not you.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - 25 openers across eight scenarios: referral mentions, their recent launch or post, product observations, shared stack, community overlap, hiring signals, competitor-switch moments, and praise with proof
+  - The 5 rules of a first line (under 12 words, verifiable, no ask)
+  - Four reply-killers and the day-3 / day-7 follow-up spacing
+faq:
+  - Q: Is this the same as the Cold Outreach Reply Pack?
+    A: No. That pack handles what comes after a reply, matched to the objection. This one is only the first line that earns the reply.
+  - Q: Can I use these for LinkedIn messages?
+    A: The openers work anywhere the first sentence decides whether you get read; adjust the send channel, keep the rules.
+angles:
+  - Openers about them, not you: 25 lines, 8 scenarios, 5 rules
+  - The problem: Founders and freelancers doing outbound who get silence, not replies; free pack.
+  - What is inside: 25 openers across eight scenarios: referral mentions, their recent launch or post, product observations, shared stack, community overlap, hiring signals, competitor-switch moments, and praise with proof
+hooks:
+  - Founders and freelancers doing outbound who get silence, not replies; free pack.
+  - Openers about them, not you: 25 lines, 8 scenarios, 5 rules
+  - Download the free pack and run it.
+objections:
+  - "Is this a trial with hidden costs?" -> No. The pack is free. The paid next step is optional.
+  - "Do I need an account?" -> No account and no card. Gumroad asks for an email to deliver the file.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+cross_sell:
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+cta: Download the free pack. If it finds a gap, the paid next step is linked on the page.
+do_not_say: see the global hard bans; apply all of them.
+source: product description
+
+### linkedin-content-playbook
+name: 90-Day LinkedIn Content Playbook
+url: https://probiex.gumroad.com/l/linkedin-content-playbook
+status: live
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: paid; see product page
+audience: SaaS founders growing an audience that actually converts.
+problem: Most founders quit LinkedIn at post #5 because they have no system. This playbook replaces willpower with structure.
+promise: A day-by-day 90-day plan to grow on LinkedIn as a SaaS founder.
+proof:
+  - A 90-day, day-by-day LinkedIn playbook for SaaS founders: five content pillars, weekly post plans, hook formulas, and the metrics that matter.
+  - Most founders quit LinkedIn at post #5 because they have no system.
+inside:
+  - The 5 content pillars with exact percentage splits
+  - What to post each week for 12 weeks
+  - Hook formulas with fill-in slots, from post one to post ninety
+  - How to turn one idea into five posts
+  - Metrics that matter (and the vanity metrics to ignore)
+faq:
+  - Q: What do I get, and in what format?
+    A: The playbook (PDF): 90 days mapped, week by week.
+  - Q: How much writing time per week?
+    A: The system is built around short, repurposed posts: minutes a day, not hours.
+angles:
+  - Quit-by-post-5 problem; cadence not willpower
+  - The problem: Most founders quit LinkedIn at post #5 because they have no system. This playbook replaces willpower with structure.
+  - What is inside: The 5 content pillars with exact percentage splits
+hooks:
+  - Most founders quit LinkedIn at post #5 because they have no system.
+  - Quit-by-post-5 problem; cadence not willpower
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### cold-outreach-reply-pack
+name: Cold Outreach Reply Pack
+url: https://probiex.gumroad.com/l/cold-outreach-reply-pack
+status: live
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: paid; see product page
+audience: Founders and freelancers doing outreach themselves.
+problem: Most cold outreach dies in the reply thread, not the opener. You get a "not interested," a pricing objection, or silence, and you improvise a weak answer on the spot.
+promise: 40+ reply templates sorted by the objection.
+proof:
+  - 40+ cold outreach reply templates, sorted by the objection that killed the thread: budget, timing, authority, fit, and silence.
+inside:
+  - 40+ reply templates covering budget, timing, authority, fit, and the polite brush-off
+  - Each reply matched to a known reply-rate pattern
+  - A PDF guide on when to send each reply, and when to walk away
+faq:
+  - Q: What do I get, and in what format?
+    A: The full template library (Markdown, copy-paste ready) plus the PDF guide.
+  - Q: Are the templates industry-specific?
+    A: No. They match objections, not industries; you adapt names and specifics.
+angles:
+  - 40+ replies by objection: budget, timing, authority, silence
+  - The problem: Most cold outreach dies in the reply thread, not the opener. You get a "not interested," a pricing objection, or silence, and you improvise a weak answer on the spot.
+  - What is inside: 40+ reply templates covering budget, timing, authority, fit, and the polite brush-off
+hooks:
+  - Most cold outreach dies in the reply thread, not the opener.
+  - 40+ replies by objection: budget, timing, authority, silence
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+  - 25 Free Cold Email First Lines (https://probiex.gumroad.com/l/free-cold-email-openers)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### first-100-customers
+name: First 100 Customers: Warm Signal Playbook
+url: https://probiex.gumroad.com/l/first-100-customers
+status: live
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: paid; see product page
+audience: Founders with a product and zero distribution.
+problem: Your first 100 customers won't come from cold messages. They come from warm signals: moments when someone publicly says they need exactly what you sell.
+promise: Stop spraying cold messages. Reach people at the exact moment they need you.
+proof:
+  - A warm-signal playbook for landing your first 100 customers: intent trigger phrases, 15-25% response replies, a 5-touch follow-up, and conversion logging.
+  - Your first 100 customers won't come from cold messages.
+inside:
+  - Where to find buyers already looking (Reddit, X, communities)
+  - The exact trigger phrases that signal purchase intent
+  - How to write a reply that gets 15-25% response rates
+  - The 5-touch follow-up sequence
+  - How to log and measure what converts
+faq:
+  - Q: What do I get, and in what format?
+    A: The playbook (PDF): 21 days of warm-signal hunting, with the tracking setup inside.
+  - Q: Does this work for service businesses too?
+    A: Yes. The trigger-phrase method works for anything people publicly ask about.
+angles:
+  - Warm signals beat 1,800 cold msgs; trigger phrases to watch
+  - The problem: Your first 100 customers won't come from cold messages. They come from warm signals: moments when someone publicly says they need exactly what you sell.
+  - What is inside: Where to find buyers already looking (Reddit, X, communities)
+hooks:
+  - Your first 100 customers won't come from cold messages.
+  - Warm signals beat 1,800 cold msgs; trigger phrases to watch
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+  - 25 Free Cold Email First Lines (https://probiex.gumroad.com/l/free-cold-email-openers)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### free-landing-page-checklist
+name: Free Landing Page Leak Check: 20 Points
+url: https://probiex.gumroad.com/l/free-landing-page-checklist
+status: live (free)
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: free
+audience: Founders about to launch or unhappy with a silent page; free check.
+problem: Founders about to launch or unhappy with a silent page; free check.
+promise: A pass-or-miss check for your landing page: 20 points, a fix line per miss, and scoring bands that say polish, patch, or rebuild.
+proof:
+  - A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild.
+  - There is also a browser edition that scores the same 20 points live: https://akshatnaruka.github.io/probiex-hub/leak-check.html.
+inside:
+  - 20 checks across five groups: hero, proof, offer clarity, friction, trust close
+  - A "Fix:" line under every check for the fail case
+  - Scoring bands: 0-4 misses ship-ready, 5-9 leaking, 10+ rebuild section by section
+faq:
+  - Q: How does this relate to the full Landing Page Conversion Audit?
+    A: This is the first 20 points. The audit runs 60, ranks leaks by revenue impact, and includes the fix library.
+  - Q: Do I need design skills to run it?
+    A: No. Every check is pass-or-miss against the page you already have.
+angles:
+  - 20 pass-or-miss points; the misses rank your next fix
+  - The problem: Founders about to launch or unhappy with a silent page; free check.
+  - What is inside: 20 checks across five groups: hero, proof, offer clarity, friction, trust close
+hooks:
+  - Founders about to launch or unhappy with a silent page; free check.
+  - 20 pass-or-miss points; the misses rank your next fix
+  - Download the free pack and run it.
+objections:
+  - "Is this a trial with hidden costs?" -> No. The pack is free. The paid next step is optional.
+  - "Do I need an account?" -> No account and no card. Gumroad asks for an email to deliver the file.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+cross_sell:
+  - The Landing Page Conversion Audit (https://probiex.gumroad.com/l/landing-page-conversion-audit)
+cta: Download the free pack. If it finds a gap, the paid next step is linked on the page.
+do_not_say: see the global hard bans; apply all of them.
+source: product description
+
+### launch-week-email-kit
+name: Launch Week Email Kit
+url: https://probiex.gumroad.com/l/launch-week-email-kit
+status: live
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: paid; see product page
+audience: Founders launching on Gumroad, Product Hunt, or their own list.
+problem: Launch week is seven emails. Miss any one and a measurable chunk of buyers never converts.
+promise: The seven emails that decide whether a launch ships.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - All seven emails, ready to send, with the send-day timing for each
+  - Sequencing and segmentation guidance
+  - The two reminders most launches skip
+faq:
+  - Q: What do I get, and in what format?
+    A: The email templates (Markdown) plus a PDF setup guide.
+  - Q: How long to adapt them?
+    A: Adapt names and dates in under an hour and the sequence is done.
+angles:
+  - The 7 emails that decide a launch
+  - The problem: Launch week is seven emails. Miss any one and a measurable chunk of buyers never converts.
+  - What is inside: All seven emails, ready to send, with the send-day timing for each
+hooks:
+  - Launch week is seven emails.
+  - The 7 emails that decide a launch
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### saas-founder-copy-vault
+name: SaaS Founder Copy Vault
+url: https://probiex.gumroad.com/l/saas-founder-copy-vault
+status: live
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: paid; see product page
+audience: Founders who freeze at the blank page and want working starting points.
+problem: Written like a human SaaS founder, not a marketing bot. Each block is a starting point you adapt in 5 minutes.
+promise: 80+ proven copy blocks for launches, emails, and landing pages.
+proof:
+  - 50+ copy blocks for SaaS founders: hero lines, launch emails, cold outreach, and landing page sections written like a human founder, adapted in 5 minutes.
+  - Each block is a starting point you adapt in 5 minutes.
+inside:
+  - Landing page hero and subhead lines
+  - Launch and announcement email sequences
+  - Cold DM and cold email openers
+  - Objection-handling responses
+  - Product Hunt and launch-day copy
+faq:
+  - Q: What do I get, and in what format?
+    A: The copy vault (PDF): 50+ blocks organized by use case.
+  - Q: Is this AI-written copy?
+    A: It is human-edited copy written to pass the AI-slop test: specific, plain, and adaptable.
+angles:
+  - Adapt 80+ blocks in 5 min; anti-blank-page
+  - The problem: Written like a human SaaS founder, not a marketing bot. Each block is a starting point you adapt in 5 minutes.
+  - What is inside: Landing page hero and subhead lines
+hooks:
+  - Written like a human SaaS founder, not a marketing bot.
+  - Adapt 80+ blocks in 5 min; anti-blank-page
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### silent-churn-rescue-kit
+name: Silent Churn Rescue Kit
+url: https://probiex.gumroad.com/l/silent-churn-rescue-kit
+status: live
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: paid; see product page
+audience: SaaS founders watching trial and signup cohorts leak away.
+problem: Most churn is silent. Users never complain. They sign up, never activate, and quietly disappear. The fix is a first-7-days system, not a new dashboard feature.
+promise: A first-7-days activation system that stops silent churn before it starts.
+proof:
+  - A 7-day activation system that stops silent churn: define the aha moment, patch signup leaks, trigger behavior-based nudges, and save cancelling users.
+  - The fix is a first-7-days system, not a new dashboard feature.
+inside:
+  - Define your "aha moment" in one sentence
+  - Count the leaks between signup and activation
+  - A 3-step activation checklist
+  - Behavior-triggered 7-day nudge email sequence
+  - The cancel-save flow that learns from lost users
+faq:
+  - Q: What do I get, and in what format?
+    A: The kit (PDF): the activation checklist and the 7-day nudge sequence, ready to run.
+  - Q: What if my activation event is unclear?
+    A: The kit's first exercise is defining it in one sentence. That exercise alone changes what you ship.
+angles:
+  - Day-7 detection window; the permission-to-close email
+  - The problem: Most churn is silent. Users never complain. They sign up, never activate, and quietly disappear. The fix is a first-7-days system, not a new dashboard feature.
+  - What is inside: Define your "aha moment" in one sentence
+hooks:
+  - Most churn is silent.
+  - Day-7 detection window; the permission-to-close email
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### freelance-contract-pack
+name: The Freelance Contract Pack
+url: https://probiex.gumroad.com/l/freelance-contract-pack
+status: live
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: paid; see product page
+audience: Freelancers and solo operators signing clients without a lawyer on retainer.
+problem: Freelancers sign whatever the client's lawyer wrote, or worse, start work on a handshake. These six documents cover the standard engagements: scope, payment pacing, confidentiality, ownership, and scope changes, in plain legible language.
+promise: Six fill-in contracts for freelancers: MSA, SOW, NDA, IP assignment, change order, and deposit rider.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Six .docx contracts: MSA, SOW, NDA, IP assignment and transfer, change order, deposit and payment schedule
+  - Milestone payments with a late-fee clause, a kill fee on early termination, and an acceptance window in the SOW
+  - A guide chaining the documents: MSA once, SOW per project, NDA up front, change order when scope moves
+  - The three decisions inside each document you must actually choose, called out per contract
+faq:
+  - Q: What do I get, and in what format?
+    A: A ZIP with the six .docx documents plus the PDF guide.
+  - Q: Is this legal advice?
+    A: No. These are template documents with plain-English guidance. Have local counsel review for anything unusual in your jurisdiction.
+angles:
+  - Scope creep dies in writing: the six documents to sign
+  - The problem: Freelancers sign whatever the client's lawyer wrote, or worse, start work on a handshake. These six documents cover the standard engagements: scope, payment pacing, confidentiality, ownership, and scope changes, in plain legible language.
+  - What is inside: Six .docx contracts: MSA, SOW, NDA, IP assignment and transfer, change order, deposit and payment schedule
+hooks:
+  - Freelancers sign whatever the client's lawyer wrote, or worse, start work on a handshake.
+  - Scope creep dies in writing: the six documents to sign
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### landing-page-conversion-audit
+name: The Landing Page Conversion Audit
+url: https://probiex.gumroad.com/l/landing-page-conversion-audit
+status: live
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: paid; see product page
+audience: Founders auditing their own landing page before spending on traffic.
+problem: Median B2B SaaS pages convert at 3.8% while top performers hit 10-15%, and 81% of forms get abandoned. The gap is rarely one big thing. It is a dozen small leaks nobody scored. Score yourself in about an hour, before you pay for traffic.
+promise: 60-point scorecard: find the leak, fix it in order.
+proof:
+  - A 60-point landing page audit that scores message clarity, fold copy, forms, trust, and mobile, then ranks your top three conversion leaks by recoverable rate.
+  - Median B2B SaaS pages convert at 3.8% while top performers hit 10-15%, and 81% of forms get abandoned.
+inside:
+  - The 60-point scorecard: message clarity, fold copy, forms, trust signals, mobile
+  - A leak-ranking system by recoverable conversion, so you fix in the right order
+  - Fix patterns for each failure mode in the PDF guide
+faq:
+  - Q: What do I get, and in what format?
+    A: The scorecard system (ZIP) plus the PDF guide with fix patterns.
+  - Q: How long does an audit take?
+    A: About an hour per page for a first pass.
+angles:
+  - 3.8% vs 10-15%; 60-point leak ranking
+  - The problem: Median B2B SaaS pages convert at 3.8% while top performers hit 10-15%, and 81% of forms get abandoned. The gap is rarely one big thing. It is a dozen small leaks nobody scored. Score yourself in about an hour, before you pay for traffic.
+  - What is inside: The 60-point scorecard: message clarity, fold copy, forms, trust signals, mobile
+hooks:
+  - Median B2B SaaS pages convert at 3.8% while top performers hit 10-15%, and 81% of forms get abandoned.
+  - 3.8% vs 10-15%; 60-point leak ranking
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### video-titles-scorecard
+name: Titles & Hooks Scorecard
+url: https://probiex.gumroad.com/l/video-titles-scorecard
+status: live
+cluster: GETTING CUSTOMERS
+launch_date: already live
+price_band: paid; see product page
+audience: Founders and solo operators building YouTube as a distribution channel.
+problem: Titles written in the eleven minutes before upload get judged by the person who least qualifies: you, who already knows the video. The scorecard replaces feel with a rubric and compares every upload against your channel median.
+promise: Score video titles and hooks against six checks; twelve title patterns and a ship log included.
+proof:
+  - An XLSX scoring workbook for video titles and hooks: six checks scored 0 to 5, twelve title patterns, twelve hook patterns, and a weekly ship log.
+inside:
+  - The Scorer sheet: 20 rows, six checks (front-load, curiosity, specific, honest, readable, length), auto verdicts
+  - A Pattern Bank of 12 title patterns with the job each does
+  - A Hooks sheet pairing each title pattern with a first-line hook and a worked example
+  - A ship log that reads views against the channel median, not your best day
+faq:
+  - Q: What do I get, and in what format?
+    A: The XLSX workbook plus a PDF guide covering the six checks and the weekly routine.
+  - Q: Does it write titles for me?
+    A: No. It scores the three drafts you bring and shows which check keeps failing across your titles.
+angles:
+  - The weakest of 6 title checks tells you what to fix
+  - The problem: Titles written in the eleven minutes before upload get judged by the person who least qualifies: you, who already knows the video. The scorecard replaces feel with a rubric and compares every upload against your channel median.
+  - What is inside: The Scorer sheet: 20 rows, six checks (front-load, curiosity, specific, honest, readable, length), auto verdicts
+hooks:
+  - Titles written in the eleven minutes before upload get judged by the person who least qualifies: you, who already knows the video.
+  - The weakest of 6 title checks tells you what to fix
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### OPERATIONS
+
+### founder-anti-burnout-system
+name: Founder Anti-Burnout Weekly System
+url: https://probiex.gumroad.com/l/founder-anti-burnout-system
+status: live
+cluster: OPERATIONS
+launch_date: already live
+price_band: paid; see product page
+audience: Indie founders stuck in the build-solo loop.
+problem: The "developer's safe room" kills more indie products than bad code. Nobody rejects you inside VS Code, so you build for months and launch to silence.
+promise: Escape the developer's safe room. A 15h/week structure that ships and sells.
+proof:
+  - A weekly cadence system for indie founders: fixed outreach/build/review blocks, a 10-conversations rule, and energy rules that prevent the 60-hour spiral.
+inside:
+  - A fixed weekly cadence: outreach, interviews, build, review
+  - 10 conversations moved per week
+  - The one-objection-one-feature build rule
+  - A 20-minute founder check-in habit
+  - Energy rules that prevent the 60-hour burnout spiral
+faq:
+  - Q: What do I get, and in what format?
+    A: The system (PDF): cadence, rules, and the check-in template.
+  - Q: How many hours per week does it ask?
+    A: About 15 focused hours. The cadence is built around evenings and weekends.
+angles:
+  - The safe room kills more products than bad code; fixed weekly cadence
+  - The problem: The "developer's safe room" kills more indie products than bad code. Nobody rejects you inside VS Code, so you build for months and launch to silence.
+  - What is inside: A fixed weekly cadence: outreach, interviews, build, review
+hooks:
+  - The "developer's safe room" kills more indie products than bad code.
+  - The safe room kills more products than bad code; fixed weekly cadence
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Freelance Client Portal for Notion (https://probiex.gumroad.com/l/client-portal-os)
+  - The Indie Hacker OS (https://probiex.gumroad.com/l/indie-hacker-os)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### client-portal-os
+name: Freelance Client Portal for Notion
+url: https://probiex.gumroad.com/l/client-portal-os
+status: live
+cluster: OPERATIONS
+launch_date: already live
+price_band: paid; see product page
+audience: Freelancers and solo operators juggling 3 to 8 clients over email and Slack.
+problem: Freelancers lose hours every week answering "where are we?": the status lives in your head and your inbox, and every client asks separately. A portal puts the answer somewhere the client can look. This spec shows you exactly what to build in an afternoon.
+promise: A client-facing portal in Notion: deliverables, milestones, approvals, and a decision log clients can check themselves.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - Database schemas: Clients, Projects, Deliverables, Discussions, with exact properties and formulas
+  - The approval workflow: Draft to Review to Approved to Delivered, with a publishing rule
+  - Ten views including per-client dashboards and a wrap-up view for retainers
+  - A guest-sharing walkthrough: what the client sees, what stays internal, how to revoke
+faq:
+  - Q: What do I get, and in what format?
+    A: A ZIP with the schema spec, a seed CSV you can import, and a workspace README, plus a PDF guide with the one-session build order.
+  - Q: Do I need a paid Notion plan?
+    A: No. The build works on the free plan; guest sharing works within Notion's normal guest limits.
+angles:
+  - A portal kills the weekly status-email round
+  - The problem: Freelancers lose hours every week answering "where are we?": the status lives in your head and your inbox, and every client asks separately. A portal puts the answer somewhere the client can look. This spec shows you exactly what to build in an afternoon.
+  - What is inside: Database schemas: Clients, Projects, Deliverables, Discussions, with exact properties and formulas
+hooks:
+  - Freelancers lose hours every week answering "where are we?": the status lives in your head and your inbox, and every client asks separately.
+  - A portal kills the weekly status-email round
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Founder Anti-Burnout Weekly System (https://probiex.gumroad.com/l/founder-anti-burnout-system)
+  - The Indie Hacker OS (https://probiex.gumroad.com/l/indie-hacker-os)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### notion-content-calendar
+name: Notion Content Calendar
+url: https://probiex.gumroad.com/l/notion-content-calendar
+status: live
+cluster: OPERATIONS
+launch_date: already live
+price_band: paid; see product page
+audience: Founders and creators running their own distribution.
+problem: Most content calendars are sticker boards: dates with titles and no system behind them. You post for a month, then run dry because nothing connects to anything.
+promise: A social content database, not a sticker board.
+proof:
+  - No hard proof in the description. Use the product's contents; do not invent traction.
+inside:
+  - A content database with pillars, formats, repurposing links, and performance fields
+  - Specified down to the database properties
+  - The repurposing design that makes one idea become five posts by design, not by accident
+faq:
+  - Q: What do I get, and in what format?
+    A: The full database spec and content system (ZIP) plus the PDF setup guide.
+  - Q: How long does the build take?
+    A: One Notion session to build, then it runs weekly.
+angles:
+  - Content database, not a sticker board
+  - The problem: Most content calendars are sticker boards: dates with titles and no system behind them. You post for a month, then run dry because nothing connects to anything.
+  - What is inside: A content database with pillars, formats, repurposing links, and performance fields
+hooks:
+  - Most content calendars are sticker boards: dates with titles and no system behind them.
+  - Content database, not a sticker board
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Freelance Client Portal for Notion (https://probiex.gumroad.com/l/client-portal-os)
+  - Founder Anti-Burnout Weekly System (https://probiex.gumroad.com/l/founder-anti-burnout-system)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### notion-founder-crm
+name: Notion Founder CRM
+url: https://probiex.gumroad.com/l/notion-founder-crm
+status: live
+cluster: OPERATIONS
+launch_date: already live
+price_band: paid; see product page
+audience: Technical founders doing sales without a sales team.
+problem: Founder-led sales dies in spreadsheets and memory. Leads go cold because nobody wrote down the follow-up; pipeline reviews happen never. No Salesforce bloat, no 40-field forms: just the fields that move deals.
+promise: A founder CRM you build in one session.
+proof:
+  - No Salesforce bloat, no 40-field forms: just the fields that move deals.
+inside:
+  - Lead, pipeline, and contact databases, with properties and views specified
+  - The weekly review cadence that keeps the CRM alive
+  - A one-session build guide
+faq:
+  - Q: What do I get, and in what format?
+    A: The complete build spec (ZIP) plus the PDF setup guide.
+  - Q: How long is the build?
+    A: One Notion session: duplicate the spec, build, run.
+angles:
+  - Founder-led sales dies in memory; one-session build
+  - The problem: Founder-led sales dies in spreadsheets and memory. Leads go cold because nobody wrote down the follow-up; pipeline reviews happen never. No Salesforce bloat, no 40-field forms: just the fields that move deals.
+  - What is inside: Lead, pipeline, and contact databases, with properties and views specified
+hooks:
+  - Founder-led sales dies in spreadsheets and memory.
+  - Founder-led sales dies in memory; one-session build
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Freelance Client Portal for Notion (https://probiex.gumroad.com/l/client-portal-os)
+  - Founder Anti-Burnout Weekly System (https://probiex.gumroad.com/l/founder-anti-burnout-system)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### meeting-os
+name: Notion Meeting OS
+url: https://probiex.gumroad.com/l/meeting-os
+status: live
+cluster: OPERATIONS
+launch_date: already live
+price_band: paid; see product page
+audience: Solo founders and freelancers whose meetings with clients, leads, and contractors produce notes but no follow-through.
+problem: Meeting notes die in a docs folder and actions die in the notes. The next meeting restarts from zero because nobody can find what was decided last time. This system gives every meeting continuity: what happened, what was decided, who owns what.
+promise: Meeting notes, decisions, and owner-assigned actions with a Friday review that closes every loop the week opened.
+proof:
+  - A Notion meeting system: notes, decisions, and owner-assigned actions, with a 15-minute Friday review that closes every loop the week opened.
+inside:
+  - Database schemas: People, Meetings, Decisions, Actions, with exact properties and formulas
+  - Eight views: today's agenda with last meeting's decisions rolled up, open actions by owner, the decision log
+  - The literal meeting-note template text to paste into a Notion template block
+  - The Friday review: a 15-minute flow with exact filters for closing the week
+faq:
+  - Q: What do I get, and in what format?
+    A: A ZIP with the schema spec, the meeting template, and a workspace README, plus a PDF guide with the build order.
+  - Q: Does it work for recurring client meetings?
+    A: Yes. The per-person rollup means any recurring meeting opens with "what happened last time" one click away.
+angles:
+  - Notes die in folders; the Friday review closes loops
+  - The problem: Meeting notes die in a docs folder and actions die in the notes. The next meeting restarts from zero because nobody can find what was decided last time. This system gives every meeting continuity: what happened, what was decided, who owns what.
+  - What is inside: Database schemas: People, Meetings, Decisions, Actions, with exact properties and formulas
+hooks:
+  - Meeting notes die in a docs folder and actions die in the notes.
+  - Notes die in folders; the Friday review closes loops
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Freelance Client Portal for Notion (https://probiex.gumroad.com/l/client-portal-os)
+  - Founder Anti-Burnout Weekly System (https://probiex.gumroad.com/l/founder-anti-burnout-system)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### solo-agency-engine
+name: One-Person Agency Engine
+url: https://probiex.gumroad.com/l/solo-agency-engine
+status: live
+cluster: OPERATIONS
+launch_date: already live
+price_band: paid; see product page
+audience: One-person agencies and solo operators managing larger clients.
+problem: One-person agencies and solo operators managing larger clients.
+promise: Build a profitable solo agency without burning out. Rate math, client scoring, capacity rules.
+proof:
+  - The operations playbook for a one-person agency: rate floor, client scoring, capacity planner, SOPs, discovery call script, and a 12-month growth roadmap.
+inside:
+  - True hourly rate calculator from real costs
+  - Project profitability model and 7-factor client scoring matrix
+  - Capacity planner with price-raise thresholds
+  - Automation decision tree and SOP template
+  - 10 outreach scripts, a 15-minute discovery call script
+  - A 12-month growth roadmap and a client firing script
+faq:
+  - Q: What do I get, and in what format?
+    A: The operations playbook (PDF): all ten components in one document.
+  - Q: Is the rate calculator different from the freelancer one?
+    A: Yes; this one adds agency economics: project profitability and capacity ceilings.
+angles:
+  - When to raise prices: capacity thresholds
+  - The problem: One-person agencies and solo operators managing larger clients.
+  - What is inside: True hourly rate calculator from real costs
+hooks:
+  - One-person agencies and solo operators managing larger clients.
+  - When to raise prices: capacity thresholds
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Freelance Client Portal for Notion (https://probiex.gumroad.com/l/client-portal-os)
+  - Founder Anti-Burnout Weekly System (https://probiex.gumroad.com/l/founder-anti-burnout-system)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+### indie-hacker-os
+name: The Indie Hacker OS
+url: https://probiex.gumroad.com/l/indie-hacker-os
+status: live
+cluster: OPERATIONS
+launch_date: already live
+price_band: paid; see product page
+audience: Solo developers building digital products.
+problem: Six interconnected databases replace the tools most indie hackers juggle. Duplicate the template and run in 15 minutes.
+promise: 6 linked Notion databases for ideas, projects, revenue, audience, and operations.
+proof:
+  - Duplicate the template and run in 15 minutes.
+inside:
+  - Idea Vault with a scoring formula
+  - Project Hub with launch tracking
+  - Revenue Tracker with Stripe-fee math
+  - Audience Growth with cross-platform stats
+  - Learning Log and an Operations Dashboard for weekly reviews
+faq:
+  - Q: What do I get, and in what format?
+    A: The Notion template (duplicate-to-use) plus setup documentation.
+  - Q: How long until it's usable?
+    A: About 15 minutes: duplicate, connect what you use, run.
+angles:
+  - Six linked databases replace a dozen tools
+  - The problem: Six interconnected databases replace the tools most indie hackers juggle. Duplicate the template and run in 15 minutes.
+  - What is inside: Idea Vault with a scoring formula
+hooks:
+  - Six interconnected databases replace the tools most indie hackers juggle.
+  - Six linked databases replace a dozen tools
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - Freelance Client Portal for Notion (https://probiex.gumroad.com/l/client-portal-os)
+  - Founder Anti-Burnout Weekly System (https://probiex.gumroad.com/l/founder-anti-burnout-system)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-10-22
+source: product description
+
+==============================================================================
+4. LAUNCH CALENDAR
+==============================================================================
+- 2026-10-28 | The Vibe-Code Rescue Kit | Ship Safe | live | free lead magnet: free-vibe-code-safety-check
+- 2026-11-11 | The 2027 Solo Business Plan | Run Solo | draft | free lead magnet: free-one-page-business-plan
+- 2026-11-25 | AI Visibility OS 2027 | Get Found | upgrade | free lead magnet: free-landing-page-checklist
+- 2026-12-09 | Trust & Legal Pages | Ship Safe | planned | free lead magnet: none yet
+- 2026-12-23 | Security Questionnaire | Ship Safe | planned | free lead magnet: free-vibe-code-safety-check
+- 2027-01-06 | Offer & Pricing Stress Test | Run Solo | planned | free lead magnet: none yet
+- 2027-01-20 | Warm Outbound | Get Found | planned | free lead magnet: free-cold-email-openers
+- 2027-02-03 | Freelance 1099/Tax | Run Solo | planned | free lead magnet: none yet
+- 2027-02-17 | AI Agent Production | Ship Safe | planned | free lead magnet: free-vibe-code-safety-check
+- 2027-03-03 | Activation & Retention | Get Found | planned | free lead magnet: none yet
+
+Rule: market each launch for two weeks before building the next product.
+The build is not the bottleneck. Distribution is.
+
+==============================================================================
+5. UPDATE PROTOCOL
+==============================================================================
+
+This file is generated. Do not hand-edit ai-hub/ads.txt or the Gumroad page.
+
+After any catalog change (new product, publish, rename, price change,
+description change, free-pack change):
+
+1. Add or update the product's DEEP brief in scripts/ads_briefs.py if it is
+   part of Wave 6. The generator fails if a Wave 6 slug has no brief.
+2. Run: python3 scripts/build-ai-hub.py
+   This regenerates ai-hub/ads.txt as part of the hub build.
+3. Run: python3 scripts/push-ads-txt.py
+   This updates the Gumroad mirror and verifies the catalog hash.
+4. Run: python3 scripts/ads-txt-sync-check.py
+   Exit 0 means the live page, the hub file, and the local build agree.
+5. Commit ai-hub/ads.txt and products/_dist/store/ads-txt.html.
+
+Source of truth: the live catalog plus the shipped descriptions. The
+marketing briefs add angles and rules; they never override a product fact.
+If a product is missing from the live catalog, it is not in the live
+briefs. Drafts and planned products are clearly marked.

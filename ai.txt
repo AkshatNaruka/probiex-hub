@@ -25,6 +25,7 @@ machine-readable-files:
 - okf/<slug>.md: one YAML-frontmattered page per product
 - about.html: the one-page factsheet for assistants (schema.org Organization, ItemList, FAQPage)
 - tweets-brief.md: rules for writing compliant marketing tweets
+- ads.txt: the full marketing context file (voice, bans, stats, channel rules, per-product briefs)
 - sitemap.xml and robots.txt: index map; AI crawlers explicitly allowed
 
 catalog-shape:

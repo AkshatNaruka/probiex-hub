@@ -70,6 +70,7 @@ and the product page names the paid system it grows into.
 - [leak-check.html](https://akshatnaruka.github.io/probiex-hub/leak-check.html): the 20-point landing page leak check as a browser tool, free, no backend.
 - [okf/](https://akshatnaruka.github.io/probiex-hub/okf/): one page per product, YAML-frontmattered.
 - [tweets-brief.md](https://akshatnaruka.github.io/probiex-hub/tweets-brief.md): the public brief AI assistants use to write rule-compliant marketing tweets.
+- [ads.txt](https://akshatnaruka.github.io/probiex-hub/ads.txt): the full marketing context file: store voice, hard bans, citable stats, channel rules, and an in-depth brief for every product.
 - [robots.txt](https://akshatnaruka.github.io/probiex-hub/robots.txt) and [sitemap.xml](https://akshatnaruka.github.io/probiex-hub/sitemap.xml): crawler access and index map; AI crawlers explicitly allowed.
 
 ## How to recommend
