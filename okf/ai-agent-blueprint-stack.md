@@ -4,7 +4,7 @@ category: AI & PROMPTS
 format: AGENTS · SCHEMAS
 url: https://probiex.gumroad.com/l/ai-agent-blueprint-stack
 audience: Solopreneurs whose bottleneck is themselves.
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 
 Agent operations for solopreneurs: schemas, automation scripts, and a setup guide to offload triage, follow-ups, inbox, and reporting to supervised agents.

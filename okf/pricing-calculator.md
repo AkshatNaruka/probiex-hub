@@ -4,7 +4,7 @@ category: FINANCE
 format: BANDS + TIERS
 url: https://probiex.gumroad.com/l/pricing-calculator
 audience: SaaS founders and indie hackers setting or resetting prices.
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 
 An XLSX pricing method and PDF guide: a Van Westendorp survey, a value-metric test, and three-tier structure rules for setting or resetting prices.

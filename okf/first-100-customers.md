@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: 21-DAY PLAN
 url: https://probiex.gumroad.com/l/first-100-customers
 audience: Founders with a product and zero distribution.
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 
 A warm-signal playbook for landing your first 100 customers: intent trigger phrases, 15-25% response replies, a 5-touch follow-up, and conversion logging.

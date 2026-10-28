@@ -1,6 +1,6 @@
 # Probiex
 
-> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 48 products, each shippable the week you buy it. 6 of the 48 products are free. Updated 2026-10-23.
+> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 50 products, each shippable the week you buy it. 7 of the 50 products are free. Updated 2026-10-28.
 
 ## Start free
 
@@ -13,6 +13,7 @@ and the product page names the paid system it grows into.
 - [Free Landing Page Leak Check: 20 Points](https://probiex.gumroad.com/l/free-landing-page-checklist) (free): A pass-or-miss check for your landing page: 20 points, a fix line per miss, and scoring bands that say polish, patch, or rebuild. (FREE · 20 CHECKS). Grows into [The Landing Page Conversion Audit](https://probiex.gumroad.com/l/landing-page-conversion-audit).
 - [Free Launch Day Checklist: 40 Checks](https://probiex.gumroad.com/l/free-launch-day-checklist) (free): Forty ordered checks from T-24h to T+72h: product, checkout, content, the launch, first-day replies, and the retro. (40 CHECKS). Grows into [Launch Week Email Kit](https://probiex.gumroad.com/l/launch-week-email-kit).
 - [Free One-Page Business Plan: Notion + PDF](https://probiex.gumroad.com/l/free-one-page-business-plan) (free): The plan that gets reviewed weekly instead of written yearly: 9 sections, a 20-minute Notion build, and a worked example. (NOTION + PDF). Grows into [The Indie Hacker OS](https://probiex.gumroad.com/l/indie-hacker-os).
+- [The 15-Point Vibe-Code Safety Check](https://probiex.gumroad.com/l/free-vibe-code-safety-check) (free): Fifteen ordered security checks for AI-built apps, each with a pass condition and a one-line fix. Free, no signup. (FREE · 15 CHECKS). Grows into [The Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue).
 
 ## Catalog
 
@@ -56,6 +57,7 @@ and the product page names the paid system it grows into.
 - [Silent Churn Rescue Kit](https://probiex.gumroad.com/l/silent-churn-rescue-kit) (GETTING CUSTOMERS): A first-7-days activation system that stops silent churn before it starts. (7-DAY SYSTEM).
 - [One-Person Agency Engine](https://probiex.gumroad.com/l/solo-agency-engine) (OPERATIONS): Build a profitable solo agency without burning out. Rate math, client scoring, capacity rules. (RATE + CAPACITY).
 - [The Transactional Email Kit](https://probiex.gumroad.com/l/transactional-email-kit) (BUILDS): Eight lifecycle emails coded to render in Gmail and Outlook, with a send map and QA checklist. (8 HTML EMAILS).
+- [The Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue) (SHIP SAFE): A 60-point audit, 17-check CLI, 15 fix prompts, RLS pack, and three launch runbooks for AI-built apps. (CLI + 60-POINT AUDIT).
 - [Titles & Hooks Scorecard](https://probiex.gumroad.com/l/video-titles-scorecard) (GETTING CUSTOMERS): Score video titles and hooks against six checks; twelve title patterns and a ship log included. (6 CHECKS · 30 PTS).
 - [Voice AI System](https://probiex.gumroad.com/l/voice-ai-system) (AI & PROMPTS): Clone your process, not your voice. (SCHEMA + GUIDE).
 

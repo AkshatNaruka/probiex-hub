@@ -4,7 +4,7 @@ category: AI & PROMPTS
 format: FREE · 10 PROMPTS
 url: https://probiex.gumroad.com/l/free-claude-prompts
 audience: Founders who want to try the working-prompt method before paying anything.
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 
 10 free, copy-paste Claude prompts, two from each category of the paid pack: customer research and validation, landing page copy, email marketing, product strategy, and build in public. Fill-in-the-blank, no filler.

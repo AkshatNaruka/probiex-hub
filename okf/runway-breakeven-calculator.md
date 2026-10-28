@@ -4,7 +4,7 @@ category: FINANCE
 format: RUNWAY MATH
 url: https://probiex.gumroad.com/l/runway-breakeven-calculator
 audience: Founders and indie hackers managing their own cash position.
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 
 An XLSX model that computes real runway from trailing burn, committed spend, and revenue scenarios, plus the breakeven point where the clock stops.

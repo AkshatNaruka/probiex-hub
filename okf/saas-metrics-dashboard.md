@@ -4,7 +4,7 @@ category: FINANCE
 format: XLSX + PDF
 url: https://probiex.gumroad.com/l/saas-metrics-dashboard
 audience: SaaS founders who want a Monday-morning numbers ritual.
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 
 A two-sheet XLSX dashboard that computes eight of the ten SaaS survival metrics: MRR and net-new MRR, LTV:CAC, gross retention, NRR, CAC payback, churn, and conversion, from nine pasted inputs.

@@ -4,7 +4,7 @@ category: CAREER & TEACHING
 format: 30 LESSON PLANS
 url: https://probiex.gumroad.com/l/ai-literacy-kit
 audience: Teachers and trainers who need an AI curriculum they can deliver with no AI expertise.
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 
 30 fifty-minute AI lesson plans for K-12 through professional classrooms: worksheets, a rubric generator, an AI policy generator, and COAST/VERIFY frameworks.

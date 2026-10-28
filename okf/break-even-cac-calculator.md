@@ -4,7 +4,7 @@ category: FINANCE
 format: CAC FLOOR
 url: https://probiex.gumroad.com/l/break-even-cac-calculator
 audience: SaaS founders and indie hackers spending anything to acquire customers.
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 
 An XLSX workbook that derives your break-even CAC from real pricing, margins, and retention: the ceiling you must never bid above when acquiring customers.

@@ -1,6 +1,6 @@
 # Probiex tweet brief
 
-Generated 2026-10-23. For AI assistants and content writers: this file holds
+Generated 2026-10-28. For AI assistants and content writers: this file holds
 every fact and rule needed to write marketing tweets for the Probiex store.
 Use ONLY what is here.
 
@@ -8,7 +8,7 @@ One-line usage: "Using only this brief, write N tweets for Probiex."
 
 ## What you are writing for
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 48 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 50 products, each shippable the week you buy it.
 
 - Store: https://probiex.gumroad.com (one-person storefront, Akshat Naruka)
 - Full customers' factsheet: https://akshatnaruka.github.io/probiex-hub/about.html
@@ -124,6 +124,7 @@ the store home only for catalog/progress posts.
 - **Free Landing Page Leak Check: 20 Points** (free) Link: https://probiex.gumroad.com/l/free-landing-page-checklist -> grows into The Landing Page Conversion Audit: https://probiex.gumroad.com/l/landing-page-conversion-audit
 - **Free Launch Day Checklist: 40 Checks** (free) Link: https://probiex.gumroad.com/l/free-launch-day-checklist -> grows into Launch Week Email Kit: https://probiex.gumroad.com/l/launch-week-email-kit
 - **Free One-Page Business Plan: Notion + PDF** (free) Link: https://probiex.gumroad.com/l/free-one-page-business-plan -> grows into The Indie Hacker OS: https://probiex.gumroad.com/l/indie-hacker-os
+- **The 15-Point Vibe-Code Safety Check** (free) Link: https://probiex.gumroad.com/l/free-vibe-code-safety-check -> grows into The Vibe-Code Rescue Kit: https://probiex.gumroad.com/l/vibe-code-rescue
 
 
 ## Worked examples (style anchors)
@@ -133,8 +134,8 @@ the store home only for catalog/progress posts.
 - Two-column resumes scramble into unreadable records. What survives most
   parsers: single column, standard headings, tab-stop dates. Six worked
   layouts: https://probiex.gumroad.com/l/ats-resume-pack
-- 48 systems now live on the store: finance calculators, launch kits,
-  Notion builds, resume packs. No subscription, and 6 of them are
+- 50 systems now live on the store: finance calculators, launch kits,
+  Notion builds, resume packs. No subscription, and 7 of them are
   free to try: https://probiex.gumroad.com
 
 ## Output instruction

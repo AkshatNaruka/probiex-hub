@@ -1,19 +1,19 @@
 ---
 site: Probiex
 store: https://probiex.gumroad.com
-updated: 2026-10-23
-products: 48
-free products: 6
-description: catalog of 48 practical systems for solo founders, indie hackers, freelancers
+updated: 2026-10-28
+products: 50
+free products: 7
+description: catalog of 50 practical systems for solo founders, indie hackers, freelancers
 ---
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 48 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 50 products, each shippable the week you buy it.
 
 Prices are shown on each product page.
 
 ## The free path
 
-6 products are free. Each is the working first slice of a paid system, and the free product page names that next step before anyone pays:
+7 products are free. Each is the working first slice of a paid system, and the free product page names that next step before anyone pays:
 
 - [10 Free Claude Prompts for SaaS Founders](https://probiex.gumroad.com/l/free-claude-prompts) -> [100 Claude Prompts for SaaS Founders](https://probiex.gumroad.com/l/claude-prompts-saas-founders): adds the full 100-prompt pack across the same five disciplines, with the source Markdown.
 
@@ -26,6 +26,8 @@ Prices are shown on each product page.
 - [Free Launch Day Checklist: 40 Checks](https://probiex.gumroad.com/l/free-launch-day-checklist) -> [Launch Week Email Kit](https://probiex.gumroad.com/l/launch-week-email-kit): adds the seven emails a launch decides with, with subject lines and send timing.
 
 - [Free One-Page Business Plan: Notion + PDF](https://probiex.gumroad.com/l/free-one-page-business-plan) -> [The Indie Hacker OS](https://probiex.gumroad.com/l/indie-hacker-os): adds six linked Notion databases that run the week.
+
+- [The 15-Point Vibe-Code Safety Check](https://probiex.gumroad.com/l/free-vibe-code-safety-check) -> [The Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue): adds the 60-point audit, 17-check CLI, 15 fix prompts, the RLS policy pack, and three runbooks.
 
 ## AI & PROMPTS
 
@@ -986,4 +988,54 @@ Contents:
 **What do I get, and in what format?** A ZIP with the eight .html files and the cheat sheet, plus the PDF guide.
 
 **Do the emails work in dark mode?** The design uses a dark panel with fixed light body text, which is the standard dark-safe pattern; the guide covers the details.
+
+## SHIP SAFE
+
+### The 15-Point Vibe-Code Safety Check
+
+- url: https://probiex.gumroad.com/l/free-vibe-code-safety-check
+- category: SHIP SAFE
+- format: FREE · 15 CHECKS
+- audience: Anyone shipping an AI-built app who has not run a security review yet. Free, no email, no signup.
+- free: yes
+- next: https://probiex.gumroad.com/l/vibe-code-rescue (adds the 60-point audit, 17-check CLI, 15 fix prompts, the RLS policy pack, and three runbooks)
+
+Fifteen ordered security checks for AI-built apps, with a pass condition and a one-line fix for each, plus the five-check scanner command.
+
+Contents:
+- 15 checks across secrets, data access, payments, input, and operations
+- A pass condition and a one-line fix for every check
+- The two-account authorization test that finds the most bugs
+- The vibe-check --lite command for the five automated checks
+- A score band that tells you whether to launch, fix, or stop
+
+**Is this the whole kit?** No. It is the 15-point short list. The full <a href="https://probiex.gumroad.com/l/vibe-code-rescue">Vibe-Code Rescue Kit</a> adds the 60-point audit, the 17-check scanner, 15 fix prompts, the RLS pack, and three runbooks.
+
+**How long does it take?** About 30 minutes for a small app, plus the fixes.
+
+### The Vibe-Code Rescue Kit
+
+- url: https://probiex.gumroad.com/l/vibe-code-rescue
+- category: SHIP SAFE
+- format: CLI + 60-POINT AUDIT
+- audience: Solo founders and small teams who built with AI and are about to charge money, not security teams with a budget.
+- free: no
+
+A 60-point audit, 17-check scanner, 15 fix prompts, RLS policies, and three launch runbooks for AI-built apps.
+
+Contents:
+- The 60-point Launch Safety Audit (XLSX) with severity weights, evidence fields, scoring, and a ranked fix order
+- vibe-check, a read-only CLI with 17 checks, JSON output, and a --lite five-check mode
+- 15 copy-paste fix prompts for Claude, Cursor, or any AI editor, each with a verification step
+- A Supabase RLS policy pack for profiles, teams, projects, invoices, files, API keys, and storage
+- Three runbooks: pre-launch T-7 to T+7, incident response for the first 24 hours, and a 30-day monitoring plan
+- A full worked example: a fictional app scored 31/100, fixed over four weeks, rescored 92/100
+
+**What do I get, and in what format?** A ZIP with the PDF guide, the XLSX audit, the Node CLI, the fix prompts, the SQL pack, the runbooks, and the worked example.
+
+**Does the scanner upload my code?** No. It reads files locally and prints a report. No API calls, no telemetry, no writes.
+
+**Is this a penetration test?** No. It finds the common, expensive mistakes in AI-built apps. It does not certify compliance or replace a qualified review.
+
+**What if my stack is not Next.js and Supabase?** The audit and the fix patterns are stack-agnostic. The CLI checks the patterns it can see; the RLS pack is Supabase-specific.
 
