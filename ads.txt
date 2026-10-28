@@ -10,7 +10,7 @@
 # Gumroad page slugs cannot contain a dot, so the literal /ads.txt path is
 # served by the AI hub, not Gumroad. The Gumroad mirror has the same content.
 #
-# Catalog hash: 61cd5b76f6bc59f7
+# Content hash: 4c65b31665abd8aa
 # Last updated: 2026-10-28
 # Catalog: 50 live, 1 draft, 11 deep briefs
 #
@@ -661,7 +661,7 @@ proof:
   - Median B2B SaaS pages convert at 3.8%; top performers convert at 10-15% (landing-page industry sample). The offer and the page are part of the same conversion problem.
 angles:
   - Your price is not the problem. The offer is.
-  - 20 objections that kill a $49 sale, and the sentence that answers each one.
+  - 20 objections that kill a low-ticket sale, and the sentence that answers each one.
   - Rebuild the three tiers in an afternoon. The middle tier is not the default.
   - The 10-minute test before the next discount.
 hooks:
@@ -823,7 +823,7 @@ audience: Solopreneurs whose bottleneck is themselves.
 problem: You are the operations department. Every week, the same tasks eat the hours meant for building. This stack hands the work to agents you supervise, starting with one workflow and expanding to the week.
 promise: An agent-powered operation, hand over.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as AGENTS · SCHEMAS. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - The system schemas for agent-led operations
   - Automation scripts for recurring ops
@@ -907,7 +907,7 @@ audience: Builders shipping voice features into real products.
 problem: Voice AI projects fail when teams try to clone a voice instead of cloning a process. The demo impresses; the production system hallucinates, breaks compliance, and dies in review.
 promise: Clone your process, not your voice.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as SCHEMA + GUIDE. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Voice-system schemas (intake, routing, escalation)
   - A compliance checklist written for review meetings
@@ -1157,7 +1157,7 @@ audience: Freelancers and solo operators who need one shareable link instead of 
 problem: The five-page portfolio never ships. One page that exists beats five pages in a drafts folder: what you do, proof, how to hire you, one link you can put in an email signature.
 promise: A dependency-free one-page personal site with dark mode, deployable anywhere in minutes.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as ONE FILE · 0 DEPS. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - One polished index.html: semantic markup, focus states, responsive to 360px, zero dependencies beyond one font link
   - Dark and light mode: automatic via system preference plus a manual toggle that remembers
@@ -1199,7 +1199,7 @@ audience: Solo SaaS founders and indie hackers wiring up lifecycle email.
 problem: Every SaaS needs the same eight lifecycle emails, and every founder ships them as an afterthought: broken tables, image-only receipts, dunning copy that reads like a threat. This kit is the set, table-coded with inline CSS and a send map.
 promise: Eight lifecycle emails coded to render in Gmail and Outlook, with a send map and QA checklist.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as 8 HTML EMAILS. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Eight self-contained .html files: 600px table layout, inline styles, dark-mode-safe panel, bulletproof CTA buttons
   - A from/subject cheat sheet: three subject options and preheader text per email
@@ -1315,7 +1315,7 @@ audience: Founders standardizing one workspace.
 problem: One purchase covers all three: the same build specs and guides, one checkout.
 promise: Three Notion systems in one checkout: Founder CRM, Content Calendar, and Indie Hacker OS.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as 3 SYSTEMS · ONE CHECKOUT. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 faq:
   - Q: What do I get, and in what format?
     A: Three Notion build specs plus setup guides. Duplicate into your workspace and run.
@@ -1396,7 +1396,7 @@ audience: Builders shipping career AI products and coaches productizing resume r
 problem: Building or evaluating an AI resume tool without a scoring rubric means shipping vibes instead of quality. What counts as a "good" rewrite? Nobody on the team can say. This kit makes it measurable.
 promise: A complete spec and launch kit for a resume tool.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as SPEC + KIT. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - A weighted scoring rubric for resume rewrites
   - The prompt chains that implement the rubric
@@ -1437,7 +1437,7 @@ audience: Freelancers and solo operators applying to full-time or contract roles
 problem: The best-looking resume in the stack is often the one that never gets seen: two columns interleave, text boxes vanish, and the parsed record a recruiter actually reads is scrambled. These six templates stay where the parser looks.
 promise: Six worked-example resumes as DOCX masters, built to survive how applicant tracking systems parse documents.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as 6 DOCX MASTERS. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Six complete .docx resumes with realistic worked examples: modern Arial, Georgia classic, bullet-forward sales, skills-first career switcher, executive summary, compact tech
   - A PDF guide on how a parse actually works, in definitional terms
@@ -1479,7 +1479,7 @@ audience: Solo experts turning their craft into a first paid course or cohort.
 problem: Course projects die in folder archaeology: scripts across docs, recordings on a drive, no record of which lesson serves which outcome. This system forces the outcome test before you record anything.
 promise: Course architecture in Notion: outcome gates per module, a recording queue, and a feedback loop.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as NOTION · COURSE. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Database schemas: Courses, Modules, Lessons, Assets and Scripts, Student Feedback, with exact properties and formulas
   - The outcome-first gate: define what a student can do on day 1 and day 30 per module, with a worksheet
@@ -1521,7 +1521,7 @@ audience: Freelancers between contracts and solo operators running a full-time o
 problem: Sixty applications, four replies, and no record of what worked: that is the spreadsheet problem. A search run like a campaign tracks every application's stage, every person touched, and the follow-up that is due today.
 promise: Run your job search like a campaign: applications, contacts, follow-up dates, and offer math in one system.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as NOTION · SEARCH. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Database schemas: Companies, Roles, Applications, People, Interviews, with exact properties and formulas
   - Views: follow-ups due today, applications out for over two weeks, the interview-stage board
@@ -1607,7 +1607,7 @@ audience: Freelancers and solo operators who invoice clients; this one is free.
 problem: Freelancers and solo operators who invoice clients; this one is free.
 promise: Five copy-paste emails that keep invoices out of the late pile: pre-due, due-day, day 1, day 14, and the final notice.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as FREE · 5 EMAILS. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Email 1: three business days before the due date (catches lost invoices at the AP desk)
   - Email 2: the due-day morning nudge
@@ -1648,7 +1648,7 @@ audience: SaaS founders and indie hackers spending anything to acquire customers
 problem: There is exactly one CAC number your margins cannot survive above, and most founders never compute it. They scale ad spend or outreach until the unit economics quietly break.
 promise: The CAC your margins cannot sustain.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as CAC FLOOR. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Break-even CAC computed from your real pricing, margins, and retention
   - Headroom analysis per acquisition channel
@@ -1731,7 +1731,7 @@ audience: Founders and indie hackers managing their own cash position.
 problem: "We have plenty of runway" is the most expensive sentence in startups. Founders divide cash by last month's burn and call it planning, then a bad quarter halves the number overnight.
 promise: How many months of cash you actually have.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as RUNWAY MATH. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Runway computed from trailing burn, committed spend, and revenue scenarios
   - The breakeven point: the revenue level where the clock stops
@@ -1773,7 +1773,7 @@ audience: SaaS founders who want a Monday-morning numbers ritual.
 problem: Founders track vanity metrics and miss the ten numbers that decide survival. Each one forces a specific decision; this workbook writes that decision next to each metric.
 promise: The 10 survival numbers for SaaS as a workbook you own.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as XLSX + PDF. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Eight of the ten survival metrics computed in the sheet: MRR and net-new MRR, LTV:CAC, gross retention and NRR, CAC payback, churn, and free-to-paid conversion; the guide walks GRR and LTV by hand from the same numbers
   - The decision each metric forces, written next to it
@@ -1900,7 +1900,7 @@ audience: SaaS founders and indie hackers setting or resetting prices.
 problem: Pricing by gut feeling leaves money on the table or prices you out of deals, and you never learn which. "What do competitors charge" is not a method. This workbook is.
 promise: Van Westendorp bands, value-metric selection, and three tiers, as a workbook.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as BANDS + TIERS. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - A Van Westendorp survey to find acceptable price bands
   - A value-metric test to pick what you charge for
@@ -1944,7 +1944,7 @@ audience: Founders and freelancers doing outbound who get silence, not replies; 
 problem: Founders and freelancers doing outbound who get silence, not replies; free pack.
 promise: Twenty-five first lines grouped by scenario, plus the five rules that keep an opener about them, not you.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as FREE · 25 LINES. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - 25 openers across eight scenarios: referral mentions, their recent launch or post, product observations, shared stack, community overlap, hiring signals, competitor-switch moments, and praise with proof
   - The 5 rules of a first line (under 12 words, verifiable, no ask)
@@ -2152,7 +2152,7 @@ audience: Founders launching on Gumroad, Product Hunt, or their own list.
 problem: Launch week is seven emails. Miss any one and a measurable chunk of buyers never converts.
 promise: The seven emails that decide whether a launch ships.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as 7 EMAILS. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - All seven emails, ready to send, with the send-day timing for each
   - Sequencing and segmentation guidance
@@ -2281,7 +2281,7 @@ audience: Freelancers and solo operators signing clients without a lawyer on ret
 problem: Freelancers sign whatever the client's lawyer wrote, or worse, start work on a handshake. These six documents cover the standard engagements: scope, payment pacing, confidentiality, ownership, and scope changes, in plain legible language.
 promise: Six fill-in contracts for freelancers: MSA, SOW, NDA, IP assignment, change order, and deposit rider.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as 6 DOCUMENTS. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Six .docx contracts: MSA, SOW, NDA, IP assignment and transfer, change order, deposit and payment schedule
   - Milestone payments with a late-fee clause, a kill fee on early termination, and an acceptance window in the SOW
@@ -2452,7 +2452,7 @@ audience: Freelancers and solo operators juggling 3 to 8 clients over email and 
 problem: Freelancers lose hours every week answering "where are we?": the status lives in your head and your inbox, and every client asks separately. A portal puts the answer somewhere the client can look. This spec shows you exactly what to build in an afternoon.
 promise: A client-facing portal in Notion: deliverables, milestones, approvals, and a decision log clients can check themselves.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as NOTION · PORTAL. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - Database schemas: Clients, Projects, Deliverables, Discussions, with exact properties and formulas
   - The approval workflow: Draft to Review to Approved to Delivered, with a publishing rule
@@ -2494,7 +2494,7 @@ audience: Founders and creators running their own distribution.
 problem: Most content calendars are sticker boards: dates with titles and no system behind them. You post for a month, then run dry because nothing connects to anything.
 promise: A social content database, not a sticker board.
 proof:
-  - No hard proof in the description. Use the product's contents; do not invent traction.
+  - The product ships as NOTION · CONTENT. Use the deliverable as the proof; do not invent a testimonial or a traction number.
 inside:
   - A content database with pillars, formats, repurposing links, and performance fields
   - Specified down to the database properties
