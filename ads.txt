@@ -10,7 +10,7 @@
 # Gumroad page slugs cannot contain a dot, so the literal /ads.txt path is
 # served by the AI hub, not Gumroad. The Gumroad mirror has the same content.
 #
-# Content hash: 4c65b31665abd8aa
+# Content hash: 60d70239ef4627ed
 # Last updated: 2026-10-28
 # Catalog: 50 live, 1 draft, 11 deep briefs
 #
@@ -2725,10 +2725,10 @@ description change, free-pack change):
 2. Run: python3 scripts/build-ai-hub.py
    This regenerates ai-hub/ads.txt as part of the hub build.
 3. Run: python3 scripts/push-ads-txt.py
-   This updates the Gumroad mirror and verifies the catalog hash.
+   This updates the Gumroad mirror and verifies the content hash.
 4. Run: python3 scripts/ads-txt-sync-check.py
    Exit 0 means the live page, the hub file, and the local build agree.
-5. Commit ai-hub/ads.txt and products/_dist/store/ads-txt.html.
+5. Commit ai-hub/ads.txt, products/_dist/store/ads.txt, and products/_dist/store/ads-txt.html.
 
 Source of truth: the live catalog plus the shipped descriptions. The
 marketing briefs add angles and rules; they never override a product fact.
