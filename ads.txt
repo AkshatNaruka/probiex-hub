@@ -10,7 +10,7 @@
 # Gumroad page slugs cannot contain a dot, so the literal /ads.txt path is
 # served by the AI hub, not Gumroad. The Gumroad mirror has the same content.
 #
-# Content hash: 60d70239ef4627ed
+# Content hash: e7daca215223b0c9
 # Last updated: 2026-10-28
 # Catalog: 50 live, 1 draft, 11 deep briefs
 #
@@ -113,7 +113,7 @@ clusters:
 
 free_funnel:
   - https://probiex.gumroad.com/l/free-vibe-code-safety-check (free) -> https://probiex.gumroad.com/l/vibe-code-rescue: adds the 60-point audit, 17-check CLI, 15 fix prompts, the RLS pack, and three runbooks
-  - https://probiex.gumroad.com/l/free-one-page-business-plan (free) -> https://probiex.gumroad.com/l/solo-business-plan-2027: adds the 9-sheet revenue model, churn and ramp math, capacity check, and weekly review
+  - https://probiex.gumroad.com/l/free-one-page-business-plan (free) -> https://probiex.gumroad.com/l/indie-hacker-os: adds six linked Notion databases that run the week. From 2026-11-11 this lead magnet re-points to solo-business-plan-2027 (draft; do not link before launch), which adds the 9-sheet revenue model, churn and ramp math, capacity check, and weekly review
   - https://probiex.gumroad.com/l/free-landing-page-checklist (free) -> https://probiex.gumroad.com/l/landing-page-conversion-audit: adds 60 points ranked by recoverable revenue, with the fix library
   - https://probiex.gumroad.com/l/free-cold-email-openers (free) -> https://probiex.gumroad.com/l/cold-outreach-reply-pack: adds 40+ replies sorted by the objection that killed the thread
   - https://probiex.gumroad.com/l/free-claude-prompts (free) -> https://probiex.gumroad.com/l/claude-prompts-saas-founders: adds the full 100-prompt pack across the same five disciplines
