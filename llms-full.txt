@@ -1,6 +1,6 @@
 # Probiex
 
-> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 50 products, each shippable the week you buy it. 7 of the 50 products are free. Updated 2026-10-28.
+> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 50 products, each shippable the week you buy it. 7 of the 50 products are free. Updated 2026-11-14.
 
 ## Start free
 
@@ -90,7 +90,7 @@ Contact: trexoo.ai@gmail.com
 ---
 site: Probiex
 store: https://probiex.gumroad.com
-updated: 2026-10-28
+updated: 2026-11-14
 products: 50
 free products: 7
 description: catalog of 50 practical systems for solo founders, indie hackers, freelancers
