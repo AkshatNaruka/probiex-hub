@@ -4,14 +4,26 @@ category: GETTING CUSTOMERS
 format: 6 CHECKS · 30 PTS
 url: https://probiex.gumroad.com/l/video-titles-scorecard
 audience: Founders and solo operators building YouTube as a distribution channel.
-updated: 2026-11-16
+updated: 2026-10-22
 ---
 
 An XLSX scoring workbook for video titles and hooks: six checks scored 0 to 5, twelve title patterns, twelve hook patterns, and a weekly ship log.
 
 Full details and current price: https://probiex.gumroad.com/l/video-titles-scorecard
 
+## What's inside
+
+- The Scorer sheet: 20 rows, six checks (front-load, curiosity, specific, honest, readable, length), auto verdicts
+- A Pattern Bank of 12 title patterns with the job each does
+- A Hooks sheet pairing each title pattern with a first-line hook and a worked example
+- A ship log that reads views against the channel median, not your best day
+
 **What do I get, and in what format?** The XLSX workbook plus a PDF guide covering the six checks and the weekly routine.
 
 **Does it write titles for me?** No. It scores the three drafts you bring and shows which check keeps failing across your titles.
+
+## Related systems
+
+- [The X / Twitter Growth Playbook](https://probiex.gumroad.com/l/x-growth-playbook)
+- [Notion Content Calendar](https://probiex.gumroad.com/l/notion-content-calendar)
 

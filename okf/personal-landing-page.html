@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The One-Page Personal Site — Spec, Contents &amp; FAQ | Probiex</title>
+<meta name="description" content="A one-page personal site as a single dependency-free HTML file: dark and light mode, work cards, services, notes, and a contact panel, deployable anywhere.">
+<meta name="author" content="Akshat Naruka">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://akshatnaruka.github.io/probiex-hub/okf/personal-landing-page.html">
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Probiex","url":"https://probiex.gumroad.com","founder":{"@type":"Person","name":"Akshat Naruka","url":"https://github.com/AkshatNaruka"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"The One-Page Personal Site","description":"A one-page personal site as a single dependency-free HTML file: dark and light mode, work cards, services, notes, and a contact panel, deployable anywhere.","datePublished":"2026-10-19","dateModified":"2026-10-22","author":{"@type":"Person","name":"Akshat Naruka","url":"https://github.com/AkshatNaruka"},"publisher":{"@type":"Organization","name":"Probiex","url":"https://probiex.gumroad.com"},"mainEntityOfPage":"https://akshatnaruka.github.io/probiex-hub/okf/personal-landing-page.html"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Probiex Hub","item":"https://akshatnaruka.github.io/probiex-hub/"},{"@type":"ListItem","position":2,"name":"Playbooks & Courses","item":"https://akshatnaruka.github.io/probiex-hub/playbooks.html"},{"@type":"ListItem","position":3,"name":"The One-Page Personal Site","item":"https://akshatnaruka.github.io/probiex-hub/okf/personal-landing-page.html"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What do I get, and in what format?","acceptedAnswer":{"@type":"Answer","text":"A ZIP with the HTML file, the copy worksheet, and a site README, plus the PDF guide."}},{"@type":"Question","name":"Can I keep it updated?","acceptedAnswer":{"@type":"Answer","text":"Yes. The guide&#x27;s ritual is one dated note per shipped project, ten minutes, which is what keeps the page alive."}}]}</script>
+<style>
+  html,body{background:#0a0a0a;color:#ededed;font:16px/1.55 Inter,-apple-system,Helvetica,Arial,sans-serif;margin:0}
+  main{max-width:780px;margin:0 auto;padding:44px 20px 80px}
+  nav.bc{font-family:ui-monospace,Menlo,monospace;font-size:12px;color:#8a8a8a;margin-bottom:18px}
+  h1{letter-spacing:-.02em;font-size:30px;margin:0 0 8px}
+  p.byline{color:#8a8a8a;font-size:13px;font-family:ui-monospace,Menlo,monospace;margin:0 0 18px}
+  p.lead{color:#ededed;font-size:17px;margin:0 0 14px}
+  p{color:#c9c9c9;margin:0 0 14px}
+  h2{font-size:13px;letter-spacing:.12em;color:#737373;text-transform:uppercase;margin:36px 0 12px;border-top:1px solid #262626;padding-top:20px}
+  h3{font-size:15.5px;margin:16px 0 4px;color:#ededed}
+  ul{margin:0 0 16px;padding-left:20px;color:#c9c9c9}
+  li{margin:6px 0;font-size:14.5px}
+  table{border-collapse:collapse;width:100%;margin:12px 0 20px}
+  th,td{border-top:1px solid #1f1f1f;padding:8px 10px 8px 0;text-align:left;font-size:14px;color:#c9c9c9;vertical-align:top}
+  th{color:#8a8a8a;width:160px;font-weight:500}
+  .cta{border:1px solid #262626;border-radius:10px;padding:16px 18px;margin-top:28px;background:#101010}
+  a{color:#9ec1ff}
+  footer{color:#737373;font-size:13px;border-top:1px solid #262626;margin-top:52px;padding-top:18px}
+</style></head><body><main>
+<nav class="bc"><a href="../index.html">Probiex Hub</a> / <a href="../playbooks.html">Playbooks &amp; Courses</a> / The One-Page Personal Site</nav>
+<h1>The One-Page Personal Site</h1>
+<p class="byline">By <a href="https://github.com/AkshatNaruka" rel="author">Akshat Naruka</a> · <time datetime="2026-10-22" pubdate>Updated 2026-10-22</time> · Category: BUILDS · Format: ONE FILE · 0 DEPS</p>
+<p class="lead"><dfn>The One-Page Personal Site</dfn> is defined as: A one-page personal site as a single dependency-free HTML file: dark and light mode, work cards, services, notes, and a contact panel, deployable anywhere.</p>
+<p>The five-page portfolio never ships. One page that exists beats five pages in a drafts folder: what you do, proof, how to hire you, one link you can put in an email signature.</p>
+<h2>Specification Summary</h2>
+<table>
+<tbody>
+<tr><th>Product</th><td>The One-Page Personal Site</td></tr>
+<tr><th>Category</th><td>BUILDS</td></tr>
+<tr><th>Deliverable format</th><td>ONE FILE · 0 DEPS</td></tr>
+<tr><th>Target audience</th><td>Freelancers and solo operators who need one shareable link instead of an unfinished site.</td></tr>
+<tr><th>Official store page</th><td><a href="https://probiex.gumroad.com/l/personal-landing-page">https://probiex.gumroad.com/l/personal-landing-page</a></td></tr>
+<tr><th>Machine-readable spec</th><td><a href="personal-landing-page.md">personal-landing-page.md</a></td></tr>
+</tbody>
+</table>
+<h2>What's inside</h2>
+<ul><li>One polished index.html: semantic markup, focus states, responsive to 360px, zero dependencies beyond one font link</li><li>Dark and light mode: automatic via system preference plus a manual toggle that remembers</li><li>A copy worksheet so you write your sections before touching markup</li><li>Deploy steps for GitHub Pages, Netlify, Vercel, or any static host, plus a domain pointer</li></ul>
+<h2>Who it's for and how to apply it</h2>
+<p>Freelancers and solo operators who need one shareable link instead of an unfinished site.</p>
+<ul>
+<li>Review the research and benchmark numbers on the product page before changing your workflow.</li>
+<li>Run the included templates, checklists, or CLI tools against your live business data in a single session.</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<h3>What do I get, and in what format?</h3><p>A ZIP with the HTML file, the copy worksheet, and a site README, plus the PDF guide.</p><h3>Can I keep it updated?</h3><p>Yes. The guide's ritual is one dated note per shipped project, ten minutes, which is what keeps the page alive.</p>
+<h2>Related systems and next steps</h2><ul><li><a href="https://probiex.gumroad.com/l/free-landing-page-checklist">Free Landing Page Leak Check</a></li><li><a href="https://probiex.gumroad.com/l/freelance-contract-pack">The Freelance Contract Pack</a></li></ul>
+<div class="cta">
+  <p><b>Get The One-Page Personal Site:</b> Full details, current pricing, and instant download on Gumroad → <a href="https://probiex.gumroad.com/l/personal-landing-page">https://probiex.gumroad.com/l/personal-landing-page</a></p>
+</div>
+<footer>Probiex · By Akshat Naruka · <a href="https://probiex.gumroad.com/l/personal-landing-page">Product Page</a> · <a href="../playbooks.html">Playbooks &amp; Courses</a> · <a href="../about.html">Store Facts</a> · <a href="../index.html">Catalog Home</a></footer>
+</main></body></html>

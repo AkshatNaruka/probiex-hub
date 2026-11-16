@@ -4,14 +4,26 @@ category: AI & PROMPTS
 format: 3 WORKFLOWS
 url: https://probiex.gumroad.com/l/n8n-solopreneur-workflows
 audience: n8n users who want automation that pays rent on day one.
-updated: 2026-11-16
+updated: 2026-10-22
 ---
 
-Ten n8n workflow walkthroughs for solopreneurs, three of them pre-built as importable JSON: RSS-to-email digest, new-lead webhooks to Slack, and Gumroad sales logged to Google Sheets.
+Ten n8n workflow walkthroughs for solopreneurs, with three importable JSON builds: RSS-to-email digest, lead webhooks to Slack, and Gumroad sales to Sheets.
 
 Full details and current price: https://probiex.gumroad.com/l/n8n-solopreneur-workflows
+
+## What's inside
+
+- RSS digest piped to email
+- New-lead webhooks routed to Slack
+- Gumroad sales logged to a Google Sheet automatically
+- Walkthrough docs for each workflow
 
 **What do I get, and in what format?** Ten workflow walkthroughs (PDF) with three pre-built JSON files (ZIP).
 
 **How do I install them?** Import the JSON into n8n, add your credentials, done.
+
+## Related systems
+
+- [Compliant LinkedIn Automation Stack](https://probiex.gumroad.com/l/linkedin-automation-stack)
+- [AI Agent Blueprint Stack](https://probiex.gumroad.com/l/ai-agent-blueprint-stack)
 

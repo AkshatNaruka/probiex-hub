@@ -4,14 +4,28 @@ category: OPERATIONS
 format: RATE + CAPACITY
 url: https://probiex.gumroad.com/l/solo-agency-engine
 audience: One-person agencies and solo operators managing larger clients.
-updated: 2026-11-16
+updated: 2026-10-22
 ---
 
 The operations playbook for a one-person agency: rate floor, client scoring, capacity planner, SOPs, discovery call script, and a 12-month growth roadmap.
 
 Full details and current price: https://probiex.gumroad.com/l/solo-agency-engine
 
+## What's inside
+
+- True hourly rate calculator from real costs
+- Project profitability model and 7-factor client scoring matrix
+- Capacity planner with price-raise thresholds
+- Automation decision tree and SOP template
+- 10 outreach scripts, a 15-minute discovery call script
+- A 12-month growth roadmap and a client firing script
+
 **What do I get, and in what format?** The operations playbook (PDF): all ten components in one document.
 
 **Is the rate calculator different from the freelancer one?** Yes; this one adds agency economics: project profitability and capacity ceilings.
+
+## Related systems
+
+- [Freelance Client Portal for Notion](https://probiex.gumroad.com/l/client-portal-os)
+- [The Freelance Contract Pack](https://probiex.gumroad.com/l/freelance-contract-pack)
 

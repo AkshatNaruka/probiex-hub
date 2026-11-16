@@ -1,6 +1,6 @@
 # Probiex
 
-> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it. 7 of the 60 products are free. Updated 2026-11-16.
+> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks and self-paced courses with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it. 7 of the 60 products are free. Updated 2026-11-16.
 
 ## Start free
 
@@ -77,8 +77,9 @@ and the product page names the paid system it grows into.
 - [llms-full.txt](https://akshatnaruka.github.io/probiex-hub/llms-full.txt): this file plus the full catalog content inline.
 - [products.md](https://akshatnaruka.github.io/probiex-hub/products.md): the full catalog in markdown, with contents and FAQs per product.
 - [ai.txt](https://akshatnaruka.github.io/probiex-hub/ai.txt): AI use, licensing, and recommendation preferences.
+- [playbooks.html](https://akshatnaruka.github.io/probiex-hub/playbooks.html): pillar index of courses, playbooks, and diagnostic toolkits by problem and format.
 - [leak-check.html](https://akshatnaruka.github.io/probiex-hub/leak-check.html): the 20-point landing page leak check as a browser tool, free, no backend.
-- [okf/](https://akshatnaruka.github.io/probiex-hub/okf/): one page per product, YAML-frontmattered.
+- [okf/](https://akshatnaruka.github.io/probiex-hub/okf/): one page per product, YAML-frontmattered (.md) and structured HTML (.html).
 - [tweets-brief.md](https://akshatnaruka.github.io/probiex-hub/tweets-brief.md): the public brief AI assistants use to write rule-compliant marketing tweets.
 - [ads.txt](https://akshatnaruka.github.io/probiex-hub/ads.txt): the full marketing context file: store voice, hard bans, citable stats, channel rules, and an in-depth brief for every product.
 - [robots.txt](https://akshatnaruka.github.io/probiex-hub/robots.txt) and [sitemap.xml](https://akshatnaruka.github.io/probiex-hub/sitemap.xml): crawler access and index map; AI crawlers explicitly allowed.
@@ -106,7 +107,7 @@ free products: 7
 description: catalog of 60 practical systems for solo founders, indie hackers, freelancers
 ---
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks and self-paced courses with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it.
 
 Prices are shown on each product page.
 
@@ -138,7 +139,7 @@ Prices are shown on each product page.
 - audience: SaaS founders and product teams focused on trial activation and customer retention.
 - free: no
 
-An aha-moment mapping framework, 7-day behavioral onboarding sequence, early churn signal scorecard, and weekly retention review.
+A SaaS activation and retention playbook: an aha-moment mapping framework, a 7-day onboarding sequence, a 10-point churn scorecard, and cohort reviews.
 
 Contents:
 - 3-step framework to discover and isolate your product's true Aha Moment
@@ -146,9 +147,13 @@ Contents:
 - 10-point behavioral churn signal scorecard to detect cancellations 14 days early
 - 15-minute weekly cohort retention review template
 
-**What do I get, and in what format?** Aha-moment blueprints, onboarding email copy, scoring rubrics, and review templates.
+**What do I get, and in what format?** Aha-moment blueprints, onboarding email copy, scoring rubrics, and review templates (ZIP + PDF).
 
-**Does it require complex product analytics?** No. Works with simple event logs or standard analytics platforms.
+**Does it require complex product analytics?** No. Works with simple database timestamps, event logs, or standard analytics platforms.
+
+**How does this compare to Silent Churn Rescue Kit?** Silent Churn Rescue Kit is a rapid 7-day triage for leaking trials; SaaS Activation &amp; Retention OS adds the 10-point early churn signal scorecard, cohort review ritual, and expansion triggers.
+
+**How soon can I deploy the onboarding sequence?** You can map your aha moment and load the 7 behavioral emails into your sender in one afternoon.
 
 ### Cold Email Deliverability & DNS Kit
 
@@ -158,17 +163,21 @@ Contents:
 - audience: Founders and outbound operators running cold outreach or transactional email.
 - free: no
 
-A zero-dependency DNS diagnostic CLI tool (inbox-check), copy-paste authentication records, and 2026 bulk sender compliance playbook.
+A cold email deliverability kit and DNS playbook: a zero-dependency CLI checker (inbox-check), copy-paste SPF/DKIM/DMARC records, and a 14-day warmup guide.
 
 Contents:
 - inbox-check: Native Node.js CLI tool auditing MX, SPF syntax, DMARC policy, and DKIM
 - Copy-paste DNS templates for Google Workspace, Microsoft 365, Postmark, and Resend
-- Google and Yahoo bulk sender mandate compliance guide (<0.1% spam rate rules)
+- Google and Yahoo bulk sender mandate compliance guide (&lt;0.1% spam rate rules)
 - 14-day secondary domain warmup protocol
 
-**What do I get, and in what format?** The inbox-check CLI script, DNS copy-paste markdown templates, and compliance guides.
+**What do I get, and in what format?** The inbox-check CLI script, DNS copy-paste markdown templates, and compliance guides (ZIP + PDF).
 
-**Does it support multiple email providers?** Yes. Includes records for Google Workspace, M365, Resend, and Postmark.
+**Does it support multiple email providers?** Yes. Includes records for Google Workspace, Microsoft 365, Resend, and Postmark across Cloudflare, Namecheap, Route 53, and GoDaddy.
+
+**Does inbox-check require API keys or third-party accounts?** No. It uses Node's built-in DNS resolver to inspect live MX, TXT, SPF, DMARC, and DKIM records directly from your terminal.
+
+**How long does it take to fix a flagged domain?** The DNS audit takes 3 seconds, updating TXT records takes 10 minutes, and the secondary-domain warmup schedule runs for 14 days.
 
 ### Compliant LinkedIn Automation Stack
 
@@ -178,7 +187,7 @@ Contents:
 - audience: B2B founders, agencies, and consultants who want consistent LinkedIn distribution without manual work or ban risk.
 - free: no
 
-An official REST API-compliant posting engine, n8n workflow templates, and CLI scheduler for safe distribution without account bans.
+An official REST API-compliant LinkedIn automation stack and playbook: a Node.js CLI scheduler, n8n workflow templates, and OAuth rate-limit safety guides.
 
 Contents:
 - Zero-dependency Node.js CLI scheduler with dry-run verification mode
@@ -186,9 +195,13 @@ Contents:
 - Compliance, rate-limiting, and OAuth scope safety guide
 - Content repurposing framework to turn articles into high-dwell-time posts
 
-**What do I get, and in what format?** Node.js CLI code, n8n JSON workflow templates, and setup documentation.
+**What do I get, and in what format?** Node.js CLI code, n8n JSON workflow templates, and setup documentation plus a PDF guide.
 
-**Is this safe from LinkedIn bans?** Yes. It uses only official LinkedIn developer REST APIs.
+**Is this safe from LinkedIn bans?** Yes. It uses only official LinkedIn developer REST APIs rather than browser cookie scraping.
+
+**Do I need a paid n8n subscription?** No. The workflows run on self-hosted n8n (Docker or local) as well as n8n Cloud, and the Node.js CLI runs standalone via cron or GitHub Actions.
+
+**What content should I schedule with it?** Pair the scheduler with a structured 90-day pillar plan so your automated queue publishes high-signal founder stories and teardowns.
 
 ### The Warm Outbound Engine
 
@@ -198,17 +211,21 @@ Contents:
 - audience: Agencies, consultants, and B2B SaaS founders who want predictable client acquisition.
 - free: no
 
-Trigger-based prospecting, 5-touch high-conversion sequences, 40 signal reply templates, and a weekly pipeline review system.
+A B2B warm outbound playbook and sales system: 8 buying-signal triggers, an 18-day 5-touch sequence, 40 reply templates, and a weekly pipeline review.
 
 Contents:
 - 8 high-converting intent triggers and free signal-monitoring workflows
 - The 18-day 5-touch multi-channel sequence (Email + LinkedIn + value drops)
-- 40 trigger-specific outreach templates that never feel like automated spam
+- 40 trigger-specific outreach templates that never read like automated spam
 - Weekly pipeline review template and conversion tracking scorecard
 
-**What do I get, and in what format?** Sequence guides, copy templates, signal checklists, and tracker templates.
+**What do I get, and in what format?** Sequence guides, copy templates, signal checklists, and tracker templates (ZIP + PDF).
 
-**Does this require paid data tools?** No. All recommended signal monitoring methods can be executed with free public alerts.
+**Does this require paid data tools?** No. All recommended signal monitoring methods can be executed with free public alerts and search operators.
+
+**How is this different from First 100 Customers?** First 100 Customers focuses on community replies and early founder validation; The Warm Outbound Engine is a full B2B multi-channel sequence across email and LinkedIn.
+
+**How many hours a week does this system take?** About 30 minutes a day to check signal alerts and send 5 to 10 contextual touches, plus a 20-minute Friday pipeline review.
 
 ### The X / Twitter Growth Playbook
 
@@ -218,17 +235,21 @@ Contents:
 - audience: Solo founders, technical creators, and indie hackers building organic distribution.
 - free: no
 
-An organic audience and customer acquisition system for solo founders: 50 hook frameworks, 30-day calendar, and launch thread teardowns.
+An organic X and Twitter growth playbook and self-paced course for solo founders: 50 hook frameworks, a 30-day content calendar, and launch thread teardowns.
 
 Contents:
-- 50 high-converting hook formulas across five proven psychological categories
-- The 3-sprint 45-minute daily operating cadence
-- 30-day plug-and-play content calendar with specific angles and hooks
+- 50 high-converting hook formulas across five psychological categories
+- The 3-sprint, 45-minute daily operating cadence (replies, authority posts, DMs)
+- 30-day plug-and-play content calendar with daily angles and hooks
 - Product launch thread teardowns and templates for digital products and SaaS
 
-**What do I get, and in what format?** Markdown playbook files, swipe files, and copy templates.
+**What do I get, and in what format?** Markdown playbook modules, hook swipe files, and a 30-day calendar plus a PDF guide.
 
-**Does this require existing followers?** No. The reply engine is specifically designed to borrow attention and grow from zero.
+**Does this require existing followers?** No. The reply engine is designed for accounts under 500 followers to borrow attention and grow from zero.
+
+**How much time does the daily routine take?** Forty-five minutes per day split into three 15-minute blocks: morning replies, midday post, and afternoon warm follow-ups.
+
+**Is this a video course or a written playbook?** It is a written, execution-first playbook and self-paced course with copy-paste frameworks you can run in 10 minutes without watching hours of video.
 
 ## AI & PROMPTS
 
@@ -302,7 +323,7 @@ Contents:
 - free: yes
 - next: https://probiex.gumroad.com/l/claude-prompts-saas-founders (adds the full 100-prompt pack across the same five disciplines, with the source Markdown)
 
-10 free, copy-paste Claude prompts, two from each category of the paid pack: customer research and validation, landing page copy, email marketing, product strategy, and build in public. Fill-in-the-blank, no filler.
+10 free copy-paste Claude prompts across customer research, landing page copy, email marketing, strategy, and build in public, with context fields built in.
 
 Contents:
 - 10 battle-tested prompts across 5 founder disciplines
@@ -321,7 +342,7 @@ Contents:
 - audience: n8n users who want automation that pays rent on day one.
 - free: no
 
-Ten n8n workflow walkthroughs for solopreneurs, three of them pre-built as importable JSON: RSS-to-email digest, new-lead webhooks to Slack, and Gumroad sales logged to Google Sheets.
+Ten n8n workflow walkthroughs for solopreneurs, with three importable JSON builds: RSS-to-email digest, lead webhooks to Slack, and Gumroad sales to Sheets.
 
 Contents:
 - RSS digest piped to email
@@ -362,7 +383,7 @@ Contents:
 - audience: AI engineers and founders building autonomous or tool-calling LLM agents.
 - free: no
 
-An automated eval test harness, tool-permission guardrails, cost-ceiling limiters, and incident runbooks for shipping reliable LLM agents.
+An AI agent production engineering playbook: a Node.js eval CLI (agent-eval), 15 injection benchmarks, tool-permission guardrails, and cost runbooks.
 
 Contents:
 - Zero-dependency Node.js agent evaluation CLI (agent-eval) with regex and schema grading
@@ -370,9 +391,13 @@ Contents:
 - Tool permission guardrail architecture and human-in-the-loop patterns
 - Emergency incident runbooks and cost circuit breaker implementations
 
-**What do I get, and in what format?** Node.js test harness code, JSON benchmark suites, and markdown architecture guides.
+**What do I get, and in what format?** Node.js test harness code, JSON benchmark suites, and markdown architecture guides (ZIP + PDF).
 
 **Can I integrate this into CI/CD?** Yes. The agent-eval CLI exits with standard status codes (0 on pass, 1 on regression) for GitHub Actions.
+
+**Which LLM providers and frameworks does it work with?** It is model- and framework-agnostic: test any OpenAI, Anthropic Claude, Gemini, or local agent endpoint that accepts JSON input and returns structured output.
+
+**How is this different from AI Agent Blueprint Stack?** The Blueprint Stack templates solopreneur back-office workflows; AI Agent Production System is the engineering eval, guardrail, and cost-control harness for production software.
 
 ### The 15-Point Vibe-Code Safety Check
 
@@ -404,16 +429,20 @@ Contents:
 - audience: B2B SaaS founders and small teams closing mid-market and enterprise accounts.
 - free: no
 
-80 battle-tested security questionnaire answers, evidence mapping, and a 30-minute prep checklist for closing enterprise deals.
+An enterprise B2B security questionnaire playbook and answer vault: 80 audited CAIQ/SIG/VSA answers, an evidence index, and a 30-minute review prep checklist.
 
 Contents:
 - 80 enterprise answers covering access control, encryption, infrastructure, incident response, and vendors
 - Master evidence index mapping answers to standard compliance documents
 - 30-minute security review prep checklist for fast turnarounds
 
-**What do I get, and in what format?** Categorized Markdown answer banks, evidence indexing guide, and response checklist.
+**What do I get, and in what format?** Categorized Markdown answer banks, an evidence indexing guide, and a response checklist (ZIP + PDF).
 
-**Does it match standard CAIQ/SIG/VSA questions?** Yes. Covers the core questions asked across major vendor assessment frameworks.
+**Does it match standard CAIQ, SIG, and VSA questions?** Yes. Covers the core questions asked across major vendor security assessment frameworks.
+
+**Do I need SOC 2 or ISO 27001 certification to use this?** No. Each question includes honest, control-based answers for early-stage teams alongside the target state for SOC 2 readiness.
+
+**How do I customize the answers for my stack?** Use the master evidence index to map your cloud host, auth provider, database encryption, and subprocessor list once, then paste across questionnaires.
 
 ### The Trust & Legal Pages Pack
 
@@ -423,7 +452,7 @@ Contents:
 - audience: SaaS founders and indie hackers launching paid web applications.
 - free: no
 
-Six plain-English legal and trust pages an app needs before checkout, with annotations on what each clause protects.
+A SaaS legal pages pack: six plain-English trust and compliance pages an app needs before checkout, with clause annotations and a 24-point publish checklist.
 
 Contents:
 - Six markdown pages: Privacy Policy, Terms of Service, Cookie Notice, Refund Policy, AI Disclosure, and Subprocessors Table
@@ -433,6 +462,10 @@ Contents:
 **What do I get, and in what format?** Six annotated Markdown files, the data inventory worksheet, and the publish checklist.
 
 **Is this legal advice?** No. It is an annotated starting point for you to customize and have reviewed by legal counsel.
+
+**Which pages should I publish before taking payments?** Publish the Privacy Policy, Terms of Service, and Refund Policy before enabling Stripe or Gumroad checkout; add the AI Disclosure and Subprocessors Table before B2B outreach.
+
+**Does this include an AI disclosure policy?** Yes. It includes a dedicated AI Disclosure page explaining model providers, training opt-outs, and human review boundaries.
 
 ### The Vibe-Code Rescue Kit
 
@@ -491,7 +524,7 @@ Contents:
 - audience: Builders shipping career AI products and coaches productizing resume reviews.
 - free: no
 
-The operating spec for an AI resume tool: a weighted scoring rubric, prompt chains, and three worked example rewrites: build it, QA a vendor, or productize it.
+The operating spec for an AI resume tool: a weighted scoring rubric, prompt chains, and three worked example rewrites to build, QA, or productize it.
 
 Contents:
 - A weighted scoring rubric for resume rewrites
@@ -612,7 +645,7 @@ Contents:
 - free: yes
 - next: https://probiex.gumroad.com/l/late-payment-playbook (adds contract clauses, deposit schedules, and the escalation ladder)
 
-Five copy-paste invoice reminder emails, ordered from three days before the due date to the final notice before work pauses: the pre-due messages most freelancers never send.
+Five free copy-paste invoice reminder emails from three days before the due date to the final pause notice: the pre-due messages most freelancers skip.
 
 Contents:
 - Email 1: three business days before the due date (catches lost invoices at the AP desk)
@@ -733,7 +766,7 @@ Contents:
 - audience: SaaS founders who want a Monday-morning numbers ritual.
 - free: no
 
-A two-sheet XLSX dashboard that computes eight of the ten SaaS survival metrics: MRR and net-new MRR, LTV:CAC, gross retention, NRR, CAC payback, churn, and conversion, from nine pasted inputs.
+A two-sheet XLSX SaaS metrics dashboard that computes MRR, net-new MRR, LTV:CAC, retention, NRR, CAC payback, churn, and conversion from nine pasted inputs.
 
 Contents:
 - Eight of the ten survival metrics computed in the sheet: MRR and net-new MRR, LTV:CAC, gross retention and NRR, CAC payback, churn, and free-to-paid conversion; the guide walks GRR and LTV by hand from the same numbers
@@ -898,7 +931,7 @@ Contents:
 - audience: Founders and freelancers doing outreach themselves.
 - free: no
 
-40+ cold outreach reply templates, sorted by the objection that killed the thread: budget, timing, authority, fit, and silence. Each reply is matched to a pattern.
+40+ cold outreach reply templates sorted by the objection that killed the thread: budget, timing, authority, fit, and silence, matched to reply patterns.
 
 Contents:
 - 40+ reply templates covering budget, timing, authority, fit, and the polite brush-off
@@ -959,7 +992,7 @@ Contents:
 - free: yes
 - next: https://probiex.gumroad.com/l/landing-page-conversion-audit (adds 60 points ranked by recoverable revenue, with the fix library)
 
-A 20-point pass-or-miss check for SaaS and product landing pages, with a one-line fix for every miss and scoring bands that tell you whether to polish, patch, or rebuild. There is also a browser edition that scores the same 20 points live: https://akshatnaruka.github.io/probiex-hub/leak-check.html.
+A free 20-point pass-or-miss leak check for SaaS and product landing pages, with a one-line fix for every miss and score bands for polish, patch, or rebuild.
 
 Contents:
 - 20 checks across five groups: hero, proof, offer clarity, friction, trust close
@@ -998,7 +1031,7 @@ Contents:
 - audience: Founders and marketers who want their content cited and recommended by AI systems.
 - free: no
 
-A GEO system for AI search visibility: a 0-100 scorecard across five weighted dimensions, a fix-order priority formula, an llms.txt template, and E-E-A-T checks.
+A GEO system for AI search visibility: a 0-100 scorecard across five weighted dimensions, a fix-order formula, an llms.txt template, and E-E-A-T checks.
 
 Contents:
 - GEO Scorecard across 5 weighted dimensions
@@ -1019,7 +1052,7 @@ Contents:
 - audience: Founders auditing their own landing page before spending on traffic.
 - free: no
 
-A 60-point landing page audit that scores message clarity, fold copy, forms, trust, and mobile, then ranks your top three conversion leaks by recoverable rate.
+A 60-point landing page audit that scores message clarity, fold copy, forms, trust, and mobile, then ranks your top conversion leaks by recoverable rate.
 
 Contents:
 - The 60-point scorecard: message clarity, fold copy, forms, trust signals, mobile
@@ -1142,7 +1175,15 @@ Contents:
 - audience: Founders who want the full finance picture instead of one spreadsheet.
 - free: no
 
-Six finance workbooks and their PDF guides in one bundle: rate floor, runway and breakeven, break-even CAC, the ten SaaS metrics, the pricing method, and a 90-day cash forecast.
+Six finance workbooks and PDF guides in one bundle: rate floor, runway, break-even CAC, the ten SaaS metrics, pricing bands, and a 90-day cash forecast.
+
+Contents:
+- Freelancer Rate Calculator: what to bill so the math works
+- Runway &amp; Breakeven: months of cash you actually have
+- Break-Even CAC: the ceiling your margins cannot survive above
+- SaaS Metrics Dashboard: eight of the ten survival metrics, computed in the sheet
+- Pricing Calculator: Van Westendorp, value metrics, three tiers
+- Freelance Cash-Flow Planner: 90-day rolling forecast
 
 **What do I get, and in what format?** Six XLSX workbooks plus their PDF guides, in one purchase and one download section.
 
@@ -1158,6 +1199,12 @@ Six finance workbooks and their PDF guides in one bundle: rate floor, runway and
 
 Four launch systems in one bundle: 40+ outreach replies, the seven launch emails, a 30-day ship plan, and the warm-signal first-100 playbook.
 
+Contents:
+- Cold Outreach Reply Pack: 40+ replies matched to objection
+- Launch Week Email Kit: the seven emails that decide a launch
+- Ship Your SaaS in 30 Days: day-by-day checklist plus landing and launch templates
+- First 100 Customers: warm-signal distribution over cold volume
+
 **What do I get, and in what format?** Four products: PDFs and template kits in one purchase, one download section.
 
 **Do the systems reference each other?** They run in sequence: outreach replies → launch emails → first customers, with the 30-day plan as the spine.
@@ -1171,6 +1218,11 @@ Four launch systems in one bundle: 40+ outreach replies, the seven launch emails
 - free: no
 
 Three Notion systems in one bundle (Founder CRM, Content Calendar, and Indie Hacker OS): full build specs plus setup guides for a one-workspace business.
+
+Contents:
+- Founder CRM: leads, pipeline, contacts, built in one session
+- Content Calendar: a content database with pillars and repurposing, not a sticker board
+- Indie Hacker OS: six linked databases for ideas, projects, revenue, audience, and weekly operations
 
 **What do I get, and in what format?** Three Notion build specs plus setup guides. Duplicate into your workspace and run.
 
@@ -1187,7 +1239,7 @@ Three Notion systems in one bundle (Founder CRM, Content Calendar, and Indie Hac
 - free: yes
 - next: https://probiex.gumroad.com/l/launch-week-email-kit (adds the seven emails a launch decides with, with subject lines and send timing)
 
-Forty ordered checks for launch day, from T-24h through T+72h: product ready, checkout tested, content staged, the launch itself, first-day replies, and the retro.
+Forty free ordered checks for launch day from T-24h through T+72h: product ready, checkout tested, content staged, first-day replies, and the retro.
 
 Contents:
 - 40 checks in four run-throughs: T-24h (product, site, money, content), T-0 (post order, email, communities), T+24h (replies, first fix, sources), T+72h (retro, follow-ups, next iteration)
@@ -1207,7 +1259,7 @@ Contents:
 - free: yes
 - next: https://probiex.gumroad.com/l/indie-hacker-os (adds six linked Notion databases that run the week)
 
-A one-page business plan you build in Notion in 20 minutes or print and fill by hand: nine sections, a weekly review rule, and a worked example that shows the specificity bar.
+A free one-page business plan for Notion or print: nine sections, a 20-minute build spec, a Monday review rule, and a worked indie SaaS example.
 
 Contents:
 - The 9-section template: promise, customer, problem, wedge, channel, revenue model, 90-day milestones, weekly metric, kill criteria
@@ -1286,7 +1338,7 @@ Contents:
 - audience: Solo SaaS founders and indie hackers wiring up lifecycle email.
 - free: no
 
-Eight production HTML emails: welcome, receipt, password reset, trial ending, payment failed, weekly digest, account closing, and reactivation, coded to render in Gmail and Outlook.
+Eight production HTML lifecycle emails: welcome, receipt, password reset, trial ending, payment failed, digest, closing, and reactivation for Gmail/Outlook.
 
 Contents:
 - Eight self-contained .html files: 600px table layout, inline styles, dark-mode-safe panel, bulletproof CTA buttons
@@ -1308,7 +1360,7 @@ Contents:
 - audience: Freelancers, 1099 independent contractors, and single-member LLC solopreneurs.
 - free: no
 
-An estimated quarterly tax calculation model, comprehensive deduction checklist, and invoice legal clauses for freelancers and solo operators.
+A freelance 1099 tax planner and playbook: a 5-step quarterly 1040-ES calculation model, a 50-point Schedule C deduction checklist, and W-9 invoice clauses.
 
 Contents:
 - 5-step quarterly estimated tax calculation model and withholding percentage guide
@@ -1316,9 +1368,13 @@ Contents:
 - Quarterly IRS due date calendar and electronic payment setup instructions
 - W-9 and invoice compliance clauses to avoid client withholding errors
 
-**What do I get, and in what format?** Calculation models, markdown checklists, calendar reference, and invoice templates.
+**What do I get, and in what format?** Calculation models, markdown checklists, calendar reference, and invoice templates (ZIP + PDF).
 
-**Is this tax advice?** No. It is an operational planning model and checklist to prepare your numbers for an accountant.
+**Is this tax advice?** No. It is an operational planning model and checklist to prepare your quarterly reserves and records for an accountant.
+
+**What if my freelance income changes every month?** The 5-step model uses percentage reserve rules and safe-harbor thresholds so you set aside the right fraction on every paid invoice.
+
+**Does it include invoice wording for late payments?** Yes. It includes W-9 onboarding copy and late-fee payment terms to keep 1099 collections predictable.
 
 ### Offer & Pricing Stress Test
 
@@ -1328,7 +1384,7 @@ Contents:
 - audience: SaaS founders, consultants, and creators setting or raising prices.
 - free: no
 
-A 60-point offer diagnostic scorecard, 20 pricing objection scripts, and a 3-tier packaging rebuild system for SaaS.
+A SaaS offer and pricing playbook: a 60-point offer diagnostic scorecard, 20 pricing objection scripts, sensitivity math, and a 3-tier packaging rebuild.
 
 Contents:
 - 60-point offer diagnostic scorecard across 5 critical dimensions
@@ -1336,7 +1392,11 @@ Contents:
 - Pricing sensitivity and volume drop absorption math worksheet
 - 3-tier Good/Better/Best packaging restructuring templates
 
-**What do I get, and in what format?** Scorecard markdown, script swipe file, and pricing model worksheets.
+**What do I get, and in what format?** Scorecard markdown, script swipe file, and pricing model worksheets plus a PDF guide.
 
-**How long does the audit take?** Under 30 minutes to complete the full 60-point diagnostic.
+**How long does the audit take?** Under 30 minutes to complete the full 60-point diagnostic and score your current tiers.
+
+**How is this different from The Pricing Calculator?** The Pricing Calculator computes Van Westendorp price bands and unit floors in XLSX; this Stress Test diagnoses offer positioning, tier fences, and live sales objections.
+
+**Does this work for service and consulting offers?** Yes. The 60-point rubric and 20 objection scripts cover both productized services and SaaS subscriptions.
 

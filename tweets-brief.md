@@ -8,7 +8,7 @@ One-line usage: "Using only this brief, write N tweets for Probiex."
 
 ## What you are writing for
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks and self-paced courses with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it.
 
 - Store: https://probiex.gumroad.com (one-person storefront, Akshat Naruka)
 - Full customers' factsheet: https://akshatnaruka.github.io/probiex-hub/about.html
@@ -56,6 +56,9 @@ the store home only for catalog/progress posts.
 
 ## Citable stats (use only these; cite the source inline)
 
+- 98% of live vibe-coded apps had at least one vulnerability; 29% had a high or critical one (vibe-eval (August 2026))
+- 45% of AI-generated code samples introduce at least one OWASP Top 10 issue (Cloud Security Alliance (April 2026))
+- 0 of 15 AI-built APIs had CSRF protection; 1 attempted rate limiting (Zuplo (March 2026))
 - 59% of small-business invoices run 30+ days late (Intuit QuickBooks (2026))
 - Small businesses waited 29.3 days to get paid (Q2 2026) (Intuit QuickBooks)
 - 1 in 10 web pages shows signs of AI writing (Pew Research (July 2026))
@@ -65,11 +68,21 @@ the store home only for catalog/progress posts.
 - Pages scoring under ~45/100 get almost no AI citations; over 70 average 5+ (GEO scorecard sample (Probiex))
 - 43 of 100 r/SaaS threads ask about lead generation (r/SaaS sample (Probiex))
 
-## Product angles (48 live products)
+## Product angles (60 live products)
 
+- **The Vibe-Code Rescue Kit**: 98% of AI-built apps have a vulnerability; 60-point audit + 17-check CLI Link: https://probiex.gumroad.com/l/vibe-code-rescue
+- **The 15-Point Vibe-Code Safety Check**: 15 ordered checks before you charge money; no account, no card Link: https://probiex.gumroad.com/l/free-vibe-code-safety-check
+- **The Trust & Legal Pages Pack**: Buyers check your footer before checkout; 6 annotated legal pages Link: https://probiex.gumroad.com/l/trust-legal-pages
+- **The Security Questionnaire Vault**: Enterprise deals stall on the 80-question review; audited answers + evidence index Link: https://probiex.gumroad.com/l/security-questionnaire
+- **AI Agent Production System**: Demo agents fail in production; Node.js eval CLI, permissions, cost circuit breakers Link: https://probiex.gumroad.com/l/ai-agent-production
+- **The X / Twitter Growth Playbook**: 45-minute daily X cadence: 50 hook frameworks, 30-day calendar, launch teardowns Link: https://probiex.gumroad.com/l/x-growth-playbook
+- **Compliant LinkedIn Automation Stack**: Chrome scrapers get banned; official REST API CLI scheduler + n8n workflows Link: https://probiex.gumroad.com/l/linkedin-automation-stack
+- **Cold Email Deliverability & DNS Kit**: Sub-20% open rates are a DNS problem; 3-second inbox-check CLI + warmup guide Link: https://probiex.gumroad.com/l/cold-email-deliverability-kit
+- **The Warm Outbound Engine**: 30 warm buying signals beat 1,800 cold DMs; 5-touch sequence + 40 templates Link: https://probiex.gumroad.com/l/warm-outbound
+- **SaaS Activation & Retention OS**: Half of signups never return; aha-moment mapping + 7-day behavioral nudges Link: https://probiex.gumroad.com/l/activation-retention
 - **First 100 Customers: Warm Signal Playbook**: Warm signals beat 1,800 cold msgs; trigger phrases to watch Link: https://probiex.gumroad.com/l/first-100-customers
 - **90-Day LinkedIn Content Playbook**: Quit-by-post-5 problem; cadence not willpower Link: https://probiex.gumroad.com/l/linkedin-content-playbook
-- **SaaS Founder Copy Vault**: Adapt 80+ blocks in 5 min; anti-blank-page Link: https://probiex.gumroad.com/l/saas-founder-copy-vault
+- **SaaS Founder Copy Vault**: Adapt 50+ blocks in 5 min; anti-blank-page Link: https://probiex.gumroad.com/l/saas-founder-copy-vault
 - **The Landing Page Conversion Audit**: 3.8% vs 10-15%; 60-point leak ranking Link: https://probiex.gumroad.com/l/landing-page-conversion-audit
 - **Silent Churn Rescue Kit**: Day-7 detection window; the permission-to-close email Link: https://probiex.gumroad.com/l/silent-churn-rescue-kit
 - **Cold Outreach Reply Pack**: 40+ replies by objection: budget, timing, authority, silence Link: https://probiex.gumroad.com/l/cold-outreach-reply-pack
@@ -79,6 +92,8 @@ the store home only for catalog/progress posts.
 - **Titles & Hooks Scorecard**: The weakest of 6 title checks tells you what to fix Link: https://probiex.gumroad.com/l/video-titles-scorecard
 - **25 Free Cold Email First Lines**: Openers about them, not you: 25 lines, 8 scenarios, 5 rules Link: https://probiex.gumroad.com/l/free-cold-email-openers
 - **Free Landing Page Leak Check: 20 Points**: 20 pass-or-miss points; the misses rank your next fix Link: https://probiex.gumroad.com/l/free-landing-page-checklist
+- **Offer & Pricing Stress Test**: Your price is not the problem, the offer is; 60-point scorecard + 20 objection scripts Link: https://probiex.gumroad.com/l/offer-pricing-stress-test
+- **Freelance 1099 & Tax Planner**: Quarterly 1040-ES math, 50-point Schedule C checklist, and W-9 invoice clauses Link: https://probiex.gumroad.com/l/freelance-1099-tax
 - **The Late-Payment Playbook**: 59% late-30+; the two emails nobody sends Link: https://probiex.gumroad.com/l/late-payment-playbook
 - **5 Free Invoice Reminder Emails**: The two pre-due emails nobody sends; five copy-paste messages Link: https://probiex.gumroad.com/l/free-invoice-reminder-emails
 - **Freelancer Rate Calculator**: The 14% margin hiding in copied rates Link: https://probiex.gumroad.com/l/freelancer-rate-calculator
@@ -100,7 +115,7 @@ the store home only for catalog/progress posts.
 - **The One-Page Personal Site**: The 5-page portfolio never ships; one link does Link: https://probiex.gumroad.com/l/personal-landing-page
 - **Free One-Page Business Plan: Notion + PDF**: The 9-section plan reviewed weekly, not written yearly Link: https://probiex.gumroad.com/l/free-one-page-business-plan
 - **Free Launch Day Checklist: 40 Checks**: 40 ordered checks, T-24h to T+72h; launches fail on unbought prep Link: https://probiex.gumroad.com/l/free-launch-day-checklist
-- **10 Free Claude Prompts**: The free opener; no email wall (use in every trust-building week) Link: https://probiex.gumroad.com/l/free-claude-prompts
+- **10 Free Claude Prompts**: The free opener; no account, no card (use in every trust-building week) Link: https://probiex.gumroad.com/l/free-claude-prompts
 - **100 Claude Prompts for SaaS Founders**: "Open Claude and freeze"; 100 prompts by job Link: https://probiex.gumroad.com/l/claude-prompts-saas-founders
 - **The AI-Slop Audit**: 1-in-10 AI pages; 20 tells in 15 minutes Link: https://probiex.gumroad.com/l/ai-slop-audit
 - **Voice AI System**: Clone the process, not the voice; compliance survives Link: https://probiex.gumroad.com/l/voice-ai-system
