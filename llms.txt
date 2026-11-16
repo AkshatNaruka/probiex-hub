@@ -1,6 +1,6 @@
 # Probiex
 
-> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 50 products, each shippable the week you buy it. 7 of the 50 products are free. Updated 2026-11-14.
+> Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it. 7 of the 60 products are free. Updated 2026-11-16.
 
 ## Start free
 
@@ -17,7 +17,9 @@ and the product page names the paid system it grows into.
 
 ## Catalog
 
+- [SaaS Activation & Retention OS](https://probiex.gumroad.com/l/activation-retention) (GET FOUND): An aha-moment mapping framework, 7-day behavioral onboarding sequence, early churn signal scorecard, and weekly retention review. (AHA BLUEPRINT + 7-DAY NUDGES).
 - [AI Agent Blueprint Stack](https://probiex.gumroad.com/l/ai-agent-blueprint-stack) (AI & PROMPTS): An agent-powered operation, hand over. (AGENTS · SCHEMAS).
+- [AI Agent Production System](https://probiex.gumroad.com/l/ai-agent-production) (SHIP SAFE): An automated eval test harness, tool-permission guardrails, cost-ceiling limiters, and incident runbooks for shipping reliable … (EVAL HARNESS + RUNBOOKS).
 - [AI Literacy Engineering Kit](https://probiex.gumroad.com/l/ai-literacy-kit) (CAREER & TEACHING): 30 lesson plans that teach students to think critically with AI, not avoid it. (30 LESSON PLANS).
 - [AI Resume Optimizer Spec + Kit](https://probiex.gumroad.com/l/ai-resume-optimizer) (CAREER & TEACHING): A complete spec and launch kit for a resume tool. (SPEC + KIT).
 - [The AI-Slop Audit](https://probiex.gumroad.com/l/ai-slop-audit) (AI & PROMPTS): A 20-tell scoring system for catching AI-sounding writing before you publish it. 15-minute audit. (20-TELL AUDIT).
@@ -25,11 +27,13 @@ and the product page names the paid system it grows into.
 - [Break-Even CAC Calculator](https://probiex.gumroad.com/l/break-even-cac-calculator) (FINANCE): The CAC your margins cannot sustain. (CAC FLOOR).
 - [100 Claude Prompts for SaaS Founders](https://probiex.gumroad.com/l/claude-prompts-saas-founders) (AI & PROMPTS): 100 copy-paste Claude prompts that run your SaaS business: research, launch, copy, and growth. (100 PROMPTS · PDF + MD).
 - [Freelance Client Portal for Notion](https://probiex.gumroad.com/l/client-portal-os) (OPERATIONS): A client-facing portal in Notion: deliverables, milestones, approvals, and a decision log clients can check themselves. (NOTION · PORTAL).
+- [Cold Email Deliverability & DNS Kit](https://probiex.gumroad.com/l/cold-email-deliverability-kit) (GET FOUND): A zero-dependency DNS diagnostic CLI tool (inbox-check), copy-paste authentication records, and 2026 bulk sender compliance … (CLI + DNS TEMPLATES).
 - [Cold Outreach Reply Pack](https://probiex.gumroad.com/l/cold-outreach-reply-pack) (GETTING CUSTOMERS): 40+ reply templates sorted by the objection. (40+ REPLIES).
 - [The Course Builder for Notion](https://probiex.gumroad.com/l/course-curriculum-builder) (CAREER & TEACHING): Course architecture in Notion: outcome gates per module, a recording queue, and a feedback loop. (NOTION · COURSE).
 - [First 100 Customers: Warm Signal Playbook](https://probiex.gumroad.com/l/first-100-customers) (GETTING CUSTOMERS): Stop spraying cold messages. Reach people at the exact moment they need you. (21-DAY PLAN).
 - [Founder Anti-Burnout Weekly System](https://probiex.gumroad.com/l/founder-anti-burnout-system) (OPERATIONS): Escape the developer's safe room. A 15h/week structure that ships and sells. (15H/WEEK).
 - [Founder Finance Bundle](https://probiex.gumroad.com/l/founder-finance-bundle) (BUNDLE): Six finance workbooks in one checkout: rate floor, runway, CAC ceiling, metrics, pricing, and cash forecast. (6 WORKBOOKS · ONE CHECKOUT).
+- [Freelance 1099 & Tax Planner](https://probiex.gumroad.com/l/freelance-1099-tax) (RUN SOLO): An estimated quarterly tax calculation model, comprehensive deduction checklist, and invoice legal clauses for freelancers and … (MODEL + CHECKLIST).
 - [The Freelance Cash-Flow Planner](https://probiex.gumroad.com/l/freelance-cash-flow-planner) (FINANCE): A 90-day rolling plan for the money you actually have. (90-DAY FORECAST).
 - [The Freelance Contract Pack](https://probiex.gumroad.com/l/freelance-contract-pack) (GETTING CUSTOMERS): Six fill-in contracts for freelancers: MSA, SOW, NDA, IP assignment, change order, and deposit rider. (6 DOCUMENTS).
 - [Freelancer Rate Calculator](https://probiex.gumroad.com/l/freelancer-rate-calculator) (FINANCE): What to bill so the math works, as a workbook. (RATE FLOOR).
@@ -41,25 +45,31 @@ and the product page names the paid system it grows into.
 - [Launch Bundle](https://probiex.gumroad.com/l/launch-bundle) (BUNDLE): Four launch systems in one checkout: outreach replies, launch emails, the 30-day ship plan, and first-100 distribution. (4 SYSTEMS · ONE CHECKOUT).
 - [Launch Week Email Kit](https://probiex.gumroad.com/l/launch-week-email-kit) (GETTING CUSTOMERS): The seven emails that decide whether a launch ships. (7 EMAILS).
 - [LaunchKit Starter](https://probiex.gumroad.com/l/launchkit-starter) (BUILDS): Production-ready Next.js 15 SaaS starter with auth, billing, DB, i18n. (NEXT.JS STARTER).
+- [Compliant LinkedIn Automation Stack](https://probiex.gumroad.com/l/linkedin-automation-stack) (GET FOUND): An official REST API-compliant posting engine, n8n workflow templates, and CLI scheduler for safe distribution without account … (CLI + N8N + GUIDES).
 - [90-Day LinkedIn Content Playbook](https://probiex.gumroad.com/l/linkedin-content-playbook) (GETTING CUSTOMERS): A day-by-day 90-day plan to grow on LinkedIn as a SaaS founder. (90 DAYS).
 - [Notion Meeting OS](https://probiex.gumroad.com/l/meeting-os) (OPERATIONS): Meeting notes, decisions, and owner-assigned actions with a Friday review that closes every loop the week opened. (NOTION · MEETINGS).
 - [n8n Solopreneur Workflows](https://probiex.gumroad.com/l/n8n-solopreneur-workflows) (AI & PROMPTS): Automation workflows that run your week. (3 WORKFLOWS).
 - [Notion Content Calendar](https://probiex.gumroad.com/l/notion-content-calendar) (OPERATIONS): A social content database, not a sticker board. (NOTION · CONTENT).
 - [Notion Founder Bundle](https://probiex.gumroad.com/l/notion-founder-bundle) (BUNDLE): Three Notion systems in one checkout: Founder CRM, Content Calendar, and Indie Hacker OS. (3 SYSTEMS · ONE CHECKOUT).
 - [Notion Founder CRM](https://probiex.gumroad.com/l/notion-founder-crm) (OPERATIONS): A founder CRM you build in one session. (NOTION · CRM).
+- [Offer & Pricing Stress Test](https://probiex.gumroad.com/l/offer-pricing-stress-test) (RUN SOLO): A 60-point offer diagnostic scorecard, 20 pricing objection scripts, and a 3-tier packaging rebuild system for SaaS. (60-PT SCORECARD + SCRIPTS).
 - [The One-Page Personal Site](https://probiex.gumroad.com/l/personal-landing-page) (BUILDS): A dependency-free one-page personal site with dark mode, deployable anywhere in minutes. (ONE FILE · 0 DEPS).
 - [The Pitch Deck Builder](https://probiex.gumroad.com/l/pitch-deck-builder) (CAREER & TEACHING): A 16-slide investor deck template with a worked example, speaker notes, and one question answered per slide. (16 SLIDES + PPTX).
 - [The Pricing Calculator](https://probiex.gumroad.com/l/pricing-calculator) (FINANCE): Van Westendorp bands, value-metric selection, and three tiers, as a workbook. (BANDS + TIERS).
 - [Runway & Breakeven Calculator](https://probiex.gumroad.com/l/runway-breakeven-calculator) (FINANCE): How many months of cash you actually have. (RUNWAY MATH).
 - [SaaS Founder Copy Vault](https://probiex.gumroad.com/l/saas-founder-copy-vault) (GETTING CUSTOMERS): 80+ proven copy blocks for launches, emails, and landing pages. (50+ BLOCKS).
 - [SaaS Metrics Dashboard Kit](https://probiex.gumroad.com/l/saas-metrics-dashboard) (FINANCE): The 10 survival numbers for SaaS as a workbook you own. (XLSX + PDF).
+- [The Security Questionnaire Vault](https://probiex.gumroad.com/l/security-questionnaire) (SHIP SAFE): 80 battle-tested security questionnaire answers, evidence mapping, and a 30-minute prep checklist for closing enterprise deals. (80 ANSWERS + INDEX).
 - [Ship Your SaaS in 30 Days](https://probiex.gumroad.com/l/ship-saas-30-days) (BUILDS): A one-month playbook from zero to paid. (30-DAY PLAN).
 - [Silent Churn Rescue Kit](https://probiex.gumroad.com/l/silent-churn-rescue-kit) (GETTING CUSTOMERS): A first-7-days activation system that stops silent churn before it starts. (7-DAY SYSTEM).
 - [One-Person Agency Engine](https://probiex.gumroad.com/l/solo-agency-engine) (OPERATIONS): Build a profitable solo agency without burning out. Rate math, client scoring, capacity rules. (RATE + CAPACITY).
 - [The Transactional Email Kit](https://probiex.gumroad.com/l/transactional-email-kit) (BUILDS): Eight lifecycle emails coded to render in Gmail and Outlook, with a send map and QA checklist. (8 HTML EMAILS).
+- [The Trust & Legal Pages Pack](https://probiex.gumroad.com/l/trust-legal-pages) (SHIP SAFE): Six plain-English legal and trust pages an app needs before checkout, with annotations on what each clause protects. (6 PAGES + INVENTORY).
 - [The Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue) (SHIP SAFE): A 60-point audit, 17-check CLI, 15 fix prompts, RLS pack, and three launch runbooks for AI-built apps. (CLI + 60-POINT AUDIT).
 - [Titles & Hooks Scorecard](https://probiex.gumroad.com/l/video-titles-scorecard) (GETTING CUSTOMERS): Score video titles and hooks against six checks; twelve title patterns and a ship log included. (6 CHECKS · 30 PTS).
 - [Voice AI System](https://probiex.gumroad.com/l/voice-ai-system) (AI & PROMPTS): Clone your process, not your voice. (SCHEMA + GUIDE).
+- [The Warm Outbound Engine](https://probiex.gumroad.com/l/warm-outbound) (GET FOUND): Trigger-based prospecting, 5-touch high-conversion sequences, 40 signal reply templates, and a weekly pipeline review system. (5-TOUCH CADENCE + 40 TEMPLATES).
+- [The X / Twitter Growth Playbook](https://probiex.gumroad.com/l/x-growth-playbook) (GET FOUND): An organic audience and customer acquisition system for solo founders: 50 hook frameworks, 30-day calendar, and launch thread … (PLAYBOOK + CALENDAR).
 
 ## Site map
 

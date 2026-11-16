@@ -4,7 +4,7 @@ category: AI & PROMPTS
 format: SCHEMA + GUIDE
 url: https://probiex.gumroad.com/l/voice-ai-system
 audience: Builders shipping voice features into real products.
-updated: 2026-11-14
+updated: 2026-11-16
 ---
 
 Schemas, a compliance checklist, and a setup guide for shipping voice AI that survives real users and legal review: clone the process, not the voice.

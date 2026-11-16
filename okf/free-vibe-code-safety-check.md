@@ -4,7 +4,7 @@ category: SHIP SAFE
 format: FREE · 15 CHECKS
 url: https://probiex.gumroad.com/l/free-vibe-code-safety-check
 audience: Anyone shipping an AI-built app who has not run a security review yet. Free, no account, no card. Gumroad asks for an email to deliver the file.
-updated: 2026-11-14
+updated: 2026-11-16
 ---
 
 Fifteen ordered security checks for AI-built apps, with a pass condition and a one-line fix for each, plus the five-check scanner command.

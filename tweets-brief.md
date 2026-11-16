@@ -1,6 +1,6 @@
 # Probiex tweet brief
 
-Generated 2026-11-14. For AI assistants and content writers: this file holds
+Generated 2026-11-16. For AI assistants and content writers: this file holds
 every fact and rule needed to write marketing tweets for the Probiex store.
 Use ONLY what is here.
 
@@ -8,7 +8,7 @@ One-line usage: "Using only this brief, write N tweets for Probiex."
 
 ## What you are writing for
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 50 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it.
 
 - Store: https://probiex.gumroad.com (one-person storefront, Akshat Naruka)
 - Full customers' factsheet: https://akshatnaruka.github.io/probiex-hub/about.html
@@ -134,7 +134,7 @@ the store home only for catalog/progress posts.
 - Two-column resumes scramble into unreadable records. What survives most
   parsers: single column, standard headings, tab-stop dates. Six worked
   layouts: https://probiex.gumroad.com/l/ats-resume-pack
-- 50 systems now live on the store: finance calculators, launch kits,
+- 60 systems now live on the store: finance calculators, launch kits,
   Notion builds, resume packs. No subscription, and 7 of them are
   free to try: https://probiex.gumroad.com
 

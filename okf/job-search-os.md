@@ -4,7 +4,7 @@ category: CAREER & TEACHING
 format: NOTION · SEARCH
 url: https://probiex.gumroad.com/l/job-search-os
 audience: Freelancers between contracts and solo operators running a full-time or contract search.
-updated: 2026-11-14
+updated: 2026-11-16
 ---
 
 A Notion job-search system: applications, contacts, follow-up dates, and offer math, built to run a search like a sales campaign.

@@ -1,13 +1,13 @@
 ---
 site: Probiex
 store: https://probiex.gumroad.com
-updated: 2026-11-14
-products: 50
+updated: 2026-11-16
+products: 60
 free products: 7
-description: catalog of 50 practical systems for solo founders, indie hackers, freelancers
+description: catalog of 60 practical systems for solo founders, indie hackers, freelancers
 ---
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 50 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it.
 
 Prices are shown on each product page.
 
@@ -28,6 +28,108 @@ Prices are shown on each product page.
 - [Free One-Page Business Plan: Notion + PDF](https://probiex.gumroad.com/l/free-one-page-business-plan) -> [The Indie Hacker OS](https://probiex.gumroad.com/l/indie-hacker-os): adds six linked Notion databases that run the week.
 
 - [The 15-Point Vibe-Code Safety Check](https://probiex.gumroad.com/l/free-vibe-code-safety-check) -> [The Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue): adds the 60-point audit, 17-check CLI, 15 fix prompts, the RLS policy pack, and three runbooks.
+
+## GET FOUND
+
+### SaaS Activation & Retention OS
+
+- url: https://probiex.gumroad.com/l/activation-retention
+- category: GET FOUND
+- format: AHA BLUEPRINT + 7-DAY NUDGES
+- audience: SaaS founders and product teams focused on trial activation and customer retention.
+- free: no
+
+An aha-moment mapping framework, 7-day behavioral onboarding sequence, early churn signal scorecard, and weekly retention review.
+
+Contents:
+- 3-step framework to discover and isolate your product's true Aha Moment
+- 7-day behavior-triggered onboarding email sequence
+- 10-point behavioral churn signal scorecard to detect cancellations 14 days early
+- 15-minute weekly cohort retention review template
+
+**What do I get, and in what format?** Aha-moment blueprints, onboarding email copy, scoring rubrics, and review templates.
+
+**Does it require complex product analytics?** No. Works with simple event logs or standard analytics platforms.
+
+### Cold Email Deliverability & DNS Kit
+
+- url: https://probiex.gumroad.com/l/cold-email-deliverability-kit
+- category: GET FOUND
+- format: CLI + DNS TEMPLATES
+- audience: Founders and outbound operators running cold outreach or transactional email.
+- free: no
+
+A zero-dependency DNS diagnostic CLI tool (inbox-check), copy-paste authentication records, and 2026 bulk sender compliance playbook.
+
+Contents:
+- inbox-check: Native Node.js CLI tool auditing MX, SPF syntax, DMARC policy, and DKIM
+- Copy-paste DNS templates for Google Workspace, Microsoft 365, Postmark, and Resend
+- Google and Yahoo bulk sender mandate compliance guide (<0.1% spam rate rules)
+- 14-day secondary domain warmup protocol
+
+**What do I get, and in what format?** The inbox-check CLI script, DNS copy-paste markdown templates, and compliance guides.
+
+**Does it support multiple email providers?** Yes. Includes records for Google Workspace, M365, Resend, and Postmark.
+
+### Compliant LinkedIn Automation Stack
+
+- url: https://probiex.gumroad.com/l/linkedin-automation-stack
+- category: GET FOUND
+- format: CLI + N8N + GUIDES
+- audience: B2B founders, agencies, and consultants who want consistent LinkedIn distribution without manual work or ban risk.
+- free: no
+
+An official REST API-compliant posting engine, n8n workflow templates, and CLI scheduler for safe distribution without account bans.
+
+Contents:
+- Zero-dependency Node.js CLI scheduler with dry-run verification mode
+- Production-ready n8n workflow connecting Airtable or Notion to LinkedIn
+- Compliance, rate-limiting, and OAuth scope safety guide
+- Content repurposing framework to turn articles into high-dwell-time posts
+
+**What do I get, and in what format?** Node.js CLI code, n8n JSON workflow templates, and setup documentation.
+
+**Is this safe from LinkedIn bans?** Yes. It uses only official LinkedIn developer REST APIs.
+
+### The Warm Outbound Engine
+
+- url: https://probiex.gumroad.com/l/warm-outbound
+- category: GET FOUND
+- format: 5-TOUCH CADENCE + 40 TEMPLATES
+- audience: Agencies, consultants, and B2B SaaS founders who want predictable client acquisition.
+- free: no
+
+Trigger-based prospecting, 5-touch high-conversion sequences, 40 signal reply templates, and a weekly pipeline review system.
+
+Contents:
+- 8 high-converting intent triggers and free signal-monitoring workflows
+- The 18-day 5-touch multi-channel sequence (Email + LinkedIn + value drops)
+- 40 trigger-specific outreach templates that never feel like automated spam
+- Weekly pipeline review template and conversion tracking scorecard
+
+**What do I get, and in what format?** Sequence guides, copy templates, signal checklists, and tracker templates.
+
+**Does this require paid data tools?** No. All recommended signal monitoring methods can be executed with free public alerts.
+
+### The X / Twitter Growth Playbook
+
+- url: https://probiex.gumroad.com/l/x-growth-playbook
+- category: GET FOUND
+- format: PLAYBOOK + CALENDAR
+- audience: Solo founders, technical creators, and indie hackers building organic distribution.
+- free: no
+
+An organic audience and customer acquisition system for solo founders: 50 hook frameworks, 30-day calendar, and launch thread teardowns.
+
+Contents:
+- 50 high-converting hook formulas across five proven psychological categories
+- The 3-sprint 45-minute daily operating cadence
+- 30-day plug-and-play content calendar with specific angles and hooks
+- Product launch thread teardowns and templates for digital products and SaaS
+
+**What do I get, and in what format?** Markdown playbook files, swipe files, and copy templates.
+
+**Does this require existing followers?** No. The reply engine is specifically designed to borrow attention and grow from zero.
 
 ## AI & PROMPTS
 
@@ -150,6 +252,114 @@ Contents:
 **What do I get, and in what format?** The schemas and compliance kit (ZIP) plus the PDF setup guide.
 
 **Which TTS/STT stack does it support?** The schemas are stack-agnostic: they define the process layer above any provider.
+
+## SHIP SAFE
+
+### AI Agent Production System
+
+- url: https://probiex.gumroad.com/l/ai-agent-production
+- category: SHIP SAFE
+- format: EVAL HARNESS + RUNBOOKS
+- audience: AI engineers and founders building autonomous or tool-calling LLM agents.
+- free: no
+
+An automated eval test harness, tool-permission guardrails, cost-ceiling limiters, and incident runbooks for shipping reliable LLM agents.
+
+Contents:
+- Zero-dependency Node.js agent evaluation CLI (agent-eval) with regex and schema grading
+- 15 pre-built benchmark test scenarios covering tool routing and prompt injection defense
+- Tool permission guardrail architecture and human-in-the-loop patterns
+- Emergency incident runbooks and cost circuit breaker implementations
+
+**What do I get, and in what format?** Node.js test harness code, JSON benchmark suites, and markdown architecture guides.
+
+**Can I integrate this into CI/CD?** Yes. The agent-eval CLI exits with standard status codes (0 on pass, 1 on regression) for GitHub Actions.
+
+### The 15-Point Vibe-Code Safety Check
+
+- url: https://probiex.gumroad.com/l/free-vibe-code-safety-check
+- category: SHIP SAFE
+- format: FREE · 15 CHECKS
+- audience: Anyone shipping an AI-built app who has not run a security review yet. Free, no account, no card. Gumroad asks for an email to deliver the file.
+- free: yes
+- next: https://probiex.gumroad.com/l/vibe-code-rescue (adds the 60-point audit, 17-check CLI, 15 fix prompts, the RLS policy pack, and three runbooks)
+
+Fifteen ordered security checks for AI-built apps, with a pass condition and a one-line fix for each, plus the five-check scanner command.
+
+Contents:
+- 15 checks across secrets, data access, payments, input, and operations
+- A pass condition and a one-line fix for every check
+- The two-account authorization test that finds the most bugs
+- The vibe-check --lite command for the five automated checks
+- A score band that tells you whether to launch, fix, or stop
+
+**Is this the whole kit?** No. It is the 15-point short list. The full <a href="https://probiex.gumroad.com/l/vibe-code-rescue">Vibe-Code Rescue Kit</a> adds the 60-point audit, the 17-check scanner, 15 fix prompts, the RLS pack, and three runbooks.
+
+**How long does it take?** About 30 minutes for a small app, plus the fixes.
+
+### The Security Questionnaire Vault
+
+- url: https://probiex.gumroad.com/l/security-questionnaire
+- category: SHIP SAFE
+- format: 80 ANSWERS + INDEX
+- audience: B2B SaaS founders and small teams closing mid-market and enterprise accounts.
+- free: no
+
+80 battle-tested security questionnaire answers, evidence mapping, and a 30-minute prep checklist for closing enterprise deals.
+
+Contents:
+- 80 enterprise answers covering access control, encryption, infrastructure, incident response, and vendors
+- Master evidence index mapping answers to standard compliance documents
+- 30-minute security review prep checklist for fast turnarounds
+
+**What do I get, and in what format?** Categorized Markdown answer banks, evidence indexing guide, and response checklist.
+
+**Does it match standard CAIQ/SIG/VSA questions?** Yes. Covers the core questions asked across major vendor assessment frameworks.
+
+### The Trust & Legal Pages Pack
+
+- url: https://probiex.gumroad.com/l/trust-legal-pages
+- category: SHIP SAFE
+- format: 6 PAGES + INVENTORY
+- audience: SaaS founders and indie hackers launching paid web applications.
+- free: no
+
+Six plain-English legal and trust pages an app needs before checkout, with annotations on what each clause protects.
+
+Contents:
+- Six markdown pages: Privacy Policy, Terms of Service, Cookie Notice, Refund Policy, AI Disclosure, and Subprocessors Table
+- A data-inventory worksheet mapping your actual data flows to clauses
+- A 24-point pre-publish checklist covering footer wiring, checkout consent, and deletion paths
+
+**What do I get, and in what format?** Six annotated Markdown files, the data inventory worksheet, and the publish checklist.
+
+**Is this legal advice?** No. It is an annotated starting point for you to customize and have reviewed by legal counsel.
+
+### The Vibe-Code Rescue Kit
+
+- url: https://probiex.gumroad.com/l/vibe-code-rescue
+- category: SHIP SAFE
+- format: CLI + 60-POINT AUDIT
+- audience: Solo founders and small teams who built with AI and are about to charge money, not security teams with a budget.
+- free: no
+
+A 60-point audit, 17-check scanner, 15 fix prompts, RLS policies, and three launch runbooks for AI-built apps.
+
+Contents:
+- The 60-point Launch Safety Audit (XLSX) with severity weights, evidence fields, scoring, and a ranked fix order
+- vibe-check, a read-only CLI with 17 checks, JSON output, and a --lite five-check mode
+- 15 copy-paste fix prompts for Claude, Cursor, or any AI editor, each with a verification step
+- A Supabase RLS policy pack for profiles, teams, projects, invoices, files, API keys, and storage
+- Three runbooks: pre-launch T-7 to T+7, incident response for the first 24 hours, and a 30-day monitoring plan
+- A full worked example: a fictional app scored 31/100, fixed over four weeks, rescored 92/100
+
+**What do I get, and in what format?** A ZIP with the PDF guide, the XLSX audit, the Node CLI, the fix prompts, the SQL pack, the runbooks, and the worked example.
+
+**Does the scanner upload my code?** No. It reads files locally and prints a report. No API calls, no telemetry, no writes.
+
+**Is this a penetration test?** No. It finds the common, expensive mistakes in AI-built apps. It does not certify compliance or replace a qualified review.
+
+**What if my stack is not Next.js and Supabase?** The audit and the fix patterns are stack-agnostic. The CLI checks the patterns it can see; the RLS pack is Supabase-specific.
 
 ## CAREER & TEACHING
 
@@ -989,53 +1199,45 @@ Contents:
 
 **Do the emails work in dark mode?** The design uses a dark panel with fixed light body text, which is the standard dark-safe pattern; the guide covers the details.
 
-## SHIP SAFE
+## RUN SOLO
 
-### The 15-Point Vibe-Code Safety Check
+### Freelance 1099 & Tax Planner
 
-- url: https://probiex.gumroad.com/l/free-vibe-code-safety-check
-- category: SHIP SAFE
-- format: FREE · 15 CHECKS
-- audience: Anyone shipping an AI-built app who has not run a security review yet. Free, no account, no card. Gumroad asks for an email to deliver the file.
-- free: yes
-- next: https://probiex.gumroad.com/l/vibe-code-rescue (adds the 60-point audit, 17-check CLI, 15 fix prompts, the RLS policy pack, and three runbooks)
-
-Fifteen ordered security checks for AI-built apps, with a pass condition and a one-line fix for each, plus the five-check scanner command.
-
-Contents:
-- 15 checks across secrets, data access, payments, input, and operations
-- A pass condition and a one-line fix for every check
-- The two-account authorization test that finds the most bugs
-- The vibe-check --lite command for the five automated checks
-- A score band that tells you whether to launch, fix, or stop
-
-**Is this the whole kit?** No. It is the 15-point short list. The full <a href="https://probiex.gumroad.com/l/vibe-code-rescue">Vibe-Code Rescue Kit</a> adds the 60-point audit, the 17-check scanner, 15 fix prompts, the RLS pack, and three runbooks.
-
-**How long does it take?** About 30 minutes for a small app, plus the fixes.
-
-### The Vibe-Code Rescue Kit
-
-- url: https://probiex.gumroad.com/l/vibe-code-rescue
-- category: SHIP SAFE
-- format: CLI + 60-POINT AUDIT
-- audience: Solo founders and small teams who built with AI and are about to charge money, not security teams with a budget.
+- url: https://probiex.gumroad.com/l/freelance-1099-tax
+- category: RUN SOLO
+- format: MODEL + CHECKLIST
+- audience: Freelancers, 1099 independent contractors, and single-member LLC solopreneurs.
 - free: no
 
-A 60-point audit, 17-check scanner, 15 fix prompts, RLS policies, and three launch runbooks for AI-built apps.
+An estimated quarterly tax calculation model, comprehensive deduction checklist, and invoice legal clauses for freelancers and solo operators.
 
 Contents:
-- The 60-point Launch Safety Audit (XLSX) with severity weights, evidence fields, scoring, and a ranked fix order
-- vibe-check, a read-only CLI with 17 checks, JSON output, and a --lite five-check mode
-- 15 copy-paste fix prompts for Claude, Cursor, or any AI editor, each with a verification step
-- A Supabase RLS policy pack for profiles, teams, projects, invoices, files, API keys, and storage
-- Three runbooks: pre-launch T-7 to T+7, incident response for the first 24 hours, and a 30-day monitoring plan
-- A full worked example: a fictional app scored 31/100, fixed over four weeks, rescored 92/100
+- 5-step quarterly estimated tax calculation model and withholding percentage guide
+- 50-point deduction audit checklist (home office, gear, software, health insurance)
+- Quarterly IRS due date calendar and electronic payment setup instructions
+- W-9 and invoice compliance clauses to avoid client withholding errors
 
-**What do I get, and in what format?** A ZIP with the PDF guide, the XLSX audit, the Node CLI, the fix prompts, the SQL pack, the runbooks, and the worked example.
+**What do I get, and in what format?** Calculation models, markdown checklists, calendar reference, and invoice templates.
 
-**Does the scanner upload my code?** No. It reads files locally and prints a report. No API calls, no telemetry, no writes.
+**Is this tax advice?** No. It is an operational planning model and checklist to prepare your numbers for an accountant.
 
-**Is this a penetration test?** No. It finds the common, expensive mistakes in AI-built apps. It does not certify compliance or replace a qualified review.
+### Offer & Pricing Stress Test
 
-**What if my stack is not Next.js and Supabase?** The audit and the fix patterns are stack-agnostic. The CLI checks the patterns it can see; the RLS pack is Supabase-specific.
+- url: https://probiex.gumroad.com/l/offer-pricing-stress-test
+- category: RUN SOLO
+- format: 60-PT SCORECARD + SCRIPTS
+- audience: SaaS founders, consultants, and creators setting or raising prices.
+- free: no
+
+A 60-point offer diagnostic scorecard, 20 pricing objection scripts, and a 3-tier packaging rebuild system for SaaS.
+
+Contents:
+- 60-point offer diagnostic scorecard across 5 critical dimensions
+- 20 verbatim objection handling scripts for pricing pushback and discount requests
+- Pricing sensitivity and volume drop absorption math worksheet
+- 3-tier Good/Better/Best packaging restructuring templates
+
+**What do I get, and in what format?** Scorecard markdown, script swipe file, and pricing model worksheets.
+
+**How long does the audit take?** Under 30 minutes to complete the full 60-point diagnostic.
 

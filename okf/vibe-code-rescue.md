@@ -4,7 +4,7 @@ category: SHIP SAFE
 format: CLI + 60-POINT AUDIT
 url: https://probiex.gumroad.com/l/vibe-code-rescue
 audience: Solo founders and small teams who built with AI and are about to charge money, not security teams with a budget.
-updated: 2026-11-14
+updated: 2026-11-16
 ---
 
 A 60-point audit, 17-check scanner, 15 fix prompts, RLS policies, and three launch runbooks for AI-built apps.

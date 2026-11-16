@@ -10,9 +10,9 @@
 # Gumroad page slugs cannot contain a dot, so the literal /ads.txt path is
 # served by the AI hub, not Gumroad. The Gumroad mirror has the same content.
 #
-# Content hash: b1ba244b3d3d7efb
+# Content hash: 3fa2d6ff09bb0a07
 # Last updated: 2026-11-13
-# Catalog: 50 live, 11 draft, 14 deep briefs
+# Catalog: 60 live, 1 draft, 14 deep briefs
 #
 # HOW TO USE WITH AI
 # 1. Paste this file into the model, or give it the canonical URL.
@@ -248,8 +248,8 @@ objections:
   - "I can find this with a free checklist." -> The free 15-point check is the first slice. The paid kit adds the 60-point audit, the 17-check CLI, the fix prompts, the RLS pack, and the runbooks.
 cross_sell:
   - The 15-Point Vibe-Code Safety Check (https://probiex.gumroad.com/l/free-vibe-code-safety-check)
-  - The Trust & Legal Pages Pack (draft; do not link before launch)
-  - The Security Questionnaire Vault (draft; do not link before launch)
+  - The Trust & Legal Pages Pack (https://probiex.gumroad.com/l/trust-legal-pages)
+  - The Security Questionnaire Vault (https://probiex.gumroad.com/l/security-questionnaire)
   - The 2027 Solo Business Plan (draft; do not link before launch)
 cta: Start with the free 15-point check. If it finds more than two fails, the kit is the fix.
 do_not_say:
@@ -305,8 +305,8 @@ objections:
   - "Is this enough to secure the app?" -> No. It covers the first 15 common fails. The 60-point audit, the CLI, and the RLS pack are the deeper pass.
 cross_sell:
   - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
-  - The Trust & Legal Pages Pack (draft; do not link before launch)
-  - The Security Questionnaire Vault (draft; do not link before launch)
+  - The Trust & Legal Pages Pack (https://probiex.gumroad.com/l/trust-legal-pages)
+  - The Security Questionnaire Vault (https://probiex.gumroad.com/l/security-questionnaire)
 cta: Download the free check. If it finds more than two fails, the Rescue Kit is the fix.
 do_not_say:
   - no email
@@ -317,6 +317,153 @@ do_not_say:
   - 100% safe
   - hacker-proof
 last_updated: 2026-10-28
+source: product description + launch docs
+
+### trust-legal-pages
+name: The Trust & Legal Pages Pack
+url: https://probiex.gumroad.com/l/trust-legal-pages
+status: live
+cluster: Ship Safe
+launch_date: 2026-11-16
+price_band: core
+audience: Solo founders shipping a paid app, especially AI-built apps, without a lawyer on call.
+problem: The checkout, privacy page, terms, cookie notice, refund policy, AI disclosure, and subprocessor list are missing or copied. Buyers and enterprise reviewers check them before they pay.
+promise: Six plain-English pages with annotations, fill-in brackets, and a publish checklist. A starting point you can hand to a lawyer, not a substitute for one.
+proof:
+  - No hard stat. Use the contents and the buyer's checklist, not a traction claim.
+inside:
+  - Six markdown pages: Privacy Policy, Terms of Service, Cookie Notice, Refund Policy, AI Disclosure, and Subprocessors Table
+  - A data-inventory worksheet mapping your actual data flows to clauses
+  - A 24-point pre-publish checklist covering footer wiring, checkout consent, and deletion paths
+faq:
+  - Q: What do I get, and in what format?
+    A: Six annotated Markdown files, the data inventory worksheet, and the publish checklist.
+  - Q: Is this legal advice?
+    A: No. It is an annotated starting point for you to customize and have reviewed by legal counsel.
+angles:
+  - Your checkout is missing the pages buyers check.
+  - A privacy policy is not a copy-paste from a competitor.
+  - The AI disclosure your app needs before the next enterprise review.
+  - The six legal pages a solo app needs, in publish order.
+  - A lawyer is expensive. Starting from a blank page is more expensive.
+hooks:
+  - The buyer checked your footer before they checked your features.
+  - A copied privacy policy is a liability with a nice font.
+  - The enterprise review starts before the demo.
+objections:
+  - "I am not a lawyer." -> The pack is a starting point, not legal advice. It gives you the structure to review with a lawyer.
+  - "Is this GDPR compliant?" -> It gives the structure. Compliance depends on your data flows and jurisdiction. Have a qualified reviewer check it.
+  - "Can I just copy a template?" -> You can. The pack explains what each clause is doing so you can tell when the template is wrong for your app.
+  - "I am too small for this." -> The pages are checked by buyers and payment processors before size matters.
+cross_sell:
+  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
+  - The Security Questionnaire Vault (https://probiex.gumroad.com/l/security-questionnaire)
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+cta: Get the six pages live before the next checkout.
+do_not_say:
+  - lawyer-approved
+  - GDPR compliant
+  - legal advice
+  - guaranteed to protect you
+  - one-size-fits-all
+last_updated: 2026-11-13
+source: product description + launch docs
+
+### security-questionnaire
+name: The Security Questionnaire Vault
+url: https://probiex.gumroad.com/l/security-questionnaire
+status: live
+cluster: Ship Safe
+launch_date: 2026-11-16
+price_band: core
+audience: Solo founders and small teams selling B2B. The first enterprise buyer sends an 80-question security review.
+problem: The deal stalls because the founder answers the same security questions from scratch, inconsistently, and without evidence.
+promise: An 80-question answer bank, an editable DOCX, an evidence index, and a 30-minute prep checklist. Walk into the review with the answers already organized.
+proof:
+  - No hard stat. Use the 80-question scope and the evidence index, not a close-rate claim.
+inside:
+  - 80 enterprise answers covering access control, encryption, infrastructure, incident response, and vendors
+  - Master evidence index mapping answers to standard compliance documents
+  - 30-minute security review prep checklist for fast turnarounds
+faq:
+  - Q: What do I get, and in what format?
+    A: Categorized Markdown answer banks, evidence indexing guide, and response checklist.
+  - Q: Does it match standard CAIQ/SIG/VSA questions?
+    A: Yes. Covers the core questions asked across major vendor assessment frameworks.
+angles:
+  - The security questionnaire is the deal. The demo is not.
+  - Answer 80 questions in 30 minutes because the evidence was already indexed.
+  - The evidence index is the real product. The answers are the cover letter.
+  - Your first enterprise buyer will ask for the same 80 questions. Build the answers once.
+hooks:
+  - The security questionnaire is where the deal stalls.
+  - The demo was great. The 80-question review is the actual sale.
+  - Your evidence index is the answer key.
+objections:
+  - "We are too small for enterprise." -> The questionnaire is the gate. The pack makes you look prepared before the first call.
+  - "Is this a compliance certification?" -> No. It is an answer bank and evidence index. It does not certify SOC 2 or ISO 27001.
+  - "We already have a wiki." -> A wiki is not an evidence index. The pack maps each answer to the artifact a reviewer will ask for.
+  - "Can we just copy answers from another company?" -> No. The answers must match your stack, your data, and your controls.
+cross_sell:
+  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
+  - The Trust & Legal Pages Pack (https://probiex.gumroad.com/l/trust-legal-pages)
+  - AI Agent Production System (https://probiex.gumroad.com/l/ai-agent-production)
+cta: Build the evidence index before the next questionnaire.
+do_not_say:
+  - SOC 2 certified
+  - ISO 27001 compliant
+  - pass any security review
+  - guaranteed enterprise deal
+last_updated: 2026-11-13
+source: product description + launch docs
+
+### ai-agent-production
+name: AI Agent Production System
+url: https://probiex.gumroad.com/l/ai-agent-production
+status: live
+cluster: Ship Safe
+launch_date: 2026-11-16
+price_band: core
+audience: Solo founders and small teams putting an AI agent into production, not a demo.
+problem: Agents demo well, then fail on tool permissions, cost ceilings, evals, and incidents. The demo is not the product.
+promise: An agent eval harness, a tool-permission model, a cost ceiling, an incident runbook, and three production patterns.
+proof:
+  - No hard stat. Use the eval harness, the permission model, and the incident runbook, not a reliability claim.
+inside:
+  - Zero-dependency Node.js agent evaluation CLI (agent-eval) with regex and schema grading
+  - 15 pre-built benchmark test scenarios covering tool routing and prompt injection defense
+  - Tool permission guardrail architecture and human-in-the-loop patterns
+  - Emergency incident runbooks and cost circuit breaker implementations
+faq:
+  - Q: What do I get, and in what format?
+    A: Node.js test harness code, JSON benchmark suites, and markdown architecture guides.
+  - Q: Can I integrate this into CI/CD?
+    A: Yes. The agent-eval CLI exits with standard status codes (0 on pass, 1 on regression) for GitHub Actions.
+angles:
+  - Your agent works in the demo. Production is a different product.
+  - The tool-permission model before the agent gets a credit card.
+  - An agent without an eval harness is a liability with a chat window.
+  - The cost ceiling is a product decision, not an infrastructure setting.
+hooks:
+  - The demo agent is not the production agent.
+  - The agent got a credit card before it got a permission model.
+  - An eval harness is cheaper than an incident.
+objections:
+  - "I am not an ML engineer." -> The patterns are for builders using APIs, not training models. You need the eval, permission, and runbook layer.
+  - "Is this a framework?" -> No. It is the production layer around your stack: evals, permissions, cost, and incidents.
+  - "My agent is internal." -> Internal agents still spend money, touch data, and fail. The runbook matters more, not less.
+cross_sell:
+  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
+  - The Security Questionnaire Vault (https://probiex.gumroad.com/l/security-questionnaire)
+  - GEO Operations System (https://probiex.gumroad.com/l/geo-operations-system)
+cta: Put a cost ceiling and a permission model on the agent before it ships.
+do_not_say:
+  - autonomous
+  - guaranteed safe
+  - replaces your team
+  - works with any model
+  - no-code AI employee
+last_updated: 2026-11-13
 source: product description + launch docs
 
 ### Cluster: Get Found
@@ -374,6 +521,346 @@ do_not_say:
   - secret prompt
   - hack the algorithm
 last_updated: 2026-10-22
+source: product description + launch docs
+
+### warm-outbound
+name: The Warm Outbound Engine
+url: https://probiex.gumroad.com/l/warm-outbound
+status: live
+cluster: Get Found
+launch_date: 2026-11-16
+price_band: core
+audience: Founders with a product and no repeatable pipeline, and service businesses that need warm conversations.
+problem: Cold messages get ignored. Warm signals, public moments when someone says they need exactly what you sell, convert. Most founders do not monitor them.
+promise: Trigger monitoring, a 5-touch sequence, 40 reply templates, and a weekly pipeline review. Ten warm conversations a week instead of 1,800 cold sends.
+proof:
+  - The existing First 100 Customers playbook cites 15-25% response rates and 30 contextual touches versus 1,800 generic DMs. Present these as the playbook's sample, not a guarantee.
+inside:
+  - 8 high-converting intent triggers and free signal-monitoring workflows
+  - The 18-day 5-touch multi-channel sequence (Email + LinkedIn + value drops)
+  - 40 trigger-specific outreach templates that never feel like automated spam
+  - Weekly pipeline review template and conversion tracking scorecard
+faq:
+  - Q: What do I get, and in what format?
+    A: Sequence guides, copy templates, signal checklists, and tracker templates.
+  - Q: Does this require paid data tools?
+    A: No. All recommended signal monitoring methods can be executed with free public alerts.
+angles:
+  - Stop sending 1,800 cold DMs. Find 30 warm signals instead.
+  - The trigger phrases that mean 'I need this now'.
+  - Warm signals beat cold outreach because the buyer already said the problem out loud.
+  - A weekly pipeline review is the whole system. The templates are the easy part.
+hooks:
+  - 1,800 cold DMs lost to 30 contextual touches.
+  - The buyer already said they need it. You just were not listening.
+  - Cold outreach is not dead. Cold lists are.
+objections:
+  - "I do not have an audience." -> The triggers are public. You do not need followers to find someone asking for the thing you sell.
+  - "Is this spam?" -> It is a reply to a public signal, not a blast. The sequence starts with the signal and stays specific.
+  - "I tried cold email." -> This is not a bigger list. It is a smaller list of people who already described the problem.
+cross_sell:
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+  - SaaS Activation & Retention OS (https://probiex.gumroad.com/l/activation-retention)
+cta: Find 10 warm signals this week.
+do_not_say:
+  - guaranteed reply rate
+  - spam
+  - scrape LinkedIn
+  - automate DMs (unless compliant)
+  - 10x pipeline
+last_updated: 2026-11-13
+source: product description + launch docs
+
+### x-growth-playbook
+name: The X / Twitter Growth Playbook
+url: https://probiex.gumroad.com/l/x-growth-playbook
+status: live
+cluster: Get Found
+launch_date: 2026-11-16
+price_band: core
+audience: Founders, creators, and solo operators trying to build organic distribution on X without ad spend or spam.
+problem: Founders post into the void with zero distribution, get distracted by vanity impressions that never convert, or get shadowbanned using outdated engagement hacks.
+promise: An organic distribution system for founders: 50 hook frameworks, a 45-minute daily cadence, high-authority reply tactics, 30-day content calendar, and launch thread teardowns.
+proof:
+  - Over 80% of readers decide to read or scroll based on the first line. Hook engineering determines reach.
+inside:
+  - 50 high-converting hook formulas across five proven psychological categories
+  - The 3-sprint 45-minute daily operating cadence
+  - 30-day plug-and-play content calendar with specific angles and hooks
+  - Product launch thread teardowns and templates for digital products and SaaS
+faq:
+  - Q: What do I get, and in what format?
+    A: Markdown playbook files, swipe files, and copy templates.
+  - Q: Does this require existing followers?
+    A: No. The reply engine is specifically designed to borrow attention and grow from zero.
+angles:
+  - You do not have a product problem; you have a distribution bottleneck.
+  - Spending 4 hours on social media is a distraction. 45 disciplined minutes is an engine.
+  - High-authority replies borrow attention before you have followers.
+  - Turn impressions into profile visits, email subscribers, and Gumroad customers.
+hooks:
+  - Stop posting product updates into the void.
+  - The 45-minute daily X operating routine for founders.
+  - A launch thread that actually converts.
+objections:
+  - "I have 0 followers." -> The reply strategy is built specifically for accounts under 500 followers to borrow tier-1 attention.
+  - "Does this use engagement pods?" -> No. Engagement pods get flagged by modern recommendation algorithms. This uses genuine value and dwell time.
+  - "How much time does it take?" -> 45 minutes a day split into three focused sprints.
+cross_sell:
+  - Compliant LinkedIn Automation Stack (https://probiex.gumroad.com/l/linkedin-automation-stack)
+  - Cold Email Deliverability & DNS Kit (https://probiex.gumroad.com/l/cold-email-deliverability-kit)
+  - The Warm Outbound Engine (https://probiex.gumroad.com/l/warm-outbound)
+cta: Build your organic audience before your next product launch.
+do_not_say:
+  - go viral guaranteed
+  - 100k followers overnight
+  - passive income
+  - growth hack
+last_updated: 2026-11-13
+source: product description + launch docs
+
+### linkedin-automation-stack
+name: Compliant LinkedIn Automation Stack
+url: https://probiex.gumroad.com/l/linkedin-automation-stack
+status: live
+cluster: Get Found
+launch_date: 2026-11-16
+price_band: core
+audience: Solo founders and consultants who want steady LinkedIn distribution without risking account bans or spending hours manually copying posts.
+problem: Chrome extensions and unofficial scrapers get accounts restricted. Manual posting takes 10+ hours a week. Founders need safe, compliant scheduling.
+promise: An official REST API-compliant CLI scheduler, n8n workflow templates, and rate-limit guides to automate distribution safely.
+proof:
+  - Uses 100% official LinkedIn Developer Community Management APIs with zero browser-fingerprinting risk.
+inside:
+  - Zero-dependency Node.js CLI scheduler with dry-run verification mode
+  - Production-ready n8n workflow connecting Airtable or Notion to LinkedIn
+  - Compliance, rate-limiting, and OAuth scope safety guide
+  - Content repurposing framework to turn articles into high-dwell-time posts
+faq:
+  - Q: What do I get, and in what format?
+    A: Node.js CLI code, n8n JSON workflow templates, and setup documentation.
+  - Q: Is this safe from LinkedIn bans?
+    A: Yes. It uses only official LinkedIn developer REST APIs.
+angles:
+  - Chrome extension bots get banned. Official APIs run forever.
+  - Automate your LinkedIn queue without sharing your session cookies.
+  - One n8n workflow replaces a monthly social scheduling SaaS.
+  - Recycle high-performing content automatically and safely.
+hooks:
+  - The safe way to automate LinkedIn in 2026.
+  - Stop risking your personal LinkedIn account with shady extensions.
+  - Self-hosted LinkedIn publishing with zero monthly fees.
+objections:
+  - "Will my account get banned?" -> No. This uses official OAuth 2.0 REST APIs approved by LinkedIn Developer Terms.
+  - "Do I need coding skills?" -> The CLI runs with one command; the n8n template imports with one click.
+  - "Can I schedule images and carousels?" -> Yes, the guides and payloads support text, links, and media URNs.
+cross_sell:
+  - The X / Twitter Growth Playbook (https://probiex.gumroad.com/l/x-growth-playbook)
+  - The Warm Outbound Engine (https://probiex.gumroad.com/l/warm-outbound)
+  - Notion Content Calendar (https://probiex.gumroad.com/l/notion-content-calendar)
+cta: Automate your LinkedIn publishing pipeline safely.
+do_not_say:
+  - scrape leads
+  - bypass LinkedIn limits
+  - mass connect bot
+  - unlimited DMs
+last_updated: 2026-11-13
+source: product description + launch docs
+
+### cold-email-deliverability-kit
+name: Cold Email Deliverability & DNS Kit
+url: https://probiex.gumroad.com/l/cold-email-deliverability-kit
+status: live
+cluster: Get Found
+launch_date: 2026-11-16
+price_band: core
+audience: Founders and outbound operators sending cold or transactional email whose open rates dropped after Google and Yahoo's strict sender requirements.
+problem: Cold emails land in spam because of broken DMARC policies, missing SPF includes, or misaligned DKIM signatures.
+promise: A zero-dependency DNS diagnostic CLI tool (inbox-check), copy-paste DNS records, and a 14-day domain warmup protocol.
+proof:
+  - Audits MX, SPF syntax, DMARC alignment, and DKIM selector presence in under 3 seconds using native DNS.
+inside:
+  - inbox-check: Native Node.js CLI tool auditing MX, SPF syntax, DMARC policy, and DKIM
+  - Copy-paste DNS templates for Google Workspace, Microsoft 365, Postmark, and Resend
+  - Google and Yahoo bulk sender mandate compliance guide (<0.1% spam rate rules)
+  - 14-day secondary domain warmup protocol
+faq:
+  - Q: What do I get, and in what format?
+    A: The inbox-check CLI script, DNS copy-paste markdown templates, and compliance guides.
+  - Q: Does it support multiple email providers?
+    A: Yes. Includes records for Google Workspace, M365, Resend, and Postmark.
+angles:
+  - If your open rate is under 20%, you have a DNS problem, not a copy problem.
+  - Google and Yahoo reject unauthenticated domains. Run this 3-second audit.
+  - Never put two SPF records on one domain. Fix the syntax error in 60 seconds.
+  - The 14-day warmup protocol that keeps outbound domains out of the spam folder.
+hooks:
+  - Your cold emails are going straight to spam.
+  - The 5-minute DNS audit every outbound sender needs in 2026.
+  - Why your Google Workspace domain got flagged.
+objections:
+  - "I already have an SPF record." -> Having two SPF records or exceeding 10 lookups causes a PermError that Google treats as spam.
+  - "Does this work on my domain registrar?" -> Yes, copy-paste templates are included for Cloudflare, Namecheap, GoDaddy, and AWS Route 53.
+  - "Is this an email sending service?" -> No. It is the diagnostic tool and DNS configuration guide to make whatever service you use land in inboxes.
+cross_sell:
+  - The Warm Outbound Engine (https://probiex.gumroad.com/l/warm-outbound)
+  - The Transactional Email Kit (https://probiex.gumroad.com/l/transactional-email-kit)
+  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
+cta: Check your domain DNS health before your next send.
+do_not_say:
+  - guaranteed 100% open rate
+  - spam blast
+  - scrape emails
+  - bypass spam filters
+last_updated: 2026-11-13
+source: product description + launch docs
+
+### activation-retention
+name: SaaS Activation & Retention OS
+url: https://probiex.gumroad.com/l/activation-retention
+status: live
+cluster: Get Found
+launch_date: 2026-11-16
+price_band: core
+audience: SaaS founders with signups but no activation, and small teams watching MRR instead of behavior.
+problem: Signups do not reach the aha moment. Churn is silent until the cancel. The dashboard shows MRR, not the behavior that predicts it.
+promise: An aha-moment map, a 7-day activation sequence, churn signals, and a weekly retention review.
+proof:
+  - 81% of forms get abandoned (landing-page industry sample). The first activation gap often starts before the account exists.
+inside:
+  - 3-step framework to discover and isolate your product's true Aha Moment
+  - 7-day behavior-triggered onboarding email sequence
+  - 10-point behavioral churn signal scorecard to detect cancellations 14 days early
+  - 15-minute weekly cohort retention review template
+faq:
+  - Q: What do I get, and in what format?
+    A: Aha-moment blueprints, onboarding email copy, scoring rubrics, and review templates.
+  - Q: Does it require complex product analytics?
+    A: No. Works with simple event logs or standard analytics platforms.
+angles:
+  - Your signups are not activated. The dashboard will not tell you.
+  - The day-7 churn signal is behavioral, not financial.
+  - The permission-to-close email that saves the account before the cancel.
+  - A weekly retention review beats a monthly MRR screenshot.
+hooks:
+  - The signup is not the activation.
+  - Churn is silent until the cancel.
+  - The dashboard is green. The account is already gone.
+objections:
+  - "I do not have enough users." -> The signals work at small N. Start with the next 10 signups.
+  - "Is this a CRM?" -> No. It is the aha-moment map and the sequence. Use your existing email tool.
+  - "My churn is low." -> Low churn can hide a silent activation problem. Check the day-7 behavior before the cancel.
+cross_sell:
+  - The Warm Outbound Engine (https://probiex.gumroad.com/l/warm-outbound)
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+  - The Landing Page Conversion Audit (https://probiex.gumroad.com/l/landing-page-conversion-audit)
+cta: Map the aha moment before the next signup.
+do_not_say:
+  - guaranteed retention
+  - zero churn
+  - this will save every account
+  - growth hack
+last_updated: 2026-11-13
+source: product description + launch docs
+
+### Cluster: Run Solo
+
+### offer-pricing-stress-test
+name: Offer & Pricing Stress Test
+url: https://probiex.gumroad.com/l/offer-pricing-stress-test
+status: live
+cluster: Run Solo
+launch_date: 2026-11-16
+price_band: entry
+audience: Solo founders with an offer that is not converting, and freelancers who underprice.
+problem: The price is a guess, the offer is vague, and every objection becomes a discount. The problem is usually the offer, not the price.
+promise: An offer scorecard, 20 pricing objections, a three-tier rebuild, and a 10-minute test script. Find the value gap before changing the number.
+proof:
+  - Median B2B SaaS pages convert at 3.8%; top performers convert at 10-15% (landing-page industry sample). The offer and the page are part of the same conversion problem.
+inside:
+  - 60-point offer diagnostic scorecard across 5 critical dimensions
+  - 20 verbatim objection handling scripts for pricing pushback and discount requests
+  - Pricing sensitivity and volume drop absorption math worksheet
+  - 3-tier Good/Better/Best packaging restructuring templates
+faq:
+  - Q: What do I get, and in what format?
+    A: Scorecard markdown, script swipe file, and pricing model worksheets.
+  - Q: How long does the audit take?
+    A: Under 30 minutes to complete the full 60-point diagnostic.
+angles:
+  - Your price is not the problem. The offer is.
+  - 20 objections that kill a low-ticket sale, and the sentence that answers each one.
+  - Rebuild the three tiers in an afternoon. The middle tier is not the default.
+  - The 10-minute test before the next discount.
+hooks:
+  - The discount is a symptom. The offer is the cause.
+  - If the buyer cannot repeat the offer in one sentence, the price is not the issue.
+  - Twenty objections. One scorecard. No more guessing.
+objections:
+  - "I cannot raise prices." -> The stress test finds the value gap first. The price follows the offer, not the other way around.
+  - "Is this generic pricing advice?" -> It ends in a scorecard, a three-tier rebuild, and a test script you can run this week.
+  - "My buyers are price-sensitive." -> Price sensitivity is often a value-clarity problem. The objections section shows what to fix before discounting.
+cross_sell:
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+  - The Landing Page Conversion Audit (https://probiex.gumroad.com/l/landing-page-conversion-audit)
+  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
+cta: Run the 10-minute test before the next discount.
+do_not_say:
+  - charge more
+  - guaranteed conversion lift
+  - pricing psychology hack
+  - this will 10x your revenue
+last_updated: 2026-11-13
+source: product description + launch docs
+
+### freelance-1099-tax
+name: Freelance 1099 & Tax Planner
+url: https://probiex.gumroad.com/l/freelance-1099-tax
+status: live
+cluster: Run Solo
+launch_date: 2026-11-16
+price_band: core
+audience: Freelancers and solo founders with 1099 income, especially first-year taxes.
+problem: Quarterly taxes, deductions, and invoice language are a guess. The result is penalties, cash-flow surprises, and invoices that invite a late payment.
+promise: A quarterly tax calendar, an estimated-payment calculator, a deduction checklist, and invoice language. A planning system, not tax advice.
+proof:
+  - 59% of small-business invoices run 30 or more days late; small businesses waited 29.3 days on average in Q2 2026 (Intuit QuickBooks). The invoice language is part of the cash-flow problem.
+inside:
+  - 5-step quarterly estimated tax calculation model and withholding percentage guide
+  - 50-point deduction audit checklist (home office, gear, software, health insurance)
+  - Quarterly IRS due date calendar and electronic payment setup instructions
+  - W-9 and invoice compliance clauses to avoid client withholding errors
+faq:
+  - Q: What do I get, and in what format?
+    A: Calculation models, markdown checklists, calendar reference, and invoice templates.
+  - Q: Is this tax advice?
+    A: No. It is an operational planning model and checklist to prepare your numbers for an accountant.
+angles:
+  - The quarterly tax date you miss every year.
+  - Your invoice is missing the tax and late-payment language.
+  - The deduction checklist for solo founders who file a 1099.
+  - A tax reserve is a cash-flow system, not an accounting chore.
+hooks:
+  - The quarterly tax date is not a surprise. The calendar is missing.
+  - Your invoice invites a late payment.
+  - The deduction is not the hard part. The record is.
+objections:
+  - "Is this tax advice?" -> No. It is a planning system. Confirm your rate and dates with an accountant.
+  - "I have a day job." -> The calendar covers side income too. The estimated-payment math starts from the extra income.
+  - "I already use accounting software." -> The software records the past. The pack plans the next four dates.
+cross_sell:
+  - The 2027 Solo Business Plan (draft; do not link before launch)
+  - Offer & Pricing Stress Test (https://probiex.gumroad.com/l/offer-pricing-stress-test)
+cta: Put the four quarterly dates in your calendar.
+do_not_say:
+  - tax advice
+  - IRS-approved
+  - guaranteed deduction
+  - you will owe $X
+  - audit-proof
+last_updated: 2026-11-13
 source: product description + launch docs
 
 ## 3.2 Draft: ready for launch day
@@ -445,491 +932,6 @@ do_not_say:
   - the only plan you need
   - set it and forget it
 last_updated: 2026-10-28
-source: product description + launch docs
-
-### trust-legal-pages
-name: The Trust & Legal Pages Pack
-url: https://probiex.gumroad.com/l/trust-legal-pages
-status: planned for 2026-12-09; not live; do not link
-cluster: Ship Safe
-launch_date: 2026-12-09
-price_band: core
-audience: Solo founders shipping a paid app, especially AI-built apps, without a lawyer on call.
-problem: The checkout, privacy page, terms, cookie notice, refund policy, AI disclosure, and subprocessor list are missing or copied. Buyers and enterprise reviewers check them before they pay.
-promise: Six plain-English pages with annotations, fill-in brackets, and a publish checklist. A starting point you can hand to a lawyer, not a substitute for one.
-proof:
-  - No hard stat. Use the contents and the buyer's checklist, not a traction claim.
-inside:
-  - Six markdown pages: Privacy Policy, Terms of Service, Cookie Notice, Refund Policy, AI Disclosure, and Subprocessors Table
-  - A data-inventory worksheet mapping your actual data flows to clauses
-  - A 24-point pre-publish checklist covering footer wiring, checkout consent, and deletion paths
-faq:
-  - Q: What do I get, and in what format?
-    A: Six annotated Markdown files, the data inventory worksheet, and the publish checklist.
-  - Q: Is this legal advice?
-    A: No. It is an annotated starting point for you to customize and have reviewed by legal counsel.
-angles:
-  - Your checkout is missing the pages buyers check.
-  - A privacy policy is not a copy-paste from a competitor.
-  - The AI disclosure your app needs before the next enterprise review.
-  - The six legal pages a solo app needs, in publish order.
-  - A lawyer is expensive. Starting from a blank page is more expensive.
-hooks:
-  - The buyer checked your footer before they checked your features.
-  - A copied privacy policy is a liability with a nice font.
-  - The enterprise review starts before the demo.
-objections:
-  - "I am not a lawyer." -> The pack is a starting point, not legal advice. It gives you the structure to review with a lawyer.
-  - "Is this GDPR compliant?" -> It gives the structure. Compliance depends on your data flows and jurisdiction. Have a qualified reviewer check it.
-  - "Can I just copy a template?" -> You can. The pack explains what each clause is doing so you can tell when the template is wrong for your app.
-  - "I am too small for this." -> The pages are checked by buyers and payment processors before size matters.
-cross_sell:
-  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
-  - The Security Questionnaire Vault (draft; do not link before launch)
-  - The 2027 Solo Business Plan (draft; do not link before launch)
-cta: Get the six pages live before the next checkout.
-do_not_say:
-  - lawyer-approved
-  - GDPR compliant
-  - legal advice
-  - guaranteed to protect you
-  - one-size-fits-all
-last_updated: 2026-11-13
-source: product description + launch docs
-
-### security-questionnaire
-name: The Security Questionnaire Vault
-url: https://probiex.gumroad.com/l/security-questionnaire
-status: planned for 2026-12-23; not live; do not link
-cluster: Ship Safe
-launch_date: 2026-12-23
-price_band: core
-audience: Solo founders and small teams selling B2B. The first enterprise buyer sends an 80-question security review.
-problem: The deal stalls because the founder answers the same security questions from scratch, inconsistently, and without evidence.
-promise: An 80-question answer bank, an editable DOCX, an evidence index, and a 30-minute prep checklist. Walk into the review with the answers already organized.
-proof:
-  - No hard stat. Use the 80-question scope and the evidence index, not a close-rate claim.
-inside:
-  - 80 enterprise answers covering access control, encryption, infrastructure, incident response, and vendors
-  - Master evidence index mapping answers to standard compliance documents
-  - 30-minute security review prep checklist for fast turnarounds
-faq:
-  - Q: What do I get, and in what format?
-    A: Categorized Markdown answer banks, evidence indexing guide, and response checklist.
-  - Q: Does it match standard CAIQ/SIG/VSA questions?
-    A: Yes. Covers the core questions asked across major vendor assessment frameworks.
-angles:
-  - The security questionnaire is the deal. The demo is not.
-  - Answer 80 questions in 30 minutes because the evidence was already indexed.
-  - The evidence index is the real product. The answers are the cover letter.
-  - Your first enterprise buyer will ask for the same 80 questions. Build the answers once.
-hooks:
-  - The security questionnaire is where the deal stalls.
-  - The demo was great. The 80-question review is the actual sale.
-  - Your evidence index is the answer key.
-objections:
-  - "We are too small for enterprise." -> The questionnaire is the gate. The pack makes you look prepared before the first call.
-  - "Is this a compliance certification?" -> No. It is an answer bank and evidence index. It does not certify SOC 2 or ISO 27001.
-  - "We already have a wiki." -> A wiki is not an evidence index. The pack maps each answer to the artifact a reviewer will ask for.
-  - "Can we just copy answers from another company?" -> No. The answers must match your stack, your data, and your controls.
-cross_sell:
-  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
-  - The Trust & Legal Pages Pack (draft; do not link before launch)
-  - AI Agent Production System (draft; do not link before launch)
-cta: Build the evidence index before the next questionnaire.
-do_not_say:
-  - SOC 2 certified
-  - ISO 27001 compliant
-  - pass any security review
-  - guaranteed enterprise deal
-last_updated: 2026-11-13
-source: product description + launch docs
-
-### offer-pricing-stress-test
-name: Offer & Pricing Stress Test
-url: https://probiex.gumroad.com/l/offer-pricing-stress-test
-status: planned for 2027-01-06; not live; do not link
-cluster: Run Solo
-launch_date: 2027-01-06
-price_band: entry
-audience: Solo founders with an offer that is not converting, and freelancers who underprice.
-problem: The price is a guess, the offer is vague, and every objection becomes a discount. The problem is usually the offer, not the price.
-promise: An offer scorecard, 20 pricing objections, a three-tier rebuild, and a 10-minute test script. Find the value gap before changing the number.
-proof:
-  - Median B2B SaaS pages convert at 3.8%; top performers convert at 10-15% (landing-page industry sample). The offer and the page are part of the same conversion problem.
-inside:
-  - 60-point offer diagnostic scorecard across 5 critical dimensions
-  - 20 verbatim objection handling scripts for pricing pushback and discount requests
-  - Pricing sensitivity and volume drop absorption math worksheet
-  - 3-tier Good/Better/Best packaging restructuring templates
-faq:
-  - Q: What do I get, and in what format?
-    A: Scorecard markdown, script swipe file, and pricing model worksheets.
-  - Q: How long does the audit take?
-    A: Under 30 minutes to complete the full 60-point diagnostic.
-angles:
-  - Your price is not the problem. The offer is.
-  - 20 objections that kill a low-ticket sale, and the sentence that answers each one.
-  - Rebuild the three tiers in an afternoon. The middle tier is not the default.
-  - The 10-minute test before the next discount.
-hooks:
-  - The discount is a symptom. The offer is the cause.
-  - If the buyer cannot repeat the offer in one sentence, the price is not the issue.
-  - Twenty objections. One scorecard. No more guessing.
-objections:
-  - "I cannot raise prices." -> The stress test finds the value gap first. The price follows the offer, not the other way around.
-  - "Is this generic pricing advice?" -> It ends in a scorecard, a three-tier rebuild, and a test script you can run this week.
-  - "My buyers are price-sensitive." -> Price sensitivity is often a value-clarity problem. The objections section shows what to fix before discounting.
-cross_sell:
-  - The 2027 Solo Business Plan (draft; do not link before launch)
-  - The Landing Page Conversion Audit (https://probiex.gumroad.com/l/landing-page-conversion-audit)
-  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
-cta: Run the 10-minute test before the next discount.
-do_not_say:
-  - charge more
-  - guaranteed conversion lift
-  - pricing psychology hack
-  - this will 10x your revenue
-last_updated: 2026-11-13
-source: product description + launch docs
-
-### warm-outbound
-name: The Warm Outbound Engine
-url: https://probiex.gumroad.com/l/warm-outbound
-status: planned for 2027-01-20; folds First 100 Customers and the Cold Outreach Reply Pack; not live; do not link
-cluster: Get Found
-launch_date: 2027-01-20
-price_band: core
-audience: Founders with a product and no repeatable pipeline, and service businesses that need warm conversations.
-problem: Cold messages get ignored. Warm signals, public moments when someone says they need exactly what you sell, convert. Most founders do not monitor them.
-promise: Trigger monitoring, a 5-touch sequence, 40 reply templates, and a weekly pipeline review. Ten warm conversations a week instead of 1,800 cold sends.
-proof:
-  - The existing First 100 Customers playbook cites 15-25% response rates and 30 contextual touches versus 1,800 generic DMs. Present these as the playbook's sample, not a guarantee.
-inside:
-  - 8 high-converting intent triggers and free signal-monitoring workflows
-  - The 18-day 5-touch multi-channel sequence (Email + LinkedIn + value drops)
-  - 40 trigger-specific outreach templates that never feel like automated spam
-  - Weekly pipeline review template and conversion tracking scorecard
-faq:
-  - Q: What do I get, and in what format?
-    A: Sequence guides, copy templates, signal checklists, and tracker templates.
-  - Q: Does this require paid data tools?
-    A: No. All recommended signal monitoring methods can be executed with free public alerts.
-angles:
-  - Stop sending 1,800 cold DMs. Find 30 warm signals instead.
-  - The trigger phrases that mean 'I need this now'.
-  - Warm signals beat cold outreach because the buyer already said the problem out loud.
-  - A weekly pipeline review is the whole system. The templates are the easy part.
-hooks:
-  - 1,800 cold DMs lost to 30 contextual touches.
-  - The buyer already said they need it. You just were not listening.
-  - Cold outreach is not dead. Cold lists are.
-objections:
-  - "I do not have an audience." -> The triggers are public. You do not need followers to find someone asking for the thing you sell.
-  - "Is this spam?" -> It is a reply to a public signal, not a blast. The sequence starts with the signal and stays specific.
-  - "I tried cold email." -> This is not a bigger list. It is a smaller list of people who already described the problem.
-cross_sell:
-  - First 100 Customers: Warm Signal Playbook (https://probiex.gumroad.com/l/first-100-customers)
-  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
-  - The 2027 Solo Business Plan (draft; do not link before launch)
-  - SaaS Activation & Retention OS (draft; do not link before launch)
-cta: Find 10 warm signals this week.
-do_not_say:
-  - guaranteed reply rate
-  - spam
-  - scrape LinkedIn
-  - automate DMs (unless compliant)
-  - 10x pipeline
-last_updated: 2026-11-13
-source: product description + launch docs
-
-### freelance-1099-tax
-name: Freelance 1099 & Tax Planner
-url: https://probiex.gumroad.com/l/freelance-1099-tax
-status: planned for 2027-02-03; not live; do not link
-cluster: Run Solo
-launch_date: 2027-02-03
-price_band: core
-audience: Freelancers and solo founders with 1099 income, especially first-year taxes.
-problem: Quarterly taxes, deductions, and invoice language are a guess. The result is penalties, cash-flow surprises, and invoices that invite a late payment.
-promise: A quarterly tax calendar, an estimated-payment calculator, a deduction checklist, and invoice language. A planning system, not tax advice.
-proof:
-  - 59% of small-business invoices run 30 or more days late; small businesses waited 29.3 days on average in Q2 2026 (Intuit QuickBooks). The invoice language is part of the cash-flow problem.
-inside:
-  - 5-step quarterly estimated tax calculation model and withholding percentage guide
-  - 50-point deduction audit checklist (home office, gear, software, health insurance)
-  - Quarterly IRS due date calendar and electronic payment setup instructions
-  - W-9 and invoice compliance clauses to avoid client withholding errors
-faq:
-  - Q: What do I get, and in what format?
-    A: Calculation models, markdown checklists, calendar reference, and invoice templates.
-  - Q: Is this tax advice?
-    A: No. It is an operational planning model and checklist to prepare your numbers for an accountant.
-angles:
-  - The quarterly tax date you miss every year.
-  - Your invoice is missing the tax and late-payment language.
-  - The deduction checklist for solo founders who file a 1099.
-  - A tax reserve is a cash-flow system, not an accounting chore.
-hooks:
-  - The quarterly tax date is not a surprise. The calendar is missing.
-  - Your invoice invites a late payment.
-  - The deduction is not the hard part. The record is.
-objections:
-  - "Is this tax advice?" -> No. It is a planning system. Confirm your rate and dates with an accountant.
-  - "I have a day job." -> The calendar covers side income too. The estimated-payment math starts from the extra income.
-  - "I already use accounting software." -> The software records the past. The pack plans the next four dates.
-cross_sell:
-  - The 2027 Solo Business Plan (draft; do not link before launch)
-  - Offer & Pricing Stress Test (draft; do not link before launch)
-cta: Put the four quarterly dates in your calendar.
-do_not_say:
-  - tax advice
-  - IRS-approved
-  - guaranteed deduction
-  - you will owe $X
-  - audit-proof
-last_updated: 2026-11-13
-source: product description + launch docs
-
-### ai-agent-production
-name: AI Agent Production System
-url: https://probiex.gumroad.com/l/ai-agent-production
-status: planned for 2027-02-17; folds n8n Solopreneur Workflows, Voice AI System, and AI Agent Blueprint Stack; not live; do not link
-cluster: Ship Safe
-launch_date: 2027-02-17
-price_band: core
-audience: Solo founders and small teams putting an AI agent into production, not a demo.
-problem: Agents demo well, then fail on tool permissions, cost ceilings, evals, and incidents. The demo is not the product.
-promise: An agent eval harness, a tool-permission model, a cost ceiling, an incident runbook, and three production patterns.
-proof:
-  - No hard stat. Use the eval harness, the permission model, and the incident runbook, not a reliability claim.
-inside:
-  - Zero-dependency Node.js agent evaluation CLI (agent-eval) with regex and schema grading
-  - 15 pre-built benchmark test scenarios covering tool routing and prompt injection defense
-  - Tool permission guardrail architecture and human-in-the-loop patterns
-  - Emergency incident runbooks and cost circuit breaker implementations
-faq:
-  - Q: What do I get, and in what format?
-    A: Node.js test harness code, JSON benchmark suites, and markdown architecture guides.
-  - Q: Can I integrate this into CI/CD?
-    A: Yes. The agent-eval CLI exits with standard status codes (0 on pass, 1 on regression) for GitHub Actions.
-angles:
-  - Your agent works in the demo. Production is a different product.
-  - The tool-permission model before the agent gets a credit card.
-  - An agent without an eval harness is a liability with a chat window.
-  - The cost ceiling is a product decision, not an infrastructure setting.
-hooks:
-  - The demo agent is not the production agent.
-  - The agent got a credit card before it got a permission model.
-  - An eval harness is cheaper than an incident.
-objections:
-  - "I am not an ML engineer." -> The patterns are for builders using APIs, not training models. You need the eval, permission, and runbook layer.
-  - "Is this a framework?" -> No. It is the production layer around your stack: evals, permissions, cost, and incidents.
-  - "My agent is internal." -> Internal agents still spend money, touch data, and fail. The runbook matters more, not less.
-cross_sell:
-  - The Vibe-Code Rescue Kit (https://probiex.gumroad.com/l/vibe-code-rescue)
-  - The Security Questionnaire Vault (draft; do not link before launch)
-  - GEO Operations System (https://probiex.gumroad.com/l/geo-operations-system)
-cta: Put a cost ceiling and a permission model on the agent before it ships.
-do_not_say:
-  - autonomous
-  - guaranteed safe
-  - replaces your team
-  - works with any model
-  - no-code AI employee
-last_updated: 2026-11-13
-source: product description + launch docs
-
-### x-growth-playbook
-name: The X / Twitter Growth Playbook
-url: https://probiex.gumroad.com/l/x-growth-playbook
-status: planned; not live; do not link
-cluster: Get Found
-launch_date: 2027-03-17
-price_band: core
-audience: Founders, creators, and solo operators trying to build organic distribution on X without ad spend or spam.
-problem: Founders post into the void with zero distribution, get distracted by vanity impressions that never convert, or get shadowbanned using outdated engagement hacks.
-promise: An organic distribution system for founders: 50 hook frameworks, a 45-minute daily cadence, high-authority reply tactics, 30-day content calendar, and launch thread teardowns.
-proof:
-  - Over 80% of readers decide to read or scroll based on the first line. Hook engineering determines reach.
-inside:
-  - 50 high-converting hook formulas across five proven psychological categories
-  - The 3-sprint 45-minute daily operating cadence
-  - 30-day plug-and-play content calendar with specific angles and hooks
-  - Product launch thread teardowns and templates for digital products and SaaS
-faq:
-  - Q: What do I get, and in what format?
-    A: Markdown playbook files, swipe files, and copy templates.
-  - Q: Does this require existing followers?
-    A: No. The reply engine is specifically designed to borrow attention and grow from zero.
-angles:
-  - You do not have a product problem; you have a distribution bottleneck.
-  - Spending 4 hours on social media is a distraction. 45 disciplined minutes is an engine.
-  - High-authority replies borrow attention before you have followers.
-  - Turn impressions into profile visits, email subscribers, and Gumroad customers.
-hooks:
-  - Stop posting product updates into the void.
-  - The 45-minute daily X operating routine for founders.
-  - A launch thread that actually converts.
-objections:
-  - "I have 0 followers." -> The reply strategy is built specifically for accounts under 500 followers to borrow tier-1 attention.
-  - "Does this use engagement pods?" -> No. Engagement pods get flagged by modern recommendation algorithms. This uses genuine value and dwell time.
-  - "How much time does it take?" -> 45 minutes a day split into three focused sprints.
-cross_sell:
-  - Compliant LinkedIn Automation Stack (draft; do not link before launch)
-  - Cold Email Deliverability & DNS Kit (draft; do not link before launch)
-  - The Warm Outbound Engine (draft; do not link before launch)
-cta: Build your organic audience before your next product launch.
-do_not_say:
-  - go viral guaranteed
-  - 100k followers overnight
-  - passive income
-  - growth hack
-last_updated: 2026-11-13
-source: product description + launch docs
-
-### linkedin-automation-stack
-name: Compliant LinkedIn Automation Stack
-url: https://probiex.gumroad.com/l/linkedin-automation-stack
-status: planned; not live; do not link
-cluster: Get Found
-launch_date: 2027-03-24
-price_band: core
-audience: Solo founders and consultants who want steady LinkedIn distribution without risking account bans or spending hours manually copying posts.
-problem: Chrome extensions and unofficial scrapers get accounts restricted. Manual posting takes 10+ hours a week. Founders need safe, compliant scheduling.
-promise: An official REST API-compliant CLI scheduler, n8n workflow templates, and rate-limit guides to automate distribution safely.
-proof:
-  - Uses 100% official LinkedIn Developer Community Management APIs with zero browser-fingerprinting risk.
-inside:
-  - Zero-dependency Node.js CLI scheduler with dry-run verification mode
-  - Production-ready n8n workflow connecting Airtable or Notion to LinkedIn
-  - Compliance, rate-limiting, and OAuth scope safety guide
-  - Content repurposing framework to turn articles into high-dwell-time posts
-faq:
-  - Q: What do I get, and in what format?
-    A: Node.js CLI code, n8n JSON workflow templates, and setup documentation.
-  - Q: Is this safe from LinkedIn bans?
-    A: Yes. It uses only official LinkedIn developer REST APIs.
-angles:
-  - Chrome extension bots get banned. Official APIs run forever.
-  - Automate your LinkedIn queue without sharing your session cookies.
-  - One n8n workflow replaces a /month social scheduling SaaS.
-  - Recycle high-performing content automatically and safely.
-hooks:
-  - The safe way to automate LinkedIn in 2026.
-  - Stop risking your personal LinkedIn account with shady extensions.
-  - Self-hosted LinkedIn publishing with zero monthly fees.
-objections:
-  - "Will my account get banned?" -> No. This uses official OAuth 2.0 REST APIs approved by LinkedIn Developer Terms.
-  - "Do I need coding skills?" -> The CLI runs with one command; the n8n template imports with one click.
-  - "Can I schedule images and carousels?" -> Yes, the guides and payloads support text, links, and media URNs.
-cross_sell:
-  - The X / Twitter Growth Playbook (draft; do not link before launch)
-  - The Warm Outbound Engine (draft; do not link before launch)
-  - Notion Content Calendar (https://probiex.gumroad.com/l/notion-content-calendar)
-cta: Automate your LinkedIn publishing pipeline safely.
-do_not_say:
-  - scrape leads
-  - bypass LinkedIn limits
-  - mass connect bot
-  - unlimited DMs
-last_updated: 2026-11-13
-source: product description + launch docs
-
-### cold-email-deliverability-kit
-name: Cold Email Deliverability & DNS Kit
-url: https://probiex.gumroad.com/l/cold-email-deliverability-kit
-status: planned; not live; do not link
-cluster: Get Found
-launch_date: 2027-03-31
-price_band: core
-audience: Founders and outbound operators sending cold or transactional email whose open rates dropped after Google and Yahoo's strict sender requirements.
-problem: Cold emails land in spam because of broken DMARC policies, missing SPF includes, or misaligned DKIM signatures.
-promise: A zero-dependency DNS diagnostic CLI tool (inbox-check), copy-paste DNS records, and a 14-day domain warmup protocol.
-proof:
-  - Audits MX, SPF syntax, DMARC alignment, and DKIM selector presence in under 3 seconds using native DNS.
-inside:
-  - inbox-check: Native Node.js CLI tool auditing MX, SPF syntax, DMARC policy, and DKIM
-  - Copy-paste DNS templates for Google Workspace, Microsoft 365, Postmark, and Resend
-  - Google and Yahoo bulk sender mandate compliance guide (<0.1% spam rate rules)
-  - 14-day secondary domain warmup protocol
-faq:
-  - Q: What do I get, and in what format?
-    A: The inbox-check CLI script, DNS copy-paste markdown templates, and compliance guides.
-  - Q: Does it support multiple email providers?
-    A: Yes. Includes records for Google Workspace, M365, Resend, and Postmark.
-angles:
-  - If your open rate is under 20%, you have a DNS problem, not a copy problem.
-  - Google and Yahoo reject unauthenticated domains. Run this 3-second audit.
-  - Never put two SPF records on one domain. Fix the syntax error in 60 seconds.
-  - The 14-day warmup protocol that keeps outbound domains out of the spam folder.
-hooks:
-  - Your cold emails are going straight to spam.
-  - The 5-minute DNS audit every outbound sender needs in 2026.
-  - Why your Google Workspace domain got flagged.
-objections:
-  - "I already have an SPF record." -> Having two SPF records or exceeding 10 lookups causes a PermError that Google treats as spam.
-  - "Does this work on my domain registrar?" -> Yes, copy-paste templates are included for Cloudflare, Namecheap, GoDaddy, and AWS Route 53.
-  - "Is this an email sending service?" -> No. It is the diagnostic tool and DNS configuration guide to make whatever service you use land in inboxes.
-cross_sell:
-  - The Warm Outbound Engine (draft; do not link before launch)
-  - The Transactional Email Kit (https://probiex.gumroad.com/l/transactional-email-kit)
-  - Cold Outreach Reply Pack (https://probiex.gumroad.com/l/cold-outreach-reply-pack)
-cta: Check your domain DNS health before your next send.
-do_not_say:
-  - guaranteed 100% open rate
-  - spam blast
-  - scrape emails
-  - bypass spam filters
-last_updated: 2026-11-13
-source: product description + launch docs
-
-### activation-retention
-name: SaaS Activation & Retention OS
-url: https://probiex.gumroad.com/l/activation-retention
-status: planned for 2027-03-03; folds Silent Churn Rescue Kit and SaaS Metrics Dashboard; not live; do not link
-cluster: Get Found
-launch_date: 2027-03-03
-price_band: core
-audience: SaaS founders with signups but no activation, and small teams watching MRR instead of behavior.
-problem: Signups do not reach the aha moment. Churn is silent until the cancel. The dashboard shows MRR, not the behavior that predicts it.
-promise: An aha-moment map, a 7-day activation sequence, churn signals, and a weekly retention review.
-proof:
-  - 81% of forms get abandoned (landing-page industry sample). The first activation gap often starts before the account exists.
-inside:
-  - 3-step framework to discover and isolate your product's true Aha Moment
-  - 7-day behavior-triggered onboarding email sequence
-  - 10-point behavioral churn signal scorecard to detect cancellations 14 days early
-  - 15-minute weekly cohort retention review template
-faq:
-  - Q: What do I get, and in what format?
-    A: Aha-moment blueprints, onboarding email copy, scoring rubrics, and review templates.
-  - Q: Does it require complex product analytics?
-    A: No. Works with simple event logs or standard analytics platforms.
-angles:
-  - Your signups are not activated. The dashboard will not tell you.
-  - The day-7 churn signal is behavioral, not financial.
-  - The permission-to-close email that saves the account before the cancel.
-  - A weekly retention review beats a monthly MRR screenshot.
-hooks:
-  - The signup is not the activation.
-  - Churn is silent until the cancel.
-  - The dashboard is green. The account is already gone.
-objections:
-  - "I do not have enough users." -> The signals work at small N. Start with the next 10 signups.
-  - "Is this a CRM?" -> No. It is the aha-moment map and the sequence. Use your existing email tool.
-  - "My churn is low." -> Low churn can hide a silent activation problem. Check the day-7 behavior before the cancel.
-cross_sell:
-  - The Warm Outbound Engine (draft; do not link before launch)
-  - The 2027 Solo Business Plan (draft; do not link before launch)
-  - The Landing Page Conversion Audit (https://probiex.gumroad.com/l/landing-page-conversion-audit)
-cta: Map the aha moment before the next signup.
-do_not_say:
-  - guaranteed retention
-  - zero churn
-  - this will save every account
-  - growth hack
-last_updated: 2026-11-13
 source: product description + launch docs
 
 ## 3.4 Legacy catalog (generated from the shipped description)
@@ -2910,14 +2912,16 @@ source: product description
 ==============================================================================
 - 2026-10-28 | The Vibe-Code Rescue Kit | Ship Safe | live | free lead magnet: free-vibe-code-safety-check
 - 2026-11-11 | The 2027 Solo Business Plan | Run Solo | draft | free lead magnet: free-one-page-business-plan
-- 2026-11-25 | AI Visibility OS 2027 | Get Found | upgrade | free lead magnet: free-landing-page-checklist
-- 2026-12-09 | Trust & Legal Pages | Ship Safe | planned | free lead magnet: none yet
-- 2026-12-23 | Security Questionnaire | Ship Safe | planned | free lead magnet: free-vibe-code-safety-check
-- 2027-01-06 | Offer & Pricing Stress Test | Run Solo | planned | free lead magnet: none yet
-- 2027-01-20 | Warm Outbound | Get Found | planned | free lead magnet: free-cold-email-openers
-- 2027-02-03 | Freelance 1099/Tax | Run Solo | planned | free lead magnet: none yet
-- 2027-02-17 | AI Agent Production | Ship Safe | planned | free lead magnet: free-vibe-code-safety-check
-- 2027-03-03 | Activation & Retention | Get Found | planned | free lead magnet: none yet
+- 2026-11-16 | The Trust & Legal Pages Pack | Ship Safe | live | free lead magnet: none yet
+- 2026-11-16 | The Security Questionnaire Vault | Ship Safe | live | free lead magnet: free-vibe-code-safety-check
+- 2026-11-16 | Offer & Pricing Stress Test | Run Solo | live | free lead magnet: none yet
+- 2026-11-16 | The Warm Outbound Engine | Get Found | live | free lead magnet: free-cold-email-openers
+- 2026-11-16 | Freelance 1099 & Tax Planner | Run Solo | live | free lead magnet: none yet
+- 2026-11-16 | AI Agent Production System | Ship Safe | live | free lead magnet: free-vibe-code-safety-check
+- 2026-11-16 | SaaS Activation & Retention OS | Get Found | live | free lead magnet: none yet
+- 2026-11-16 | The X / Twitter Growth Playbook | Get Found | live | free lead magnet: none yet
+- 2026-11-16 | Compliant LinkedIn Automation Stack | Get Found | live | free lead magnet: none yet
+- 2026-11-16 | Cold Email Deliverability & DNS Kit | Get Found | live | free lead magnet: free-cold-email-openers
 
 Rule: market each launch for two weeks before building the next product.
 The build is not the bottleneck. Distribution is.
