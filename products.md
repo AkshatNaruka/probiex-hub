@@ -1,7 +1,7 @@
 ---
 site: Probiex
 store: https://probiex.gumroad.com
-updated: 2026-11-16
+updated: 2026-11-17
 products: 60
 free products: 7
 description: catalog of 60 practical systems for solo founders, indie hackers, freelancers
