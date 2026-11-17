@@ -2,18 +2,18 @@
 site: Probiex
 store: https://probiex.gumroad.com
 updated: 2026-11-17
-products: 60
-free products: 7
-description: catalog of 60 practical systems for solo founders, indie hackers, freelancers
+products: 69
+free products: 9
+description: catalog of 69 practical systems for solo founders, indie hackers, freelancers
 ---
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks and self-paced courses with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks and self-paced courses with day-by-day plans, Notion systems specified to the property, and code starters. 69 products, each shippable the week you buy it.
 
 Prices are shown on each product page.
 
 ## The free path
 
-7 products are free. Each is the working first slice of a paid system, and the free product page names that next step before anyone pays:
+9 products are free. Each is the working first slice of a paid system, and the free product page names that next step before anyone pays:
 
 - [10 Free Claude Prompts for SaaS Founders](https://probiex.gumroad.com/l/free-claude-prompts) -> [100 Claude Prompts for SaaS Founders](https://probiex.gumroad.com/l/claude-prompts-saas-founders): adds the full 100-prompt pack across the same five disciplines, with the source Markdown.
 
@@ -25,9 +25,13 @@ Prices are shown on each product page.
 
 - [Free Launch Day Checklist: 40 Checks](https://probiex.gumroad.com/l/free-launch-day-checklist) -> [Launch Week Email Kit](https://probiex.gumroad.com/l/launch-week-email-kit): adds the seven emails a launch decides with, with subject lines and send timing.
 
+- [Free News Carousel Starter: Three Editable SVG Slides](https://probiex.gumroad.com/l/free-news-carousel-starter) -> [News Carousel Studio: Editable News Layouts](https://probiex.gumroad.com/l/news-carousel-studio): adds three themes, ten layouts in two sizes, and twenty sourced slides from actual creator posts.
+
 - [Free One-Page Business Plan: Notion + PDF](https://probiex.gumroad.com/l/free-one-page-business-plan) -> [The Indie Hacker OS](https://probiex.gumroad.com/l/indie-hacker-os): adds six linked Notion databases that run the week.
 
 - [The 15-Point Vibe-Code Safety Check](https://probiex.gumroad.com/l/free-vibe-code-safety-check) -> [The Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue): adds the 60-point audit, 17-check CLI, 15 fix prompts, the RLS policy pack, and three runbooks.
+
+- [Free X Original Content Rewards Eligibility Workbook](https://probiex.gumroad.com/l/free-x-eligibility-workbook) -> [X Monetization: Original Content Rewards Field Guide](https://probiex.gumroad.com/l/x-monetization-playbook): adds the policy guide, five public-post analyses, thirty hooks, ten outlines, and review files.
 
 ## GET FOUND
 
@@ -79,6 +83,58 @@ Contents:
 
 **How long does it take to fix a flagged domain?** The DNS audit takes 3 seconds, updating TXT records takes 10 minutes, and the secondary-domain warmup schedule runs for 14 days.
 
+### Free News Carousel Starter: Three Editable SVG Slides
+
+- url: https://probiex.gumroad.com/l/free-news-carousel-starter
+- category: GET FOUND
+- format: FREE / 3 SVG TEMPLATES
+- audience: Creators trying a source-first three-slide news format.
+- free: yes
+- next: https://probiex.gumroad.com/l/news-carousel-studio (adds three themes, ten layouts in two sizes, and twenty sourced slides from actual creator posts)
+
+Cover, context, and source-note SVG templates in a 1080 x 1350 tech theme, with editing instructions.
+
+Contents:
+- 10 source and reference files, including a PDF guide and a useful sample
+- Cover, context, and source-note SVG templates in a 1080 x 1350 tech theme, with editing instructions.
+- README, dated sources, license, changelog, and an observed verification record
+
+**What files do I receive?** The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+
+**Are platform subscriptions included?** No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+
+**Does the download contain populated business records?** No. Operational trackers start empty. Enter your own verified data. Source-based editorial material cites its actual provenance; it does not populate your workspace or claim your results.
+
+**Can I redistribute the source pack?** No. You may adapt it for personal and internal business use and publish your resulting work. Source redistribution and template resale are excluded.
+
+**How do support and updates work?** Email trexoo.ai@gmail.com with the product version and a non-sensitive reproduction. Corrections may appear in your Gumroad library; no schedule or future-feature commitment is included.
+
+### Free X Original Content Rewards Eligibility Workbook
+
+- url: https://probiex.gumroad.com/l/free-x-eligibility-workbook
+- category: GET FOUND
+- format: FREE / ELIGIBILITY WORKBOOK
+- audience: Creators checking their x eligibility against the current policy.
+- free: yes
+- next: https://probiex.gumroad.com/l/x-monetization-playbook (adds the policy guide, five public-post analyses, thirty hooks, ten outlines, and review files)
+
+A dated eligibility worksheet and ten original-content writing starts, with the official program link.
+
+Contents:
+- 7 source and reference files, including a PDF guide and a useful sample
+- A dated eligibility worksheet and ten original-content writing starts, with the official program link.
+- README, dated sources, license, changelog, and an observed verification record
+
+**What files do I receive?** The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+
+**Are platform subscriptions included?** No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+
+**Does the download contain populated business records?** No. Operational trackers start empty. Enter your own verified data. Source-based editorial material cites its actual provenance; it does not populate your workspace or claim your results.
+
+**Can I redistribute the source pack?** No. You may adapt it for personal and internal business use and publish your resulting work. Source redistribution and template resale are excluded.
+
+**How do support and updates work?** Email trexoo.ai@gmail.com with the product version and a non-sensitive reproduction. Corrections may appear in your Gumroad library; no schedule or future-feature commitment is included.
+
 ### Compliant LinkedIn Automation Stack
 
 - url: https://probiex.gumroad.com/l/linkedin-automation-stack
@@ -102,6 +158,31 @@ Contents:
 **Do I need a paid n8n subscription?** No. The workflows run on self-hosted n8n (Docker or local) as well as n8n Cloud, and the Node.js CLI runs standalone via cron or GitHub Actions.
 
 **What content should I schedule with it?** Pair the scheduler with a structured 90-day pillar plan so your automated queue publishes high-signal founder stories and teardowns.
+
+### News Carousel Studio: Editable News Layouts
+
+- url: https://probiex.gumroad.com/l/news-carousel-studio
+- category: GET FOUND
+- format: 60 SVG TEMPLATES
+- audience: Creators explaining tech and finance news visually.
+- free: no
+
+Three themes, ten SVG layouts in two sizes, twenty sourced slides adapted from five public @probiex007 posts, and a publishing guide.
+
+Contents:
+- 96 source and reference files, including a PDF guide and a useful sample
+- Three themes, ten SVG layouts in two sizes, twenty sourced slides adapted from five public @probiex007 posts, and a publishing guide.
+- README, dated sources, license, changelog, and an observed verification record
+
+**What files do I receive?** The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+
+**Are platform subscriptions included?** No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+
+**Does the download contain populated business records?** No. Operational trackers start empty. Enter your own verified data. Source-based editorial material cites its actual provenance; it does not populate your workspace or claim your results.
+
+**Can I redistribute the source pack?** No. You may adapt it for personal and internal business use and publish your resulting work. Source redistribution and template resale are excluded.
+
+**How do support and updates work?** Email trexoo.ai@gmail.com with the product version and a non-sensitive reproduction. Corrections may appear in your Gumroad library; no schedule or future-feature commitment is included.
 
 ### The Warm Outbound Engine
 
@@ -150,6 +231,31 @@ Contents:
 **How much time does the daily routine take?** Forty-five minutes per day split into three 15-minute blocks: morning replies, midday post, and afternoon warm follow-ups.
 
 **Is this a video course or a written playbook?** It is a written, execution-first playbook and self-paced course with copy-paste frameworks you can run in 10 minutes without watching hours of video.
+
+### X Monetization: Original Content Rewards Field Guide
+
+- url: https://probiex.gumroad.com/l/x-monetization-playbook
+- category: GET FOUND
+- format: POLICY GUIDE + WORKSHEETS
+- audience: Creators checking x monetization eligibility.
+- free: no
+
+A dated eligibility workbook, original-content policy guide, 30 hooks, 10 thread outlines, and a weekly review sheet.
+
+Contents:
+- 18 source and reference files, including a PDF guide and a useful sample
+- A dated eligibility workbook, original-content policy guide, 30 hooks, 10 thread outlines, and a weekly review sheet.
+- README, dated sources, license, changelog, and an observed verification record
+
+**What files do I receive?** The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+
+**Are platform subscriptions included?** No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+
+**Does the download contain populated business records?** No. Operational trackers start empty. Enter your own verified data. Source-based editorial material cites its actual provenance; it does not populate your workspace or claim your results.
+
+**Can I redistribute the source pack?** No. You may adapt it for personal and internal business use and publish your resulting work. Source redistribution and template resale are excluded.
+
+**How do support and updates work?** Email trexoo.ai@gmail.com with the product version and a non-sensitive reproduction. Corrections may appear in your Gumroad library; no schedule or future-feature commitment is included.
 
 ## AI & PROMPTS
 
@@ -213,6 +319,31 @@ Contents:
 **What do I get, and in what format?** The prompt pack as PDF and Markdown (paste-ready in Claude).
 
 **Do the prompts work with other models?** They are model-agnostic: fields and output formats work in any capable assistant.
+
+### Cross-Agent Repo Workflows: Claude, Codex and Cursor
+
+- url: https://probiex.gumroad.com/l/cross-agent-repo-workflows
+- category: AI & PROMPTS
+- format: 12 RULE FILES + 8 RUNBOOKS
+- audience: Developers moving work between coding agents.
+- free: no
+
+Twelve tool-specific repo instruction files, four stack profiles, eight handoff runbooks, and a manifest validator.
+
+Contents:
+- 37 source and reference files, including a PDF guide and a useful sample
+- Twelve tool-specific repo instruction files, four stack profiles, eight handoff runbooks, and a manifest validator.
+- README, dated sources, license, changelog, and an observed verification record
+
+**What files do I receive?** The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+
+**Are platform subscriptions included?** No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+
+**Does the download contain populated business records?** No. Operational trackers start empty. Enter your own verified data. Source-based editorial material cites its actual provenance; it does not populate your workspace or claim your results.
+
+**Can I redistribute the source pack?** No. You may adapt it for personal and internal business use and publish your resulting work. Source redistribution and template resale are excluded.
+
+**How do support and updates work?** Email trexoo.ai@gmail.com with the product version and a non-sensitive reproduction. Corrections may appear in your Gumroad library; no schedule or future-feature commitment is included.
 
 ### 10 Free Claude Prompts for SaaS Founders
 
@@ -474,6 +605,31 @@ Contents:
 **What do I get, and in what format?** A ZIP with the schema spec, a 12-row lesson-planner seed CSV, and a workspace README, plus a PDF guide.
 
 **Does it cover hosting or sales pages?** No. This is the architecture and production system; it ends at a recorded, published lesson library.
+
+### India Fresher Application Kit: Evidence to Interview
+
+- url: https://probiex.gumroad.com/l/india-fresher-application-kit
+- category: CAREER & TEACHING
+- format: 30 PROMPTS + APPLICATION KIT
+- audience: Indian freshers applying for their first software role.
+- free: no
+
+An evidence-first application workbook, thirty tailoring prompts, project-story templates, outreach drafts, and an interview tracker.
+
+Contents:
+- 16 source and reference files, including a PDF guide and a useful sample
+- An evidence-first application workbook, thirty tailoring prompts, project-story templates, outreach drafts, and an interview tracker.
+- README, dated sources, license, changelog, and an observed verification record
+
+**What files do I receive?** The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+
+**Are platform subscriptions included?** No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+
+**Does the download contain populated business records?** No. Operational trackers start empty. Enter your own verified data. Source-based editorial material cites its actual provenance; it does not populate your workspace or claim your results.
+
+**Can I redistribute the source pack?** No. You may adapt it for personal and internal business use and publish your resulting work. Source redistribution and template resale are excluded.
+
+**How do support and updates work?** Email trexoo.ai@gmail.com with the product version and a non-sensitive reproduction. Corrections may appear in your Gumroad library; no schedule or future-feature commitment is included.
 
 ### The Job-Search OS for Notion
 
@@ -760,6 +916,31 @@ Contents:
 **What do I get, and in what format?** A ZIP with the schema spec, the meeting template, and a workspace README, plus a PDF guide with the build order.
 
 **Does it work for recurring client meetings?** Yes. The per-person rollup means any recurring meeting opens with "what happened last time" one click away.
+
+### News Creator Workspace: Obsidian and Notion Import Kit
+
+- url: https://probiex.gumroad.com/l/news-creator-workspace
+- category: OPERATIONS
+- format: VAULT + CSV IMPORTS
+- audience: Daily ai and tech news creators tracking sources and corrections.
+- free: no
+
+An empty Obsidian vault, Notion CSV templates, source verification, correction logging, repurposing records, and weekly review templates.
+
+Contents:
+- 28 source and reference files, including a PDF guide and a useful sample
+- An empty Obsidian vault, Notion CSV templates, source verification, correction logging, repurposing records, and weekly review templates.
+- README, dated sources, license, changelog, and an observed verification record
+
+**What files do I receive?** The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+
+**Are platform subscriptions included?** No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+
+**Does the download contain populated business records?** No. Operational trackers start empty. Enter your own verified data. Source-based editorial material cites its actual provenance; it does not populate your workspace or claim your results.
+
+**Can I redistribute the source pack?** No. You may adapt it for personal and internal business use and publish your resulting work. Source redistribution and template resale are excluded.
+
+**How do support and updates work?** Email trexoo.ai@gmail.com with the product version and a non-sensitive reproduction. Corrections may appear in your Gumroad library; no schedule or future-feature commitment is included.
 
 ### Notion Content Calendar
 
@@ -1171,6 +1352,31 @@ Contents:
 
 **Is this the same as the Indie Hacker OS?** No. The plan sets direction on one page; the OS is six linked databases that run the week-to-week operation.
 
+### Indie Launch Execution Kit: Seven Days to Submission
+
+- url: https://probiex.gumroad.com/l/indie-launch-execution-kit
+- category: BUILDS
+- format: 7-DAY PLAN + TRACKER
+- audience: Indie builders preparing a working product for launch.
+- free: no
+
+A seven-day execution plan, researched submission destinations, Product Hunt copy worksheets, and a source-and-result tracker.
+
+Contents:
+- 15 source and reference files, including a PDF guide and a useful sample
+- A seven-day execution plan, researched submission destinations, Product Hunt copy worksheets, and a source-and-result tracker.
+- README, dated sources, license, changelog, and an observed verification record
+
+**What files do I receive?** The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+
+**Are platform subscriptions included?** No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+
+**Does the download contain populated business records?** No. Operational trackers start empty. Enter your own verified data. Source-based editorial material cites its actual provenance; it does not populate your workspace or claim your results.
+
+**Can I redistribute the source pack?** No. You may adapt it for personal and internal business use and publish your resulting work. Source redistribution and template resale are excluded.
+
+**How do support and updates work?** Email trexoo.ai@gmail.com with the product version and a non-sensitive reproduction. Corrections may appear in your Gumroad library; no schedule or future-feature commitment is included.
+
 ### LaunchKit Starter
 
 - url: https://probiex.gumroad.com/l/launchkit-starter
@@ -1190,6 +1396,31 @@ Contents:
 **What do I get, and in what format?** The complete starter codebase (ZIP) plus the PDF setup guide.
 
 **Which Next.js/React versions?** Next.js 15 on the current release line; the setup guide covers upgrading.
+
+### Package Doctor: Digital Download Preflight CLI
+
+- url: https://probiex.gumroad.com/l/package-doctor-cli
+- category: BUILDS
+- format: NODE CLI + MANIFEST BUILDER
+- audience: Creators packaging source files for digital delivery.
+- free: no
+
+A local Node.js CLI that checks download manifests, missing files, unsafe paths, placeholder text, and file signatures before release.
+
+Contents:
+- 15 source and reference files, including a PDF guide and a useful sample
+- A local Node.js CLI that checks download manifests, missing files, unsafe paths, placeholder text, and file signatures before release.
+- README, dated sources, license, changelog, and an observed verification record
+
+**What files do I receive?** The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+
+**Are platform subscriptions included?** No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+
+**Does the download contain populated business records?** No. Operational trackers start empty. Enter your own verified data. Source-based editorial material cites its actual provenance; it does not populate your workspace or claim your results.
+
+**Can I redistribute the source pack?** No. You may adapt it for personal and internal business use and publish your resulting work. Source redistribution and template resale are excluded.
+
+**How do support and updates work?** Email trexoo.ai@gmail.com with the product version and a non-sensitive reproduction. Corrections may appear in your Gumroad library; no schedule or future-feature commitment is included.
 
 ### The One-Page Personal Site
 

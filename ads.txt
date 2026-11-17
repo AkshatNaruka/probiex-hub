@@ -10,9 +10,9 @@
 # Gumroad page slugs cannot contain a dot, so the literal /ads.txt path is
 # served by the AI hub, not Gumroad. The Gumroad mirror has the same content.
 #
-# Content hash: 32f8db226c27074a
-# Last updated: 2026-11-16
-# Catalog: 60 live, 1 draft, 14 deep briefs
+# Content hash: 420b1e5f6cb6fc23
+# Last updated: 2026-11-17
+# Catalog: 69 live, 1 draft, 14 deep briefs
 #
 # HOW TO USE WITH AI
 # 1. Paste this file into the model, or give it the canonical URL.
@@ -1086,6 +1086,45 @@ do_not_say: see the global hard bans; apply all of them.
 last_updated: 2026-10-22
 source: product description
 
+### cross-agent-repo-workflows
+name: Cross-Agent Repo Workflows: Claude, Codex and Cursor
+url: https://probiex.gumroad.com/l/cross-agent-repo-workflows
+status: live
+cluster: AI & PROMPTS
+launch_date: already live
+price_band: paid; see product page
+audience: Developers moving work between coding agents.
+problem: Developers moving work between coding agents.
+promise: Twelve tool-specific repo instruction files, four stack profiles, eight handoff runbooks, and a manifest validator.
+proof:
+  - The product ships as 12 RULE FILES + 8 RUNBOOKS. Use the deliverable as the proof; do not invent a testimonial or a traction number.
+inside:
+  - 37 source and reference files, including a PDF guide and a useful sample
+  - Twelve tool-specific repo instruction files, four stack profiles, eight handoff runbooks, and a manifest validator.
+  - README, dated sources, license, changelog, and an observed verification record
+faq:
+  - Q: What files do I receive?
+    A: The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+  - Q: Are platform subscriptions included?
+    A: No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+angles:
+  - The problem: Developers moving work between coding agents.
+  - What is inside: 37 source and reference files, including a PDF guide and a useful sample
+hooks:
+  - Developers moving work between coding agents.
+  - Twelve tool-specific repo instruction files, four stack profiles, eight handoff runbooks, and a manifest validator.
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - resource for the next step (https://probiex.gumroad.com/l/ai-agent-production)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-11-17
+source: product description
+
 ### ai-slop-audit
 name: The AI-Slop Audit
 url: https://probiex.gumroad.com/l/ai-slop-audit
@@ -1294,6 +1333,45 @@ cta: Download the free pack. If it finds a gap, the paid next step is linked on 
 do_not_say: see the global hard bans; apply all of them.
 source: product description
 
+### indie-launch-execution-kit
+name: Indie Launch Execution Kit: Seven Days to Submission
+url: https://probiex.gumroad.com/l/indie-launch-execution-kit
+status: live
+cluster: BUILDS
+launch_date: already live
+price_band: paid; see product page
+audience: Indie builders preparing a working product for launch.
+problem: Indie builders preparing a working product for launch.
+promise: A seven-day execution plan, researched submission destinations, Product Hunt copy worksheets, and a source-and-result tracker.
+proof:
+  - The product ships as 7-DAY PLAN + TRACKER. Use the deliverable as the proof; do not invent a testimonial or a traction number.
+inside:
+  - 15 source and reference files, including a PDF guide and a useful sample
+  - A seven-day execution plan, researched submission destinations, Product Hunt copy worksheets, and a source-and-result tracker.
+  - README, dated sources, license, changelog, and an observed verification record
+faq:
+  - Q: What files do I receive?
+    A: The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+  - Q: Are platform subscriptions included?
+    A: No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+angles:
+  - The problem: Indie builders preparing a working product for launch.
+  - What is inside: 15 source and reference files, including a PDF guide and a useful sample
+hooks:
+  - Indie builders preparing a working product for launch.
+  - A seven-day execution plan, researched submission destinations, Product Hunt copy worksheets, and a source-and-result tracker.
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - resource for the next step (https://probiex.gumroad.com/l/launch-week-email-kit)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-11-17
+source: product description
+
 ### launchkit-starter
 name: LaunchKit Starter
 url: https://probiex.gumroad.com/l/launchkit-starter
@@ -1335,6 +1413,45 @@ cross_sell:
 cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
 do_not_say: see the global hard bans; apply all of them.
 last_updated: 2026-10-22
+source: product description
+
+### package-doctor-cli
+name: Package Doctor: Digital Download Preflight CLI
+url: https://probiex.gumroad.com/l/package-doctor-cli
+status: live
+cluster: BUILDS
+launch_date: already live
+price_band: paid; see product page
+audience: Creators packaging source files for digital delivery.
+problem: Creators packaging source files for digital delivery.
+promise: A local Node.js CLI that checks download manifests, missing files, unsafe paths, placeholder text, and file signatures before …
+proof:
+  - The product ships as NODE CLI + MANIFEST BUILDER. Use the deliverable as the proof; do not invent a testimonial or a traction number.
+inside:
+  - 15 source and reference files, including a PDF guide and a useful sample
+  - A local Node.js CLI that checks download manifests, missing files, unsafe paths, placeholder text, and file signatures before release.
+  - README, dated sources, license, changelog, and an observed verification record
+faq:
+  - Q: What files do I receive?
+    A: The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+  - Q: Are platform subscriptions included?
+    A: No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+angles:
+  - The problem: Creators packaging source files for digital delivery.
+  - What is inside: 15 source and reference files, including a PDF guide and a useful sample
+hooks:
+  - Creators packaging source files for digital delivery.
+  - A local Node.js CLI that checks download manifests, missing files, unsafe paths, placeholder text, and file signatures before …
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - resource for the next step (https://probiex.gumroad.com/l/indie-launch-execution-kit)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-11-17
 source: product description
 
 ### ship-saas-30-days
@@ -1675,6 +1792,45 @@ cross_sell:
 cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
 do_not_say: see the global hard bans; apply all of them.
 last_updated: 2026-10-22
+source: product description
+
+### india-fresher-application-kit
+name: India Fresher Application Kit: Evidence to Interview
+url: https://probiex.gumroad.com/l/india-fresher-application-kit
+status: live
+cluster: CAREER & TEACHING
+launch_date: already live
+price_band: paid; see product page
+audience: Indian freshers applying for their first software role.
+problem: Indian freshers applying for their first software role.
+promise: An evidence-first application workbook, thirty tailoring prompts, project-story templates, outreach drafts, and an interview …
+proof:
+  - The product ships as 30 PROMPTS + APPLICATION KIT. Use the deliverable as the proof; do not invent a testimonial or a traction number.
+inside:
+  - 16 source and reference files, including a PDF guide and a useful sample
+  - An evidence-first application workbook, thirty tailoring prompts, project-story templates, outreach drafts, and an interview tracker.
+  - README, dated sources, license, changelog, and an observed verification record
+faq:
+  - Q: What files do I receive?
+    A: The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+  - Q: Are platform subscriptions included?
+    A: No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+angles:
+  - The problem: Indian freshers applying for their first software role.
+  - What is inside: 16 source and reference files, including a PDF guide and a useful sample
+hooks:
+  - Indian freshers applying for their first software role.
+  - An evidence-first application workbook, thirty tailoring prompts, project-story templates, outreach drafts, and an interview …
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - resource for the next step (https://probiex.gumroad.com/l/ats-resume-pack)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-11-17
 source: product description
 
 ### ats-resume-pack
@@ -2182,6 +2338,164 @@ cross_sell:
 cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
 do_not_say: see the global hard bans; apply all of them.
 last_updated: 2026-10-22
+source: product description
+
+### GET FOUND
+
+### free-news-carousel-starter
+name: Free News Carousel Starter: Three Editable SVG Slides
+url: https://probiex.gumroad.com/l/free-news-carousel-starter
+status: live (free)
+cluster: GET FOUND
+launch_date: already live
+price_band: free
+audience: Creators trying a source-first three-slide news format.
+problem: Creators trying a source-first three-slide news format.
+promise: Cover, context, and source-note SVG templates in a 1080 x 1350 tech theme, with editing instructions.
+proof:
+  - Cover, context, and source-note SVG templates in a 1080 x 1350 tech theme, with editing instructions.
+inside:
+  - 10 source and reference files, including a PDF guide and a useful sample
+  - Cover, context, and source-note SVG templates in a 1080 x 1350 tech theme, with editing instructions.
+  - README, dated sources, license, changelog, and an observed verification record
+faq:
+  - Q: What files do I receive?
+    A: The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+  - Q: Are platform subscriptions included?
+    A: No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+angles:
+  - The problem: Creators trying a source-first three-slide news format.
+  - What is inside: 10 source and reference files, including a PDF guide and a useful sample
+hooks:
+  - Creators trying a source-first three-slide news format.
+  - Cover, context, and source-note SVG templates in a 1080 x 1350 tech theme, with editing instructions.
+  - Download the free pack and run it.
+objections:
+  - "Is this a trial with hidden costs?" -> No. The pack is free. The paid next step is optional.
+  - "Do I need an account?" -> No account and no card. Gumroad asks for an email to deliver the file.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+cross_sell:
+  - resource for the next step (https://probiex.gumroad.com/l/news-carousel-studio)
+cta: Download the free pack. If it finds a gap, the paid next step is linked on the page.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-11-17
+source: product description
+
+### free-x-eligibility-workbook
+name: Free X Original Content Rewards Eligibility Workbook
+url: https://probiex.gumroad.com/l/free-x-eligibility-workbook
+status: live (free)
+cluster: GET FOUND
+launch_date: already live
+price_band: free
+audience: Creators checking their x eligibility against the current policy.
+problem: Creators checking their x eligibility against the current policy.
+promise: A dated eligibility worksheet and ten original-content writing starts, with the official program link.
+proof:
+  - The product ships as FREE / ELIGIBILITY WORKBOOK. Use the deliverable as the proof; do not invent a testimonial or a traction number.
+inside:
+  - 7 source and reference files, including a PDF guide and a useful sample
+  - A dated eligibility worksheet and ten original-content writing starts, with the official program link.
+  - README, dated sources, license, changelog, and an observed verification record
+faq:
+  - Q: What files do I receive?
+    A: The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+  - Q: Are platform subscriptions included?
+    A: No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+angles:
+  - The problem: Creators checking their x eligibility against the current policy.
+  - What is inside: 7 source and reference files, including a PDF guide and a useful sample
+hooks:
+  - Creators checking their x eligibility against the current policy.
+  - A dated eligibility worksheet and ten original-content writing starts, with the official program link.
+  - Download the free pack and run it.
+objections:
+  - "Is this a trial with hidden costs?" -> No. The pack is free. The paid next step is optional.
+  - "Do I need an account?" -> No account and no card. Gumroad asks for an email to deliver the file.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+cross_sell:
+  - resource for the next step (https://probiex.gumroad.com/l/x-monetization-playbook)
+cta: Download the free pack. If it finds a gap, the paid next step is linked on the page.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-11-17
+source: product description
+
+### news-carousel-studio
+name: News Carousel Studio: Editable News Layouts
+url: https://probiex.gumroad.com/l/news-carousel-studio
+status: live
+cluster: GET FOUND
+launch_date: already live
+price_band: paid; see product page
+audience: Creators explaining tech and finance news visually.
+problem: Creators explaining tech and finance news visually.
+promise: Three themes, ten SVG layouts in two sizes, twenty sourced slides adapted from five public @probiex007 posts, and a publishing …
+proof:
+  - Three themes, ten SVG layouts in two sizes, twenty sourced slides adapted from five public @probiex007 posts, and a publishing guide.
+inside:
+  - 96 source and reference files, including a PDF guide and a useful sample
+  - Three themes, ten SVG layouts in two sizes, twenty sourced slides adapted from five public @probiex007 posts, and a publishing guide.
+  - README, dated sources, license, changelog, and an observed verification record
+faq:
+  - Q: What files do I receive?
+    A: The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+  - Q: Are platform subscriptions included?
+    A: No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+angles:
+  - The problem: Creators explaining tech and finance news visually.
+  - What is inside: 96 source and reference files, including a PDF guide and a useful sample
+hooks:
+  - Creators explaining tech and finance news visually.
+  - Three themes, ten SVG layouts in two sizes, twenty sourced slides adapted from five public @probiex007 posts, and a publishing …
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - resource for the next step (https://probiex.gumroad.com/l/video-titles-scorecard)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-11-17
+source: product description
+
+### x-monetization-playbook
+name: X Monetization: Original Content Rewards Field Guide
+url: https://probiex.gumroad.com/l/x-monetization-playbook
+status: live
+cluster: GET FOUND
+launch_date: already live
+price_band: paid; see product page
+audience: Creators checking x monetization eligibility.
+problem: Creators checking x monetization eligibility.
+promise: A dated eligibility workbook, original-content policy guide, 30 hooks, 10 thread outlines, and a weekly review sheet.
+proof:
+  - A dated eligibility workbook, original-content policy guide, 30 hooks, 10 thread outlines, and a weekly review sheet.
+inside:
+  - 18 source and reference files, including a PDF guide and a useful sample
+  - A dated eligibility workbook, original-content policy guide, 30 hooks, 10 thread outlines, and a weekly review sheet.
+  - README, dated sources, license, changelog, and an observed verification record
+faq:
+  - Q: What files do I receive?
+    A: The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+  - Q: Are platform subscriptions included?
+    A: No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+angles:
+  - The problem: Creators checking x monetization eligibility.
+  - What is inside: 18 source and reference files, including a PDF guide and a useful sample
+hooks:
+  - Creators checking x monetization eligibility.
+  - A dated eligibility workbook, original-content policy guide, 30 hooks, 10 thread outlines, and a weekly review sheet.
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - resource for the next step (https://probiex.gumroad.com/l/x-growth-playbook)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-11-17
 source: product description
 
 ### GETTING CUSTOMERS
@@ -2736,6 +3050,45 @@ cross_sell:
 cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
 do_not_say: see the global hard bans; apply all of them.
 last_updated: 2026-10-22
+source: product description
+
+### news-creator-workspace
+name: News Creator Workspace: Obsidian and Notion Import Kit
+url: https://probiex.gumroad.com/l/news-creator-workspace
+status: live
+cluster: OPERATIONS
+launch_date: already live
+price_band: paid; see product page
+audience: Daily ai and tech news creators tracking sources and corrections.
+problem: Daily ai and tech news creators tracking sources and corrections.
+promise: An empty Obsidian vault, Notion CSV templates, source verification, correction logging, repurposing records, and weekly review …
+proof:
+  - The product ships as VAULT + CSV IMPORTS. Use the deliverable as the proof; do not invent a testimonial or a traction number.
+inside:
+  - 28 source and reference files, including a PDF guide and a useful sample
+  - An empty Obsidian vault, Notion CSV templates, source verification, correction logging, repurposing records, and weekly review templates.
+  - README, dated sources, license, changelog, and an observed verification record
+faq:
+  - Q: What files do I receive?
+    A: The ZIP contains the source materials, PDF guide, useful starter files, license, and TESTING.md. Exact contents are listed in the delivery manifest.
+  - Q: Are platform subscriptions included?
+    A: No. Named tools and platforms are separate products. Use the subscriptions, accounts, and permissions your workflow requires.
+angles:
+  - The problem: Daily ai and tech news creators tracking sources and corrections.
+  - What is inside: 28 source and reference files, including a PDF guide and a useful sample
+hooks:
+  - Daily ai and tech news creators tracking sources and corrections.
+  - An empty Obsidian vault, Notion CSV templates, source verification, correction logging, repurposing records, and weekly review …
+  - If this sounds like you, start with the free pack.
+objections:
+  - "I can do this myself." -> The free pack shows the first step. The paid system adds the sequence, the templates, and the tracking.
+  - "Is this generic advice?" -> It ends in a tool, a template, or a number. Read the 'What is inside' list above.
+  - "Will it work for my situation?" -> Read the 'Who it is for' line and the FAQ. If the fit is wrong, do not buy it.
+cross_sell:
+  - resource for the next step (https://probiex.gumroad.com/l/news-carousel-studio)
+cta: Read the page, check the 'Who it is for' line, and start with the free pack if it matches.
+do_not_say: see the global hard bans; apply all of them.
+last_updated: 2026-11-17
 source: product description
 
 ### notion-content-calendar

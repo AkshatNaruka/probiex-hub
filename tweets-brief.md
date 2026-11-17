@@ -8,7 +8,7 @@ One-line usage: "Using only this brief, write N tweets for Probiex."
 
 ## What you are writing for
 
-Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks and self-paced courses with day-by-day plans, Notion systems specified to the property, and code starters. 60 products, each shippable the week you buy it.
+Probiex builds focused, practical systems for solo SaaS founders, indie hackers, and freelancers: finance workbooks with worked examples, playbooks and self-paced courses with day-by-day plans, Notion systems specified to the property, and code starters. 69 products, each shippable the week you buy it.
 
 - Store: https://probiex.gumroad.com (one-person storefront, Akshat Naruka)
 - Full customers' factsheet: https://akshatnaruka.github.io/probiex-hub/about.html
@@ -138,8 +138,10 @@ the store home only for catalog/progress posts.
 - **5 Free Invoice Reminder Emails** (free) Link: https://probiex.gumroad.com/l/free-invoice-reminder-emails -> grows into The Late-Payment Playbook: https://probiex.gumroad.com/l/late-payment-playbook
 - **Free Landing Page Leak Check: 20 Points** (free) Link: https://probiex.gumroad.com/l/free-landing-page-checklist -> grows into The Landing Page Conversion Audit: https://probiex.gumroad.com/l/landing-page-conversion-audit
 - **Free Launch Day Checklist: 40 Checks** (free) Link: https://probiex.gumroad.com/l/free-launch-day-checklist -> grows into Launch Week Email Kit: https://probiex.gumroad.com/l/launch-week-email-kit
+- **Free News Carousel Starter: Three Editable SVG Slides** (free) Link: https://probiex.gumroad.com/l/free-news-carousel-starter -> grows into News Carousel Studio: Editable News Layouts: https://probiex.gumroad.com/l/news-carousel-studio
 - **Free One-Page Business Plan: Notion + PDF** (free) Link: https://probiex.gumroad.com/l/free-one-page-business-plan -> grows into The Indie Hacker OS: https://probiex.gumroad.com/l/indie-hacker-os
 - **The 15-Point Vibe-Code Safety Check** (free) Link: https://probiex.gumroad.com/l/free-vibe-code-safety-check -> grows into The Vibe-Code Rescue Kit: https://probiex.gumroad.com/l/vibe-code-rescue
+- **Free X Original Content Rewards Eligibility Workbook** (free) Link: https://probiex.gumroad.com/l/free-x-eligibility-workbook -> grows into X Monetization: Original Content Rewards Field Guide: https://probiex.gumroad.com/l/x-monetization-playbook
 
 
 ## Worked examples (style anchors)
@@ -149,8 +151,8 @@ the store home only for catalog/progress posts.
 - Two-column resumes scramble into unreadable records. What survives most
   parsers: single column, standard headings, tab-stop dates. Six worked
   layouts: https://probiex.gumroad.com/l/ats-resume-pack
-- 60 systems now live on the store: finance calculators, launch kits,
-  Notion builds, resume packs. No subscription, and 7 of them are
+- 69 systems now live on the store: finance calculators, launch kits,
+  Notion builds, resume packs. No subscription, and 9 of them are
   free to try: https://probiex.gumroad.com
 
 ## Output instruction
