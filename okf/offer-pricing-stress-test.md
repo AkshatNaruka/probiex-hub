@@ -4,7 +4,7 @@ category: RUN SOLO
 format: 60-PT SCORECARD + SCRIPTS
 url: https://probiex.gumroad.com/l/offer-pricing-stress-test
 audience: SaaS founders, consultants, and creators setting or raising prices.
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 A SaaS offer and pricing playbook: a 60-point offer diagnostic scorecard, 20 pricing objection scripts, sensitivity math, and a 3-tier packaging rebuild.
@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/offer-pricing-stre
 
 - [The Pricing Calculator](https://probiex.gumroad.com/l/pricing-calculator)
 - [The Landing Page Conversion Audit](https://probiex.gumroad.com/l/landing-page-conversion-audit)
-

@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: 50+ BLOCKS
 url: https://probiex.gumroad.com/l/saas-founder-copy-vault
 audience: Founders who freeze at the blank page and want working starting points.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 50+ copy blocks for SaaS founders: hero lines, launch emails, cold outreach, and landing page sections written like a human founder, adapted in 5 minutes.
@@ -27,4 +27,3 @@ Full details and current price: https://probiex.gumroad.com/l/saas-founder-copy-
 
 - [The AI-Slop Audit](https://probiex.gumroad.com/l/ai-slop-audit)
 - [The Landing Page Conversion Audit](https://probiex.gumroad.com/l/landing-page-conversion-audit)
-

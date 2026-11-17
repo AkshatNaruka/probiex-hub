@@ -4,7 +4,7 @@ category: FINANCE
 format: PDF + EMAIL KIT
 url: https://probiex.gumroad.com/l/late-payment-playbook
 audience: Freelancers and solo operators who invoice clients and get paid late.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A 5-layer late-payment system for freelancers: contract clauses, deposit schedules, pre-due reminders, and a 4-step escalation ladder that gets invoices paid.
@@ -28,4 +28,3 @@ Full details and current price: https://probiex.gumroad.com/l/late-payment-playb
 - [5 Free Invoice Reminder Emails](https://probiex.gumroad.com/l/free-invoice-reminder-emails)
 - [The Freelance Contract Pack](https://probiex.gumroad.com/l/freelance-contract-pack)
 - [The Freelance Cash-Flow Planner](https://probiex.gumroad.com/l/freelance-cash-flow-planner)
-

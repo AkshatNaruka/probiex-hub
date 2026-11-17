@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: 7-DAY SYSTEM
 url: https://probiex.gumroad.com/l/silent-churn-rescue-kit
 audience: SaaS founders watching trial and signup cohorts leak away.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A 7-day activation system that stops silent churn: define the aha moment, patch signup leaks, trigger behavior-based nudges, and save cancelling users.
@@ -27,4 +27,3 @@ Full details and current price: https://probiex.gumroad.com/l/silent-churn-rescu
 
 - [SaaS Activation &amp; Retention OS](https://probiex.gumroad.com/l/activation-retention)
 - [The Transactional Email Kit](https://probiex.gumroad.com/l/transactional-email-kit)
-

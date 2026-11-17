@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: FREE · 20 CHECKS
 url: https://probiex.gumroad.com/l/free-landing-page-checklist
 audience: Founders about to launch or unhappy with a silent page; free check.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A free 20-point pass-or-miss leak check for SaaS and product landing pages, with a one-line fix for every miss and score bands for polish, patch, or rebuild.
@@ -24,4 +24,3 @@ Full details and current price: https://probiex.gumroad.com/l/free-landing-page-
 ## Related systems
 
 - [The Landing Page Conversion Audit](https://probiex.gumroad.com/l/landing-page-conversion-audit)
-

@@ -4,7 +4,7 @@ category: FINANCE
 format: BANDS + TIERS
 url: https://probiex.gumroad.com/l/pricing-calculator
 audience: SaaS founders and indie hackers setting or resetting prices.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 An XLSX pricing method and PDF guide: a Van Westendorp survey, a value-metric test, and three-tier structure rules for setting or resetting prices.
@@ -26,4 +26,3 @@ Full details and current price: https://probiex.gumroad.com/l/pricing-calculator
 
 - [Offer &amp; Pricing Stress Test](https://probiex.gumroad.com/l/offer-pricing-stress-test)
 - [Founder Finance Bundle](https://probiex.gumroad.com/l/founder-finance-bundle)
-

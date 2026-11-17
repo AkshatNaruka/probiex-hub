@@ -4,7 +4,7 @@ category: BUNDLE
 format: 3 SYSTEMS · ONE CHECKOUT
 url: https://probiex.gumroad.com/l/notion-founder-bundle
 audience: Founders standardizing one workspace.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 Three Notion systems in one bundle (Founder CRM, Content Calendar, and Indie Hacker OS): full build specs plus setup guides for a one-workspace business.
@@ -25,4 +25,3 @@ Full details and current price: https://probiex.gumroad.com/l/notion-founder-bun
 
 - [Freelance Client Portal for Notion](https://probiex.gumroad.com/l/client-portal-os)
 - [Notion Meeting OS](https://probiex.gumroad.com/l/meeting-os)
-

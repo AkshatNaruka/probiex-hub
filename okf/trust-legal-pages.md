@@ -4,7 +4,7 @@ category: SHIP SAFE
 format: 6 PAGES + INVENTORY
 url: https://probiex.gumroad.com/l/trust-legal-pages
 audience: SaaS founders and indie hackers launching paid web applications.
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 A SaaS legal pages pack: six plain-English trust and compliance pages an app needs before checkout, with clause annotations and a 24-point publish checklist.
@@ -29,4 +29,3 @@ Full details and current price: https://probiex.gumroad.com/l/trust-legal-pages
 
 - [Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue)
 - [The Security Questionnaire Vault](https://probiex.gumroad.com/l/security-questionnaire)
-

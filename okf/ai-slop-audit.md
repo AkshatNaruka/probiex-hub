@@ -4,7 +4,7 @@ category: AI & PROMPTS
 format: 20-TELL AUDIT
 url: https://probiex.gumroad.com/l/ai-slop-audit
 audience: Founders, creators, and teams publishing anything AI-assisted.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A 20-tell scorecard and 15-minute audit that finds AI-sounding writing before you publish, with a rewrite table that turns vague claims into specific ones.
@@ -27,4 +27,3 @@ Full details and current price: https://probiex.gumroad.com/l/ai-slop-audit
 
 - [GEO Operations System](https://probiex.gumroad.com/l/geo-operations-system)
 - [SaaS Founder Copy Vault](https://probiex.gumroad.com/l/saas-founder-copy-vault)
-

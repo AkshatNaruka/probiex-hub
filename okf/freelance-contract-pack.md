@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: 6 DOCUMENTS
 url: https://probiex.gumroad.com/l/freelance-contract-pack
 audience: Freelancers and solo operators signing clients without a lawyer on retainer.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 Six fill-in freelance documents: a master services agreement, SOW, mutual NDA, IP assignment, change order, and deposit rider, with a plain-English guide.
@@ -26,4 +26,3 @@ Full details and current price: https://probiex.gumroad.com/l/freelance-contract
 
 - [The Late-Payment Playbook](https://probiex.gumroad.com/l/late-payment-playbook)
 - [Freelance 1099 &amp; Tax Planner](https://probiex.gumroad.com/l/freelance-1099-tax)
-

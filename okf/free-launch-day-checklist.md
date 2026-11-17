@@ -4,7 +4,7 @@ category: BUILDS
 format: 40 CHECKS
 url: https://probiex.gumroad.com/l/free-launch-day-checklist
 audience: Founders inside the launch week who are assembling the plane while flying it; free.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 Forty free ordered checks for launch day from T-24h through T+72h: product ready, checkout tested, content staged, first-day replies, and the retro.
@@ -24,4 +24,3 @@ Full details and current price: https://probiex.gumroad.com/l/free-launch-day-ch
 ## Related systems
 
 - [Launch Week Email Kit](https://probiex.gumroad.com/l/launch-week-email-kit)
-

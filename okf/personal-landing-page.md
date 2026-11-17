@@ -4,7 +4,7 @@ category: BUILDS
 format: ONE FILE · 0 DEPS
 url: https://probiex.gumroad.com/l/personal-landing-page
 audience: Freelancers and solo operators who need one shareable link instead of an unfinished site.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A one-page personal site as a single dependency-free HTML file: dark and light mode, work cards, services, notes, and a contact panel, deployable anywhere.
@@ -26,4 +26,3 @@ Full details and current price: https://probiex.gumroad.com/l/personal-landing-p
 
 - [Free Landing Page Leak Check](https://probiex.gumroad.com/l/free-landing-page-checklist)
 - [The Freelance Contract Pack](https://probiex.gumroad.com/l/freelance-contract-pack)
-

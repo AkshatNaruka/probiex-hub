@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/indie-launch-execu
 ## Related systems
 
 - [resource for the next step](https://probiex.gumroad.com/l/launch-week-email-kit)
-

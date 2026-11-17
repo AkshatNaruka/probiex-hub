@@ -4,7 +4,7 @@ category: GET FOUND
 format: AHA BLUEPRINT + 7-DAY NUDGES
 url: https://probiex.gumroad.com/l/activation-retention
 audience: SaaS founders and product teams focused on trial activation and customer retention.
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 A SaaS activation and retention playbook: an aha-moment mapping framework, a 7-day onboarding sequence, a 10-point churn scorecard, and cohort reviews.
@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/activation-retenti
 
 - [The Transactional Email Kit](https://probiex.gumroad.com/l/transactional-email-kit)
 - [SaaS Metrics Dashboard Kit](https://probiex.gumroad.com/l/saas-metrics-dashboard)
-

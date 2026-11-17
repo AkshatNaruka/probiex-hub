@@ -4,7 +4,7 @@ category: BUILDS
 format: NOTION + PDF
 url: https://probiex.gumroad.com/l/free-one-page-business-plan
 audience: Indie hackers and solo founders who keep their plan in 40 open tabs; free.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A free one-page business plan for Notion or print: nine sections, a 20-minute build spec, a Monday review rule, and a worked indie SaaS example.
@@ -25,4 +25,3 @@ Full details and current price: https://probiex.gumroad.com/l/free-one-page-busi
 ## Related systems
 
 - [The Indie Hacker OS](https://probiex.gumroad.com/l/indie-hacker-os)
-

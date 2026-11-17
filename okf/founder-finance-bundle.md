@@ -4,7 +4,7 @@ category: BUNDLE
 format: 6 WORKBOOKS · ONE CHECKOUT
 url: https://probiex.gumroad.com/l/founder-finance-bundle
 audience: Founders who want the full finance picture instead of one spreadsheet.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 Six finance workbooks and PDF guides in one bundle: rate floor, runway, break-even CAC, the ten SaaS metrics, pricing bands, and a 90-day cash forecast.
@@ -28,4 +28,3 @@ Full details and current price: https://probiex.gumroad.com/l/founder-finance-bu
 
 - [Offer &amp; Pricing Stress Test](https://probiex.gumroad.com/l/offer-pricing-stress-test)
 - [Freelance 1099 &amp; Tax Planner](https://probiex.gumroad.com/l/freelance-1099-tax)
-

@@ -10,7 +10,7 @@
 # Gumroad page slugs cannot contain a dot, so the literal /ads.txt path is
 # served by the AI hub, not Gumroad. The Gumroad mirror has the same content.
 #
-# Content hash: 420b1e5f6cb6fc23
+# Content hash: 063c5b9a3bb1141d
 # Last updated: 2026-11-17
 # Catalog: 69 live, 1 draft, 14 deep briefs
 #

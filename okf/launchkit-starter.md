@@ -4,7 +4,7 @@ category: BUILDS
 format: NEXT.JS STARTER
 url: https://probiex.gumroad.com/l/launchkit-starter
 audience: Solo founders and indie hackers who want their first paying customer, not their fiftieth config file.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A production-ready Next.js starter with Clerk auth, Stripe subscriptions, Drizzle ORM, i18n, dark mode, tests, and CI. Clone it, fill env vars, deploy.
@@ -26,4 +26,3 @@ Full details and current price: https://probiex.gumroad.com/l/launchkit-starter
 
 - [The Trust &amp; Legal Pages Pack](https://probiex.gumroad.com/l/trust-legal-pages)
 - [Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue)
-

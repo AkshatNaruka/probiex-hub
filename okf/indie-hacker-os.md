@@ -4,7 +4,7 @@ category: OPERATIONS
 format: 6 DATABASES
 url: https://probiex.gumroad.com/l/indie-hacker-os
 audience: Solo developers building digital products.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A six-database Notion OS for indie builders: idea scoring, project tracking, revenue math, audience stats, a learning log, and a weekly ops dashboard.
@@ -27,4 +27,3 @@ Full details and current price: https://probiex.gumroad.com/l/indie-hacker-os
 
 - [Free One-Page Business Plan](https://probiex.gumroad.com/l/free-one-page-business-plan)
 - [Notion Founder Bundle](https://probiex.gumroad.com/l/notion-founder-bundle)
-

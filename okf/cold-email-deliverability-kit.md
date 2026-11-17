@@ -4,7 +4,7 @@ category: GET FOUND
 format: CLI + DNS TEMPLATES
 url: https://probiex.gumroad.com/l/cold-email-deliverability-kit
 audience: Founders and outbound operators running cold outreach or transactional email.
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 A cold email deliverability kit and DNS playbook: a zero-dependency CLI checker (inbox-check), copy-paste SPF/DKIM/DMARC records, and a 14-day warmup guide.
@@ -31,4 +31,3 @@ Full details and current price: https://probiex.gumroad.com/l/cold-email-deliver
 - [25 Free Cold Email First Lines](https://probiex.gumroad.com/l/free-cold-email-openers)
 - [The Warm Outbound Engine](https://probiex.gumroad.com/l/warm-outbound)
 - [Cold Outreach Reply Pack](https://probiex.gumroad.com/l/cold-outreach-reply-pack)
-

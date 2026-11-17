@@ -4,7 +4,7 @@ category: OPERATIONS
 format: NOTION · CONTENT
 url: https://probiex.gumroad.com/l/notion-content-calendar
 audience: Founders and creators running their own distribution.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A Notion content database spec with pillars, formats, repurposing links, and performance fields: it turns one idea into five posts, built in a single session.
@@ -26,4 +26,3 @@ Full details and current price: https://probiex.gumroad.com/l/notion-content-cal
 - [X / Twitter Growth Playbook](https://probiex.gumroad.com/l/x-growth-playbook)
 - [90-Day LinkedIn Content Playbook](https://probiex.gumroad.com/l/linkedin-content-playbook)
 - [Notion Founder Bundle](https://probiex.gumroad.com/l/notion-founder-bundle)
-

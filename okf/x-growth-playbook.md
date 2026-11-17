@@ -4,7 +4,7 @@ category: GET FOUND
 format: PLAYBOOK + CALENDAR
 url: https://probiex.gumroad.com/l/x-growth-playbook
 audience: Solo founders, technical creators, and indie hackers building organic distribution.
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 An organic X and Twitter growth playbook and self-paced course for solo founders: 50 hook frameworks, a 30-day content calendar, and launch thread teardowns.
@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/x-growth-playbook
 
 - [Compliant LinkedIn Automation Stack](https://probiex.gumroad.com/l/linkedin-automation-stack)
 - [The Warm Outbound Engine](https://probiex.gumroad.com/l/warm-outbound)
-

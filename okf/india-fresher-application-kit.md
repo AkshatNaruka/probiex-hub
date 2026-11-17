@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/india-fresher-appl
 ## Related systems
 
 - [resource for the next step](https://probiex.gumroad.com/l/ats-resume-pack)
-

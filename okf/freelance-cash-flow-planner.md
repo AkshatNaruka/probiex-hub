@@ -4,7 +4,7 @@ category: FINANCE
 format: 90-DAY FORECAST
 url: https://probiex.gumroad.com/l/freelance-cash-flow-planner
 audience: Freelancers with variable income and fixed costs.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A 13-week XLSX cash-flow model for freelancers: probability-weighted incoming payments, fixed commitments, and weekly runway; shortfalls surface early.
@@ -26,4 +26,3 @@ Full details and current price: https://probiex.gumroad.com/l/freelance-cash-flo
 
 - [The Late-Payment Playbook](https://probiex.gumroad.com/l/late-payment-playbook)
 - [Freelance 1099 &amp; Tax Planner](https://probiex.gumroad.com/l/freelance-1099-tax)
-

@@ -4,7 +4,7 @@ category: BUNDLE
 format: 4 SYSTEMS · ONE CHECKOUT
 url: https://probiex.gumroad.com/l/launch-bundle
 audience: Founders approaching launch week, covering everything from first touch to first revenue.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 Four launch systems in one bundle: 40+ outreach replies, the seven launch emails, a 30-day ship plan, and the warm-signal first-100 playbook.
@@ -26,4 +26,3 @@ Full details and current price: https://probiex.gumroad.com/l/launch-bundle
 
 - [Free Launch Day Checklist: 40 Checks](https://probiex.gumroad.com/l/free-launch-day-checklist)
 - [The X / Twitter Growth Playbook](https://probiex.gumroad.com/l/x-growth-playbook)
-

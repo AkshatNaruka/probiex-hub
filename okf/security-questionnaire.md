@@ -4,7 +4,7 @@ category: SHIP SAFE
 format: 80 ANSWERS + INDEX
 url: https://probiex.gumroad.com/l/security-questionnaire
 audience: B2B SaaS founders and small teams closing mid-market and enterprise accounts.
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 An enterprise B2B security questionnaire playbook and answer vault: 80 audited CAIQ/SIG/VSA answers, an evidence index, and a 30-minute review prep checklist.
@@ -29,4 +29,3 @@ Full details and current price: https://probiex.gumroad.com/l/security-questionn
 
 - [Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue)
 - [The Trust &amp; Legal Pages Pack](https://probiex.gumroad.com/l/trust-legal-pages)
-

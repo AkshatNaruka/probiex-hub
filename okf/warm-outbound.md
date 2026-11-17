@@ -4,7 +4,7 @@ category: GET FOUND
 format: 5-TOUCH CADENCE + 40 TEMPLATES
 url: https://probiex.gumroad.com/l/warm-outbound
 audience: Agencies, consultants, and B2B SaaS founders who want predictable client acquisition.
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 A B2B warm outbound playbook and sales system: 8 buying-signal triggers, an 18-day 5-touch sequence, 40 reply templates, and a weekly pipeline review.
@@ -31,4 +31,3 @@ Full details and current price: https://probiex.gumroad.com/l/warm-outbound
 - [25 Free Cold Email First Lines](https://probiex.gumroad.com/l/free-cold-email-openers)
 - [Cold Email Deliverability &amp; DNS Kit](https://probiex.gumroad.com/l/cold-email-deliverability-kit)
 - [Cold Outreach Reply Pack](https://probiex.gumroad.com/l/cold-outreach-reply-pack)
-

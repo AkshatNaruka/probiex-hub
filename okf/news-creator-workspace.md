@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/news-creator-works
 ## Related systems
 
 - [resource for the next step](https://probiex.gumroad.com/l/news-carousel-studio)
-

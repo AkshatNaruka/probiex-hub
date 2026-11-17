@@ -4,7 +4,7 @@ category: GET FOUND
 format: CLI + N8N + GUIDES
 url: https://probiex.gumroad.com/l/linkedin-automation-stack
 audience: B2B founders, agencies, and consultants who want consistent LinkedIn distribution without manual work or ban risk.
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 An official REST API-compliant LinkedIn automation stack and playbook: a Node.js CLI scheduler, n8n workflow templates, and OAuth rate-limit safety guides.
@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/linkedin-automatio
 
 - [90-Day LinkedIn Content Playbook](https://probiex.gumroad.com/l/linkedin-content-playbook)
 - [Notion Content Calendar](https://probiex.gumroad.com/l/notion-content-calendar)
-

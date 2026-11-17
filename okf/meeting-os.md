@@ -4,7 +4,7 @@ category: OPERATIONS
 format: NOTION · MEETINGS
 url: https://probiex.gumroad.com/l/meeting-os
 audience: Solo founders and freelancers whose meetings with clients, leads, and contractors produce notes but no follow-through.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A Notion meeting system: notes, decisions, and owner-assigned actions, with a 15-minute Friday review that closes every loop the week opened.
@@ -26,4 +26,3 @@ Full details and current price: https://probiex.gumroad.com/l/meeting-os
 
 - [Freelance Client Portal for Notion](https://probiex.gumroad.com/l/client-portal-os)
 - [Notion Founder CRM](https://probiex.gumroad.com/l/notion-founder-crm)
-

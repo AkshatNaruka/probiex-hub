@@ -4,7 +4,7 @@ category: RUN SOLO
 format: MODEL + CHECKLIST
 url: https://probiex.gumroad.com/l/freelance-1099-tax
 audience: Freelancers, 1099 independent contractors, and single-member LLC solopreneurs.
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 A freelance 1099 tax planner and playbook: a 5-step quarterly 1040-ES calculation model, a 50-point Schedule C deduction checklist, and W-9 invoice clauses.
@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/freelance-1099-tax
 
 - [The Freelance Cash-Flow Planner](https://probiex.gumroad.com/l/freelance-cash-flow-planner)
 - [The Late-Payment Playbook](https://probiex.gumroad.com/l/late-payment-playbook)
-

@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: 90 DAYS
 url: https://probiex.gumroad.com/l/linkedin-content-playbook
 audience: SaaS founders growing an audience that actually converts.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A 90-day, day-by-day LinkedIn playbook for SaaS founders: five content pillars, weekly post plans, hook formulas, and the metrics that matter.
@@ -27,4 +27,3 @@ Full details and current price: https://probiex.gumroad.com/l/linkedin-content-p
 
 - [Compliant LinkedIn Automation Stack](https://probiex.gumroad.com/l/linkedin-automation-stack)
 - [Notion Content Calendar](https://probiex.gumroad.com/l/notion-content-calendar)
-

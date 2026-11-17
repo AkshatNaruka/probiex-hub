@@ -4,7 +4,7 @@ category: SHIP SAFE
 format: EVAL HARNESS + RUNBOOKS
 url: https://probiex.gumroad.com/l/ai-agent-production
 audience: AI engineers and founders building autonomous or tool-calling LLM agents.
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 An AI agent production engineering playbook: a Node.js eval CLI (agent-eval), 15 injection benchmarks, tool-permission guardrails, and cost runbooks.
@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/ai-agent-productio
 
 - [AI Agent Blueprint Stack](https://probiex.gumroad.com/l/ai-agent-blueprint-stack)
 - [The Vibe-Code Rescue Kit](https://probiex.gumroad.com/l/vibe-code-rescue)
-

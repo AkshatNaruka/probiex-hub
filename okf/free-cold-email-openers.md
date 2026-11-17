@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: FREE · 25 LINES
 url: https://probiex.gumroad.com/l/free-cold-email-openers
 audience: Founders and freelancers doing outbound who get silence, not replies; free pack.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 Twenty-five first lines for cold emails, grouped by scenario, plus the five rules that keep an opener about the recipient instead of the sender.
@@ -24,4 +24,3 @@ Full details and current price: https://probiex.gumroad.com/l/free-cold-email-op
 ## Related systems
 
 - [Cold Outreach Reply Pack](https://probiex.gumroad.com/l/cold-outreach-reply-pack)
-

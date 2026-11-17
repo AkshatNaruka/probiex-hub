@@ -4,7 +4,7 @@ category: OPERATIONS
 format: NOTION · PORTAL
 url: https://probiex.gumroad.com/l/client-portal-os
 audience: Freelancers and solo operators juggling 3 to 8 clients over email and Slack.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A Notion build spec for a client-facing portal: deliverables, milestones, approvals, and a decision log clients can check themselves.
@@ -26,4 +26,3 @@ Full details and current price: https://probiex.gumroad.com/l/client-portal-os
 
 - [Notion Meeting OS](https://probiex.gumroad.com/l/meeting-os)
 - [One-Person Agency Engine](https://probiex.gumroad.com/l/solo-agency-engine)
-

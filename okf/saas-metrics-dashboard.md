@@ -4,7 +4,7 @@ category: FINANCE
 format: XLSX + PDF
 url: https://probiex.gumroad.com/l/saas-metrics-dashboard
 audience: SaaS founders who want a Monday-morning numbers ritual.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 A two-sheet XLSX SaaS metrics dashboard that computes MRR, net-new MRR, LTV:CAC, retention, NRR, CAC payback, churn, and conversion from nine pasted inputs.
@@ -25,4 +25,3 @@ Full details and current price: https://probiex.gumroad.com/l/saas-metrics-dashb
 
 - [SaaS Activation &amp; Retention OS](https://probiex.gumroad.com/l/activation-retention)
 - [Founder Finance Bundle](https://probiex.gumroad.com/l/founder-finance-bundle)
-

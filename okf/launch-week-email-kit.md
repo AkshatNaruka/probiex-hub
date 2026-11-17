@@ -4,7 +4,7 @@ category: GETTING CUSTOMERS
 format: 7 EMAILS
 url: https://probiex.gumroad.com/l/launch-week-email-kit
 audience: Founders launching on Gumroad, Product Hunt, or their own list.
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 The seven launch emails: announcement, story, proof, objection-handler, FAQ, last-call, and doors-closed, with subject lines, body copy, and send-day timing.
@@ -26,4 +26,3 @@ Full details and current price: https://probiex.gumroad.com/l/launch-week-email-
 - [Free Launch Day Checklist: 40 Checks](https://probiex.gumroad.com/l/free-launch-day-checklist)
 - [Ship Your SaaS in 30 Days](https://probiex.gumroad.com/l/ship-saas-30-days)
 - [Launch Bundle](https://probiex.gumroad.com/l/launch-bundle)
-

@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/package-doctor-cli
 ## Related systems
 
 - [resource for the next step](https://probiex.gumroad.com/l/indie-launch-execution-kit)
-

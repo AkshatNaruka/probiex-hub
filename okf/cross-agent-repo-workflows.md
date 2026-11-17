@@ -30,4 +30,3 @@ Full details and current price: https://probiex.gumroad.com/l/cross-agent-repo-w
 ## Related systems
 
 - [resource for the next step](https://probiex.gumroad.com/l/ai-agent-production)
-
